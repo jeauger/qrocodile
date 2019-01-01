@@ -131,12 +131,9 @@ def handle_command(qrcode):
         perform_room_request('linein/' + urllib.quote(args.linein_source))
         perform_room_request('play')
         phrase = 'I\'ve activated the turntable'
-    elif qrcode == 'cmd:livingroom':
-        switch_to_room('Living Room')
-        phrase = 'I\'m switching to the living room'
-    elif qrcode == 'cmd:diningandkitchen':
-        switch_to_room('Dining Room')
-        phrase = 'I\'m switching to the dining room'
+    elif qrcode == 'cmd:bureau':
+        switch_to_room('Bureau')
+        phrase = 'I\'m switching to the bureau'
     elif qrcode == 'cmd:songonly':
         current_mode = Mode.PLAY_SONG_IMMEDIATELY
         phrase = 'Show me a card and I\'ll play that song right away'
