@@ -258,7 +258,7 @@ if args.debug_file:
     read_debug_script()
 else:
     # Start the QR code reader
-    p = os.popen('/usr/bin/zbarcam --prescale=300x200', 'r')
+    p = os.popen('/usr/bin/zbarcam --prescale=640x480', 'r')
     try:
         start_scan()
     except KeyboardInterrupt:
