@@ -31,8 +31,8 @@ import urllib2
 
 # Parse the command line arguments
 arg_parser = argparse.ArgumentParser(description='Translates QR codes detected by a camera into Sonos commands.')
-arg_parser.add_argument('--default-device', default='Bureau', help='the name of your default device/room')
-arg_parser.add_argument('--linein-source', default='Bureau', help='the name of the device/room used as the line-in source')
+arg_parser.add_argument('--default-device', default='Chambre de Zoe', help='the name of your default device/room')
+arg_parser.add_argument('--linein-source', default='Chambre de Zoe', help='the name of the device/room used as the line-in source')
 arg_parser.add_argument('--hostname', default='localhost', help='the hostname or IP address of the machine running `node-sonos-http-api`')
 arg_parser.add_argument('--skip-load', action='store_true', help='skip loading of the music library (useful if the server has already loaded it)')
 arg_parser.add_argument('--debug-file', help='read commands from a file instead of launching scanner')
@@ -131,9 +131,9 @@ def handle_command(qrcode):
         perform_room_request('linein/' + urllib.quote(args.linein_source))
         perform_room_request('play')
         phrase = 'I\'ve activated the turntable'
-    elif qrcode == 'cmd:bureau':
-        switch_to_room('Bureau')
-        phrase = 'I\'m switching to the bureau'
+    elif qrcode == 'cmd:zoe':
+        switch_to_room('Chambre de Zoe')
+        phrase = 'I\'m switching to Zoe\'s room'
     elif qrcode == 'cmd:songonly':
         current_mode = Mode.PLAY_SONG_IMMEDIATELY
         phrase = 'Show me a card and I\'ll play that song right away'
