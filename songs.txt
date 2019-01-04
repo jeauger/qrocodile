@@ -1,0 +1,12 @@
+lib:b71cbd4cac88d00f0bb136e19cb81175 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Petit Escargot
+lib:513d332c2d38fa645227fc4a8e40abe4 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les Petits Poissons Dans L'eau
+lib:de5d4204e41e028b6ca00ec585dd9474 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Grand Cerf
+lib:41a31d48d7fddee1af782376f712b83f # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les Cro Cro
+lib:6d1ea4ad80b7c8344189e24b67bd6ef3 # Passe Partout > 20 ans ça se fête! > Brosse, brosse, brosse
+lib:fa3212cf86436ed24bdd8438bdfcd3f8 # Passe Partout > 20 ans ça se fête! > Les poissons
+lib:bb05170ac8f7d62a0ef4274dceee3669 # Passe Partout > 20 ans ça se fête! > Les grenouilles
+lib:3360e987c9c5b61bb7077827084606e6 # Passe Partout > 20 ans ça se fête! > Des maisons
+lib:fcf06ba83a8bddd14c723c6fe28cb862 # Passe Partout > 20 ans ça se fête! > Les métiers
+lib:7590189f0333d3fdae2cdce2fd3e265b # Passe Partout > 20 ans ça se fête! > J'ai deux yeux
+lib:272adc60bf0de269679e3a1a06fd52e1 # Passe Partout > 20 ans ça se fête! > Les beaux légumes
+lib:b576f25ba3b14e96a755eecac7d4e413 # Passe Partout > 20 ans ça se fête! > On range tout

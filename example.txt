@@ -1,9 +1,0 @@
-lib:ef3995bbc8352cb136a2ec62a0977325 # Machine Head > Through The Ashes Of Empires > Imperium
-cmd:playpause
-cmd:next
-cmd:bureau
-cmd:songonly
-cmd:wholealbum
-cmd:buildqueue
-cmd:whatsong
-cmd:whatnext

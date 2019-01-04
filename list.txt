@@ -1,0 +1,1969 @@
+Namespace(generate_images=False, hostname='10.0.1.32', input=None, list_library=True, spotify_username=None)
+http://10.0.1.32:5005/musicsearch/library/listall
+lib:cb9ee00df88c42825a50091e69957b3c # (Comptines) Rémi - Gérard Beauchamp - Nadège Vacante - Marie-Françoise C > 80 Comptines À Mimer Et Jeux De Doigts > Jean Petit Qui Danse
+lib:087cc63b75b95c7a8273207ab0e44b0a # 65daysofstatic > One Time for All Time > Drove Through Ghosts to Get Here
+lib:74595d65beddbfd2911e04afed989949 # 65daysofstatic > One Time for All Time > Await Rescue
+lib:9bb1b847c2e384699dfb36f6ee66a664 # 65daysofstatic > One Time for All Time > 23Kid
+lib:414bd017aa70fdda398d0a10a502a9c0 # 65daysofstatic > One Time for All Time > Welcome to the Times
+lib:b9cce3055fa7959b6a9c5a727446a352 # 65daysofstatic > One Time for All Time > Mean Low Water
+lib:a0ba6c3c64ffa901ceeacc93ef164f26 # 65daysofstatic > One Time for All Time > Climbing on Roofs (the Desperate Edit)
+lib:c1b92d76727f59196912171d3e016913 # 65daysofstatic > One Time for All Time > The Big Afraid
+lib:24282b68ba5601e6192637ec62b129f6 # 65daysofstatic > One Time for All Time > 65 Doesn't Understand You
+lib:f67cf10443f3b0f84fedf650981ebc32 # 65daysofstatic > One Time for All Time > Radio Protector
+lib:31f1f2206b8bd3e277f3728cf26ee22b # 65daysofstatic > The Destruction of Small Ideas > When We Were Younger & Better
+lib:cd40b890d1899aebabb938502e7ad555 # 65daysofstatic > The Destruction of Small Ideas > A Failsafe
+lib:5da91e3f167402747f89a024a69a07c6 # 65daysofstatic > The Destruction of Small Ideas > Don't Go Down to Sorrow
+lib:1895f2c072aefb141b4fac2a4e105c23 # 65daysofstatic > The Destruction of Small Ideas > Wax Futures
+lib:8134b1edef7ee2226fe96fd25f6f1ee5 # 65daysofstatic > The Destruction of Small Ideas > These Things You Can't Unlearn
+lib:76787d57a2e65d7d68097378ff66527e # 65daysofstatic > The Destruction of Small Ideas > Lyonesse
+lib:5500aba2c8c723f3bf8a905d94f5a58d # 65daysofstatic > The Destruction of Small Ideas > Music Is Music as Devices Are Kisses Is Everything
+lib:fd4cad5844b1e8ca22d415430e2856bc # 65daysofstatic > The Destruction of Small Ideas > The Distant & Mechanised Glow of Eastern European Dance Parties
+lib:0cd8881099f467ed9de55a36e5c9e322 # 65daysofstatic > The Destruction of Small Ideas > Little Victories
+lib:6641fbae1a405635fe56b67b19431c6b # 65daysofstatic > The Destruction of Small Ideas > Primer
+lib:3dc6415b47403bf42c04959d1a883898 # 65daysofstatic > The Destruction of Small Ideas > White Peak/Dark Peak
+lib:9ed549ce75d4aa08fd1c813aa575950b # 65daysofstatic > The Destruction of Small Ideas > The Conspiracy of Seeds
+lib:fc1612c641c3af47e4db92b4538d0932 # 65daysofstatic > The Fall of Math > Another Code Against the Gone
+lib:79a5f224b13d85c7691e70ca8f3550c9 # 65daysofstatic > The Fall of Math > Intall a Beak In the Heart That Clucks Time In Arabic
+lib:835198e798ddac5f54d2a771df43b881 # 65daysofstatic > The Fall of Math > Retreat! Retreat!
+lib:3906c4ea8833d5dd0e6ad065c507b4df # 65daysofstatic > The Fall of Math > Default This
+lib:70d18579b83a15f9acf5098aff7c82a4 # 65daysofstatic > The Fall of Math > I Swallowed Hard, Like I Understood
+lib:22246a07d159a924dec22a41dbb9efd2 # 65daysofstatic > The Fall of Math > The Fall of Math
+lib:0087fd0c0cd511eb35ed9dc3a040b36d # 65daysofstatic > The Fall of Math > This Cat Is a Landmine
+lib:199dc34dc91c7e9016cc314257bab386 # 65daysofstatic > The Fall of Math > The Last Home Recording
+lib:e9f4b9ac29ae6cb31ee4e24d734d4a11 # 65daysofstatic > The Fall of Math > Hole
+lib:cadd203d916b2116c2626949264952b5 # 65daysofstatic > The Fall of Math > Fix the Sky a Little
+lib:d1702e6c19a6c9a076d89a8b9f8492ad # 65daysofstatic > The Fall of Math > Aren't We All Running?
+lib:9990abacfd77e574f26b7d1b2df6a662 # AC/DC > AC/DC Live > Thunderstruck
+lib:d0cd06e23c6895e342263d9e9f42ac4c # AC/DC > AC/DC Live > Shoot To Thrill
+lib:4ef2a4582b1ecaae57814c34e61c042e # AC/DC > AC/DC Live > Back In Black
+lib:9fd59da20efce4b2cb4aabe42b5d55f5 # AC/DC > AC/DC Live > Who Made Who
+lib:53640c7f095607bfd62d931eacac4416 # AC/DC > AC/DC Live > Heatseeker
+lib:9de0cdaec85a04bb73e4475d2454c1dc # AC/DC > AC/DC Live > The Jack
+lib:a208c9a07e2046aa650e7e82e5e8412b # AC/DC > AC/DC Live > Moneytalks
+lib:a5872edc38ba9449a01ba7540a7d45c0 # AC/DC > AC/DC Live > Hells Bells
+lib:4eb8ba3d13ad0cfd172479fd54ae3e14 # AC/DC > AC/DC Live > Dirty Deeds Done Dirt Cheap
+lib:2f79cadd92215fa76724b75d034172c2 # AC/DC > AC/DC Live > Whole Lotta Rosie
+lib:c6f7ff7afeb605aa65678f0ba849e8ee # AC/DC > AC/DC Live > You Shook Me All Night Long
+lib:acacc1b8b5a8c244f35e0c24cb5fedfc # AC/DC > AC/DC Live > Highway To Hell
+lib:d9bc250dbd712feca2f4913d6e059caf # AC/DC > AC/DC Live > T.N.T.
+lib:026bfb393435774bbdd5dd422ff9b316 # AC/DC > AC/DC Live > For Those About To Rock (We Salute You)
+lib:a9f18f41e4bff5e285c8e3c707441dda # AC/DC > Black Ice > Rock 'N Roll Train
+lib:27148c22517d016b0e933ee7a2449bef # AC/DC > Black Ice > Skies On Fire
+lib:40fe8a6be7b3e7d3f63f001ba7104e2e # AC/DC > Black Ice > Big Jack
+lib:64438cca2f0e78913bc13f8825719540 # AC/DC > Black Ice > Anything Goes
+lib:4344a495a3e9eb57b76e893b7d49dac0 # AC/DC > Black Ice > War Machine
+lib:44849d0c787dbb5377e38a41199f885c # AC/DC > Black Ice > Smash 'N Grab
+lib:28a5cf74149b310bdc4f0c5b469b5e29 # AC/DC > Black Ice > Spoilin' For A Fight
+lib:f58484b571295ab6af4c650017ee3fdf # AC/DC > Black Ice > Wheels
+lib:5726ab91a84eb18c2f316082d68444f4 # AC/DC > Black Ice > Decibel
+lib:36f138306bd7fb4ef380e53e7826a5db # AC/DC > Black Ice > Stormy May Day
+lib:dbdf201964ddf0f92441616c9962a016 # AC/DC > Black Ice > She Likes Rock 'N Roll
+lib:264782ca06d99044c4865762c914072a # AC/DC > Black Ice > Money Made
+lib:8bafc466fb9bc434851b7fd55081d15f # AC/DC > Black Ice > Rock 'N Roll Dream
+lib:fa7cbd26ef95396fc6d92a4951393983 # AC/DC > Black Ice > Rocking All The Way
+lib:4ad84ee53e5d25dd9e9ce9cba52a43f0 # AC/DC > Black Ice > Black Ice
+lib:da4ea70c70e62fad7f0e620a327f8595 # AC/DC > Dirty Deeds Done Dirt Cheap > Dirty Deeds Done Dirt Cheap
+lib:bb2008e400119a3bb0e1c4ef1fd38296 # AC/DC > Dirty Deeds Done Dirt Cheap > Love At First Feel
+lib:c8b9dbc07d6346f3dd91bd5bb8fc5235 # AC/DC > Dirty Deeds Done Dirt Cheap > Big Balls
+lib:91d3e12395cb056e613379a60fbf06f7 # AC/DC > Dirty Deeds Done Dirt Cheap > Rocker
+lib:6c980ac5d0cb11db02838396002bde4f # AC/DC > Dirty Deeds Done Dirt Cheap > Problem Child
+lib:aabbbe5a671f7ecbce1020f69cefd2c4 # AC/DC > Dirty Deeds Done Dirt Cheap > There's Gonna Be Some Rockin'
+lib:524b733662453ce5f115d6b4aae2635e # AC/DC > Dirty Deeds Done Dirt Cheap > Ain't No Fun (Waiting Round To Be A Millionaire)
+lib:adcda405511c57cb767e159f703097f5 # AC/DC > Dirty Deeds Done Dirt Cheap > Ride On
+lib:00fde26fdb08de4c32f7fc9bae39ea3f # AC/DC > Dirty Deeds Done Dirt Cheap > Squealer
+lib:6cb8237d5b0eec6555822f0d9ebe0eb5 # AC/DC > For Those About To Rock We Salute You > For Those About To Rock (We Salute You)
+lib:c7218f11a3345b6ac5f2c80ad60e4b9f # AC/DC > For Those About To Rock We Salute You > Put The Finger On You
+lib:dd6dee463737fa1406d53c8771969ab1 # AC/DC > For Those About To Rock We Salute You > Let's Get It Up
+lib:d039ce017165bb6320bba979d6cb994d # AC/DC > For Those About To Rock We Salute You > Inject The Venom
+lib:64dba97e6392f2400f9170daa121d3fc # AC/DC > For Those About To Rock We Salute You > Snowballed
+lib:a9b8d3ec601acc4a58208233e7b2fc39 # AC/DC > For Those About To Rock We Salute You > Evil Walks
+lib:d473bd1b916ea9097a00a327643f2a5c # AC/DC > For Those About To Rock We Salute You > C.O.D.
+lib:34a5372576772dae4c266fcbd228d4b8 # AC/DC > For Those About To Rock We Salute You > Breaking The Rules
+lib:fe334162f3250c16f002cae673584579 # AC/DC > For Those About To Rock We Salute You > Night Of The Long Knives
+lib:1892c87765a134de126513716b1f2a61 # AC/DC > For Those About To Rock We Salute You > Spellbound
+lib:40944157274d38753b0a6eab1c65a765 # AC/DC > Let There Be Rock > Go Down
+lib:f09d9061121c394987a7e2dfa4392050 # AC/DC > Let There Be Rock > Dog Eat Dog
+lib:ea83d138bab821143dced500ac462fef # AC/DC > Let There Be Rock > Let There Be Rock
+lib:6b65d4546f284b8c1003eef10eb4e443 # AC/DC > Let There Be Rock > Bad Boy Boogie
+lib:06d219087f21c7618fb1bb025d68900f # AC/DC > Let There Be Rock > Problem Child
+lib:ff7271f099c265758c0aacfd26f52c2e # AC/DC > Let There Be Rock > Overdose
+lib:234e02066770e377316164a5303ef2dc # AC/DC > Let There Be Rock > Hell Ain't A Bad Place To Be
+lib:f4fe9a5d0d1728ac1687cd3649bb843e # AC/DC > Let There Be Rock > Whole Lotta Rosie
+lib:4f10633c4c74393d1403973ab254bdce # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Mon Cochon C'est Mon Copain
+lib:243be14553bdfc0a4c6eac447c8d6fa5 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Ultra Def'
+lib:8a0fe06eddcc5d130c4138adc9d817fc # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > V'la L'Facteur
+lib:d2e9cb97c2c4779198ded98816721936 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Ben Johnson Blues
+lib:59f7198ab759deec2f7fe10389ae196b # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Boum Boum
+lib:e1b7a9a85b4a9f862d09cbf1fcf12907 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Les Quotas Laitiers
+lib:6492497e227223765a85dd2fb38e962b # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Xubero Eta Nafarroa
+lib:e6904c845e33df891e4ded7be90d1619 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > La Bamba
+lib:5235a48ab63b5fb58bc6111dcc879e90 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Je Taquine La Truite
+lib:69a34f8c7e8e7647523a3294bcf3f26f # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > C2 H5 OH
+lib:31820752eb0c027f3efbd730dc6d0a42 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Ode Au Gibolin
+lib:094ace9c2f6a32ccc16b1c1cc2f4593d # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > La Finale De Gérard
+lib:b65e339b01d5ba5e4f9ad88f98bf43a5 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Moi Et Ma Brebis On Va A Irati
+lib:35803d45b251b83fa65d0144a14e1757 # Aggressive Agricultor > Adieu Toi Je T'aimais Bien > Marcel II: Le Retour
+lib:27f2f29e6449613cd2ed39e19395519e # Aggressive Agricultor > Eructation Agronomic > Vive La Campagne
+lib:f6c339a9cbb93abe2f38f62f57cec806 # Aggressive Agricultor > Eructation Agronomic > Léon Le Gros Porc
+lib:93b2a8deebb7e57f998f9b1f307f158b # Aggressive Agricultor > Eructation Agronomic > Longue Vie Au Bétail
+lib:cc739a7eaa1b88e592154871f781cb20 # Aggressive Agricultor > Eructation Agronomic > J'ai Un Beau Bidet
+lib:3d4e18ccc7ed50e63536324633c041bb # Aggressive Agricultor > Eructation Agronomic > Aïe
+lib:a1cad42d1236ed41ca0ee9ffe0be19ee # Aggressive Agricultor > Eructation Agronomic > Refroidissement Liquide
+lib:d1f4d34c62818e5948a10e617d454061 # Aggressive Agricultor > Eructation Agronomic > La Foire Aux Boutons
+lib:f43671508f66de581602ea239b50e987 # Aggressive Agricultor > Eructation Agronomic > Le Tracteur Hanté
+lib:a6583b510d8192937bb61911b2a66955 # Aggressive Agricultor > Eructation Agronomic > Viva El Ricard
+lib:1aa2d09da2e931bcbbedc47a3319cc2c # Aggressive Agricultor > Eructation Agronomic > Baloche Vessiah
+lib:1a3cb8668b50a8d3afb025124a16d3dc # Aggressive Agricultor > Eructation Agronomic > Mouguerre
+lib:6a81e7cb1fd7f5bf37cf59ea431241d6 # Aggressive Agricultor > Eructation Agronomic > La Croisade Du Troupeau
+lib:dc49c7cd68ea0aa4e7010802de2ed4ef # Aggressive Agricultor > Eructation Agronomic > Le Pot Suivi D'un Rot
+lib:b25970bf5c5caed6f35c21b68615d98e # Aggressive Agricultor > Eructation Agronomic > Speedy Gonzales
+lib:8400b37d7f7419ce0a4f50fa4590bc39 # Aggressive Agricultor > Eructation Agronomic > Flamencorock
+lib:78e9000e983f4ed4ee7b8995a123013c # Aggressive Agricultor > Eructation Agronomic > Too Drunk To Fuck
+lib:9930c0cb6c1d35300fa67f2ab48ee6b3 # Aggressive Agricultor > Eructation Agronomic > L'Hymne Au Ricard
+lib:010b1bc823940803fed89533ae714c92 # Aggressive Agricultor > Hé Ho Tonton Marcel > Miction Impossible
+lib:c816c93559fd456decac676d2398113d # Aggressive Agricultor > Hé Ho Tonton Marcel > L' Amour Rural
+lib:2c834c11a05cd26f1eecbdd15a5b05b2 # Aggressive Agricultor > Hé Ho Tonton Marcel > Ma Charrue N' Avance Plus
+lib:5b1c53be57c96154ee4e493e8e9f1871 # Aggressive Agricultor > Hé Ho Tonton Marcel > Folles De La Messe
+lib:1f0bb55ae46e89cfbad025573c65427d # Aggressive Agricultor > Hé Ho Tonton Marcel > Molles De La Fesse
+lib:4eeea09184fe0f595c58f4fce0135f56 # Aggressive Agricultor > Hé Ho Tonton Marcel > Serge Téléphone
+lib:da322041acb04013e971a9c0b91f8f30 # Aggressive Agricultor > Hé Ho Tonton Marcel > René Le Roi Du Métal
+lib:1a473ac029a4690f65593f06a39a7a77 # Aggressive Agricultor > Hé Ho Tonton Marcel > La Complainte Du Pottolo
+lib:eda32b520f2f7dc13be8913eb1dd8fcd # Aggressive Agricultor > Hé Ho Tonton Marcel > La Truie
+lib:d5f8473923486b9532c196945f820677 # Aggressive Agricultor > Hé Ho Tonton Marcel > Holiday In Cambodia
+lib:42b9c7b8e339a2828c1d1d5e0560d872 # Aggressive Agricultor > Hé Ho Tonton Marcel > Je Vais En Ville
+lib:90374137596cfea3b5dfef7ec990751d # Aggressive Agricultor > Hé Ho Tonton Marcel > Girona
+lib:942537712f991108349085b1068e64f2 # Aggressive Agricultor > Hé Ho Tonton Marcel > Le Cantonnier
+lib:32bb3b1347668c2cd7a78e058fd773e5 # Aggressive Agricultor > Hé Ho Tonton Marcel > Le Potager
+lib:85617caaf4caf5bc76eb85b0952391ed # Aggressive Agricultor > Hé Ho Tonton Marcel > Labourer Quel Bonheur
+lib:2b42d8a89caa2c6d1564a51661aadfa3 # Aggressive Agricultor > Hé Ho Tonton Marcel > Joko Garbi Pouili Poui Poui
+lib:bdf9e64e78eb0f1627fd380ab3b0467a # Aggressive Agricultor > Hé Ho Tonton Marcel > Flatulences Vocales (Dance Mix)
+lib:aa1147c91439c895f5c19f345be95b13 # Air Supply > Ghostbusters > I Can Wait Forever
+lib:3390f0dab62eafe0fab019c2f3315585 # Alessi Brothers > Ghostbusters > Savin' the Day
+lib:a17b322b0bfdc8897f539d68d82cb8f3 # American Head Charge > The Feeding > Loyalty
+lib:f135de5f8b7369431e821eb9df013841 # American Head Charge > The Feeding > Pledge Allegiance
+lib:43d0eab9d09aa0bc40e01e0ba70d272e # American Head Charge > The Feeding > Dirty
+lib:d4cef60b5a0ec8c4e1ea5f823bbefa73 # American Head Charge > The Feeding > Ridicule
+lib:6b078c9c90ea0306731e475203f86097 # American Head Charge > The Feeding > Take What I've Taken
+lib:918d2400bf4614f67267598dcd5792f6 # American Head Charge > The Feeding > Leave Me Alone
+lib:92ef5cf775d12cb3b6604099fc627520 # American Head Charge > The Feeding > Walk Away
+lib:487e4cc687c05a46c5c8c005b9490ddb # American Head Charge > The Feeding > Erratic
+lib:13863085bbd60b74b4cadfd042ee6795 # American Head Charge > The Feeding > Fiend
+lib:6e85dfc5e137d9ab7bdce7bc54382009 # American Head Charge > The Feeding > Cowards
+lib:94adb2fef0f6a32dbe422c418d63e450 # American Head Charge > The Feeding > To Be Me
+lib:b8733f0f94ed4bab5f79d51f8311e732 # Asian Dub Foundation > Enemy Of The Enemy > Fortress Europe
+lib:741f4477551e805f5059b74979ee60cd # Asian Dub Foundation > Enemy Of The Enemy > Rise To The Challenge
+lib:ef6b222b989e27334510aef06903405d # Asian Dub Foundation > Enemy Of The Enemy > La Haine
+lib:60ec684843179a3037208c80deb7f68c # Asian Dub Foundation > Enemy Of The Enemy > 1000 Mirrors (Feat. Sinead O'Connor)
+lib:3e4fc501887b69b727cfa6c4c30a5975 # Asian Dub Foundation > Enemy Of The Enemy > 19 Rebellions
+lib:9fe2fedfc5d938fdfcbb91ac5dac296b # Asian Dub Foundation > Enemy Of The Enemy > Blowback
+lib:14c2376ca76b44041289c573ff366898 # Asian Dub Foundation > Enemy Of The Enemy > 2 Face
+lib:91f966e018200b07a51eebca17142e2b # Asian Dub Foundation > Enemy Of The Enemy > Power To The Small Massive
+lib:2fe30a42e32a44723b4360d24080d3cc # Asian Dub Foundation > Enemy Of The Enemy > Dhol Rinse
+lib:0dd7d9f5ebea575991c878d30b5921b9 # Asian Dub Foundation > Enemy Of The Enemy > Basta
+lib:22d91dde63b11aaecc87748ce48b9b35 # Asian Dub Foundation > Enemy Of The Enemy > Cyberabad
+lib:900f4eab1b4abc021d3891d5965b15fb # Asian Dub Foundation > Enemy Of The Enemy > Enemy Of The Enemy
+lib:45e199de527c63e7ab80ff1eda92901d # Avalanches > Since I Left You > Frontier Psychiatrist
+lib:9a24d77951dbd80a950d0902d93cbf37 # Beastie Boys > Hello Nasty > Intergalactic
+lib:676de09004873e7fc46856132b7b5e90 # Beastie Boys > Ill Communication > Sabatoge
+lib:a4bcd552ccd2aec585484692a4a640a2 # Ben Prunty > FTL: Advanced Edition > Lanius (Explore)
+lib:b8f3d8f5ef3e9e964327e04a34818a81 # Ben Prunty > FTL: Advanced Edition > Lost Ship (Battle)
+lib:6e62c8ab8897fa12f6f2b1f442aa1165 # Ben Prunty > FTL: Advanced Edition > Slug (Battle)
+lib:c3ffaecda2fe5ab969d162a82df9e767 # Ben Prunty > FTL: Advanced Edition > Hacking Malfunction (Battle)
+lib:a4bcd552ccd2aec585484692a4a640a2 # Ben Prunty > FTL: Advanced Edition > Lanius (Explore)
+lib:13e20e3c417fdd9a219dacf45a37663e # Ben Prunty > FTL: Advanced Edition > Lost Ship (Explore)
+lib:2749bf3ba514b148fd39b68c721376aa # Ben Prunty > FTL: Advanced Edition > Slug (Explore)
+lib:624b49a007adc8474374dee62816f168 # Ben Prunty > FTL: Advanced Edition > Hacking Malfunction (Explore)
+lib:f8d302a8dac003328eb55d1487a12f5c # Ben Prunty > FTL: Advanced Edition > Colony Ship (2008)
+lib:714fa18e38c07b9db76a2c94dce5d75f # Ben Prunty Music > FTL > Space Cruise (Title)
+lib:5ae8129169d07b320daaf7e199731f66 # Ben Prunty Music > FTL > MilkyWay (Explore)
+lib:c45bacdcbdda2fed7df17dbe27b66c52 # Ben Prunty Music > FTL > Civil (Explore)
+lib:5f8bc8e091e141900283ba12005aa072 # Ben Prunty Music > FTL > Cosmos (Explore)
+lib:04171aef1de6db7618f3205863897f08 # Ben Prunty Music > FTL > Deepspace (Explore)
+lib:825f4ad23d79e3fb934fb3cc8e95eef7 # Ben Prunty Music > FTL > Debris (Explore)
+lib:8f45f3c7786a845be45e1bbdf21aa7eb # Ben Prunty Music > FTL > Mantis (Explore)
+lib:2cea8674721c4fdd899f36501011af8f # Ben Prunty Music > FTL > Engi (Explore)
+lib:a0daffab744ef9d2119157b60ad7059d # Ben Prunty Music > FTL > Colonial (Explore)
+lib:730df4e87d637762e9f03a6754540bde # Ben Prunty Music > FTL > Wasteland (Explore)
+lib:cd4e9c6940d986e13092a13b5d8950da # Ben Prunty Music > FTL > Rockmen (Explore)
+lib:2209ad038d4b28ea6336d69657c7c1fc # Ben Prunty Music > FTL > Void (Explore)
+lib:fbc6a276ce01259e62b3b40bfbd5ed1f # Ben Prunty Music > FTL > Zoltan (Explore)
+lib:6eaa901b782171d7ebe212c3090af69b # Ben Prunty Music > FTL > BONUS Federation
+lib:0fd605fd01d866da3026443a1672717e # Ben Prunty Music > FTL > MilkyWay (Battle)
+lib:43cff1276639e8c27c6a1c28f39acf51 # Ben Prunty Music > FTL > Civil (Battle)
+lib:8b47dd8fac4ae594964898cd414f8ca2 # Ben Prunty Music > FTL > Cosmos (Battle)
+lib:9b4d6c17f1763707d0b417e3474c4718 # Ben Prunty Music > FTL > Deepspace (Battle)
+lib:9794866720ffa1da0a50b1c8b2f0053f # Ben Prunty Music > FTL > Debris (Battle)
+lib:e27b927471979b2253cecf55a5f910f8 # Ben Prunty Music > FTL > Mantis (Battle)
+lib:097022145d4227d777c11a3a9d4a7aa6 # Ben Prunty Music > FTL > Engi (Battle)
+lib:18ca6c3fa0fb265e419f2af5d86c6d95 # Ben Prunty Music > FTL > Colonial (Battle)
+lib:b53110f7ee9646981b77a282bb8c13e7 # Ben Prunty Music > FTL > Wasteland (Battle)
+lib:e73532fe28eb4e6a9b75364c3aeec95a # Ben Prunty Music > FTL > Rockmen (Battle)
+lib:d929f87bf3497a580246f14673a9b22a # Ben Prunty Music > FTL > Void (Battle)
+lib:891944e714393c6edcef23c328df95c2 # Ben Prunty Music > FTL > Zoltan (Battle)
+lib:9843a36648cea565a42d63a9c91d66ed # Ben Prunty Music > FTL > Last Stand
+lib:32fcb982f6c4bd89567dc817b5922753 # Ben Prunty Music > FTL > Victory
+lib:d2ccb6cdb2ecf6fc74807bc59eede959 # Ben Prunty Music > FTL > BONUS Horror
+lib:1d2f0a2ded856818da8b04a4d35b2a1b # Black Sabbath > Paranoid > War Pigs
+lib:9861c62d4fdfbd293b16a58591c90bf1 # Black Sabbath > Paranoid > Paranoid
+lib:e2d1fef8f75ba70caeb7a599ae7630a1 # Black Sabbath > Paranoid > Planet Caravan
+lib:8cd63a3dda24f8ac5f0661f5b4872350 # Black Sabbath > Paranoid > Iron Man
+lib:c36c797dde1b4a4ee2a9b61daa19ab89 # Black Sabbath > Paranoid > Electric Funeral
+lib:8a58d179659dd12dda8d7e61e98bd27a # Black Sabbath > Paranoid > Hand Of Doom
+lib:25248b9995b337c0302dc25aa5b07e09 # Black Sabbath > Paranoid > Rat Salad
+lib:9dc7b4778046a2a6f7c280c8a7573fd8 # Black Sabbath > Paranoid > Fairies Wear Boots
+lib:b3f895bcb1120661c5cbae9c4bb7bd8e # Bonobo > Animal Magic > Sleepy Seven
+lib:bc8a89b12572b8a91201eb75f4bbcc00 # Bonobo > Animal Magic > Dinosaurs
+lib:4be3c8cea32f85279a1fefb7b517cd54 # Bonobo > Animal Magic > Kota
+lib:481052dba243cc2dcd846d9dfa2c6af9 # Bonobo > Animal Magic > Terrapin
+lib:32de79559343d83cacfbd60f7cb2b93d # Bonobo > Animal Magic > Shadowtricks
+lib:5540c01032d856358ec8a8ce843bbd4b # Bonobo > Animal Magic > Gypsy
+lib:844bc36198ccb4b01ba0ede5d9e4b1f8 # Bonobo > Animal Magic > Sugar Rhyme
+lib:815676af966660e2061690383b49b0fb # Bonobo > Animal Magic > Silver
+lib:8159de730127aed98c4518b399576445 # Bonobo > Dial M For Monkey > Flutter
+lib:e83581b91aaba28aff6553ba08b68d78 # Bonobo > Dial M For Monkey > D Song
+lib:6b02fcf7e84bcc845247e6aa223b5c4b # Bonobo > Dial M For Monkey > Wayward Bob
+lib:fdcac48cf3a0e0f88bf1e457d74b5aad # Bonobo > Dial M For Monkey > Pick Up
+lib:0e95c6ead5adf8b3c9a63932d526847a # Bonobo > Dial M For Monkey > Something for Windy
+lib:4d2412b5a3c5078a661e087241ae6c8b # Bonobo > Dial M For Monkey > Nothing Owed
+lib:fae353763909fd65cb60632997baa557 # Bonobo > Dial M For Monkey > Light Pattern
+lib:d6a8fdc5dba94ae6465b70d6e4bb8ab6 # Bonobo > One Offs Remixes and B-Sides > Pilote - Turtle
+lib:9cb81cbc727df78c5cb1836e9cedfce6 # Bonobo > One Offs Remixes and B-Sides > Mechanical Me - Beachy Head
+lib:5eaaf63812254c7d8d6df3376a077e43 # Bonobo > One Offs Remixes and B-Sides > The Plug (Quantic mix)
+lib:eda6ffb3ef9116671237cc803acdc57b # Bonobo > One Offs Remixes and B-Sides > Dismantling Frank
+lib:ba12b1333cbb475087e41fb12a7de82c # Bonobo > One Offs Remixes and B-Sides > Dinosaurs (Jon Kennedy Mix)
+lib:6d9a428e4f346e5ab0b03d799135b035 # Bonobo > One Offs Remixes and B-Sides > The Sicilian
+lib:c50eec360ea90475e3b484fb63488aa3 # Bonobo > One Offs Remixes and B-Sides > The Shark
+lib:81c19475be87a62a43540b41619a1cc9 # Bonobo > One Offs Remixes and B-Sides > Amon Tobin - Four Ton Mantis
+lib:17a1105b2c0bf3771184e330ab4c4a38 # Bonobo > One Offs Remixes and B-Sides > Jon Kennedy - Tell Me How You Feel
+lib:f6ae45a704afc203137e239b994e3dbc # Bonobo > One Offs Remixes and B-Sides > Magicman
+lib:639674a0a5c7e386180d0002a361dbbf # Bonobo > One Offs Remixes and B-Sides > Scuba
+lib:6a3b69f7ce9ea5626ef40b0638a89f61 # BusBoys > Ghostbusters > Cleanin' Up the Town
+lib:988d1a22e15e850022ecdb4558bdbfb0 # C-Minus > Family Values Tour '98 > Interlude #1
+lib:2fdd7624e5229b76e3eeeabcebc0a6ba # C-Minus > Family Values Tour '98 > Interlude #2
+lib:3b85e637debdfd2b4d53bce5fa94a564 # C-Minus > Family Values Tour '98 > Interlude #3
+lib:44de7ad24d7c3c4410b43738ec15ac57 # C-Minus > Family Values Tour '98 > Interlude #4
+lib:2f424e4fc2f1115118a56fca6928b54c # C-Minus > Family Values Tour '98 > Interlude #5
+lib:4da5d8ccb241f78e8bf0f30abf7ddadd # Cavalera Conspiracy > Inflikted > Inflikted
+lib:6a0488f54a95be6acc856fe02277116d # Cavalera Conspiracy > Inflikted > Sanctuary
+lib:4595fdd01f008bcfd942ea7d58c5bd7a # Cavalera Conspiracy > Inflikted > Terrorize
+lib:4699542d17cc2ea3565c2f28880d9927 # Cavalera Conspiracy > Inflikted > Dark Ark
+lib:f62a5cfd2d45b83600be2d418bdac770 # Cavalera Conspiracy > Inflikted > Ultra-Violent
+lib:0e784e878d40dfcd2ce18d7d4577d9da # Cavalera Conspiracy > Inflikted > Hex
+lib:6f2e1a4258bdcb461a10b1c0d101e8a2 # Cavalera Conspiracy > Inflikted > The Doom Of All Fires
+lib:295b7b83275ed407fafc20ca80b529b4 # Cavalera Conspiracy > Inflikted > Bloodbrawl
+lib:0bc82a1b7ee36dc5b9ec6f9fbff7b47a # Cavalera Conspiracy > Inflikted > Nevertrust
+lib:29fdb286cfa37d676209766b52bbe4b9 # Cavalera Conspiracy > Inflikted > Hearts Of Darkness
+lib:85d500f3f9de042ea89e4894e6599829 # Cavalera Conspiracy > Inflikted > Must Kill
+lib:ec2da841608edf8f8a43b3f237d52f52 # Cavalera Conspiracy > Inflikted > The Exorcist
+lib:f27056a71950c23145113ba2eeea33e5 # Cavalera Conspiracy > Inflikted > In Conspiracy
+lib:f2c07de5e9dc07e905d767e99778f3ff # Chimaira > Chimaira > Nothing Remains
+lib:de59f0f18e49e1ed77a00be526bf48a2 # Chimaira > Chimaira > Save Ourselves
+lib:b0d7b4e4967d4124503c40c7eec8f498 # Chimaira > Chimaira > Inside The Horror
+lib:4aaf62e043a9f3290f060b7e2e139056 # Chimaira > Chimaira > Salvation
+lib:cfe142c913bb675c9d76719fb8325a36 # Chimaira > Chimaira > Comatose
+lib:4b39135f7adda30325a3facf1f63ad29 # Chimaira > Chimaira > Left For Dead
+lib:e4b7e813b82b2a053b89df5611911168 # Chimaira > Chimaira > Everything You Love
+lib:44d23fc40df5e5aa3659ea61173f6750 # Chimaira > Chimaira > Bloodlust
+lib:106967e4acb134c6a152ee7259160f69 # Chimaira > Chimaira > Pray For All
+lib:2c09594ae977a594608ae51ef88e1a69 # Chimaira > Chimaira > Lazarus
+lib:b6e9b11c4f97bbeb25e381b4ab2dfbf7 # Chimaira > Kerrang! Remastered: Metallica's Master Of Puppets Revisited > Disposable Heroes
+lib:84dba17839a4d059f05ec68519f35222 # Converge > All We Love We Leave Behind > Aimless Arrow
+lib:a1eaa5d8c10746a95e37eb8a15576291 # Converge > All We Love We Leave Behind > Trespass
+lib:bbf5784b2e9d9dac092ffa12202e0254 # Converge > All We Love We Leave Behind > Tender Abuse
+lib:95af5c04418e5bbfa8706c97597315d0 # Converge > All We Love We Leave Behind > Sadness Comes Home
+lib:f8f448d857a755b485771653bca1e451 # Converge > All We Love We Leave Behind > Empty on the Inside
+lib:dfa8b4d0bb61421c04baf5e4f2a19fd7 # Converge > All We Love We Leave Behind > Sparrow's Fall
+lib:093796e55d4d3b9c3c9a6ac41e89bb88 # Converge > All We Love We Leave Behind > Glacial Pace
+lib:b048355ada787fa09c8c42598e66649d # Converge > All We Love We Leave Behind > No Light Escapes
+lib:7870a891783768909a1f155a5d6d9cee # Converge > All We Love We Leave Behind > Vicious Muse
+lib:b5907ba2331e5a86ebf4ba734f3072d2 # Converge > All We Love We Leave Behind > Veins and Vails
+lib:f01c62857dfb21e31d8ee9160b464e6f # Converge > All We Love We Leave Behind > Coral Blue
+lib:ce6d318d396bf6638c5ec6b7041a4f25 # Converge > All We Love We Leave Behind > Shame in the Way
+lib:68f349f0c0eac92a3e3dd3046be3f523 # Converge > All We Love We Leave Behind > On My Shield
+lib:d316875a618969c9335ff880ba3782e7 # Converge > All We Love We Leave Behind > Precipice
+lib:0572c3e4bb1e68b3a522e130087b127c # Converge > All We Love We Leave Behind > All We Love We Leave Behind
+lib:0ffa603c6c76a39d8653961caaae9956 # Converge > All We Love We Leave Behind > Runaway
+lib:3c8e210310b44bf7082cff61daa55549 # Converge > All We Love We Leave Behind > Predatory Glow
+lib:6dff41da5423545b3b2b1d1685996b12 # Converge > Axe To Fall > Dark Horse
+lib:72f901911886badb632e982dbb94fada # Converge > Axe To Fall > Reap What You Sow
+lib:b5e4d25564134cbbf7afae19e4a26a65 # Converge > Axe To Fall > Axe To Fall
+lib:914549c8ab0d29e4fcca7a0db33538ac # Converge > Axe To Fall > Effigy
+lib:8bc354bdb9f3f1b08a1f9761651939f8 # Converge > Axe To Fall > Worms Will Feed / Rats Will Feast
+lib:9e071a9866775dc29a62a059a4a34182 # Converge > Axe To Fall > Wishing Well
+lib:6dfb8a02670e939b32d7fca0b1a34f06 # Converge > Axe To Fall > Damages
+lib:fec4965557c53c04e2ccf4ddecb33809 # Converge > Axe To Fall > Losing Battle
+lib:b9c3e03ab83688956cacb99882b79606 # Converge > Axe To Fall > Dead Beat
+lib:223a7dd77f27d13fb20b88de56ac66d7 # Converge > Axe To Fall > Cutter
+lib:6d5aed5f1574812a89455c0668c391f8 # Converge > Axe To Fall > Slave Driver
+lib:93f541fdcc127dacf9db8a9432f54ef5 # Converge > Axe To Fall > Cruel Bloom
+lib:21795173dde72b3e47302786e9e9adf6 # Converge > Axe To Fall > Wretched World
+lib:1d5a1bdcc37642e86c62caa54166624d # Converge > The Dusk In Us > A Single Tear
+lib:a67c8a4286416dc733914f6b793c4e43 # Converge > The Dusk In Us > Eye Of The Quarrel
+lib:5ef6b613e351c43645f1b8c1cd3d257b # Converge > The Dusk In Us > Under Duress
+lib:3a714ad9dd9cfba23bf45d28dd2b301b # Converge > The Dusk In Us > Arkhipov Calm
+lib:c3a0c3c71073ccd963885bd5d1c71071 # Converge > The Dusk In Us > I Can Tell You About Pain
+lib:4ad1bd1c80555af6bc7e44cf35920b51 # Converge > The Dusk In Us > The Dusk In Us
+lib:f5d7663df2be746e4e5a1f5f029dd5b8 # Converge > The Dusk In Us > Wildlife
+lib:cadd834c7c1c623593dafa23ff9c08e0 # Converge > The Dusk In Us > Murk & Marrow
+lib:7ee143e67c3b3a3f155b8a543c301805 # Converge > The Dusk In Us > Trigger
+lib:9d260cfb015023b6be51cbd2f7fa6d87 # Converge > The Dusk In Us > Broken By Light
+lib:e1b1a0722e30c94fab0670236fa3aab9 # Converge > The Dusk In Us > Cannibals
+lib:25838296964cb14b4e9a8a2ffaea4d02 # Converge > The Dusk In Us > Thousands Of Miles Between Us
+lib:033d8c081e11b386ecb29e7ea3f86090 # Converge > The Dusk In Us > Reptilian
+lib:ec9c0da84d103597cbac74e7b8b6b769 # Cypress Hill > Black Sunday > I Wanna Get High
+lib:8e381dfd9f9a9773c88c7fa9b1e576bf # Cypress Hill > Black Sunday > I Ain't Goin' Out Like That
+lib:8afeaf1b472443948d354d9252028c54 # Cypress Hill > Black Sunday > Insane In The Brain
+lib:d21292c0d0afde3644e020d923125a3b # Cypress Hill > Black Sunday > When The Shit Goes Down
+lib:0b1171cff60d7900d54cd94115e0a620 # Cypress Hill > Black Sunday > Lick A Shot
+lib:7c84f20e06e97ab1f4c5f861963ec67b # Cypress Hill > Black Sunday > Cock The Hammer
+lib:53608026946128fd420746944e950496 # Cypress Hill > Black Sunday > Lock Down
+lib:e95b225e1211335adf2b551196c3ac86 # Cypress Hill > Black Sunday > 3 Lil' Putos
+lib:0a77cb4d0a0f8e658797177a385a0e48 # Cypress Hill > Black Sunday > Legalize It
+lib:acfa44f179647f67483ba80c70bbfa4b # Cypress Hill > Black Sunday > Hits From The Bong
+lib:c2c14c68af456ef7db841738ee8e4811 # Cypress Hill > Black Sunday > What Go Around Come Around, Kid
+lib:cb394715ac99dc79132600bc8abcc299 # Cypress Hill > Black Sunday > A To The K
+lib:2ec7e6af0dbd5f7a53eb9073afd940f8 # Cypress Hill > Black Sunday > Hand On The Glock
+lib:ae9112ca50a21b1c2575c826fac2f010 # Cypress Hill > Black Sunday > Break'em Off Some
+lib:e31b09c7d4afd535190b8ee61f0fd2c9 # Cypress Hill > IV > Looking Through The Eye Of A Pig
+lib:dcbdb81722aefaa7820a5aa188ed95cd # Cypress Hill > IV > Checkmate
+lib:a9f479ae44951186566d74cf1ee38423 # Cypress Hill > IV > From The Window Of My Room
+lib:035ce4f1b8e421788377874c781003f3 # Cypress Hill > IV > Prelude To A Come Up
+lib:65ece809ec345f23f53b3d1c49af8b33 # Cypress Hill > IV > Riot Starter
+lib:c4768ebe3795ecacdbfcd37fd791a6e7 # Cypress Hill > IV > Audio X
+lib:24a06f802514a362b07c45a667dc9b66 # Cypress Hill > IV > Steel Magnolia
+lib:4e30f22e3141668ed8fe4e1ba7c22093 # Cypress Hill > IV > I Remember That Freak Bitch (From the Club) / Interlude Part.2
+lib:778fef8df1d0348f98f992ac0e53a875 # Cypress Hill > IV > (Goin' All Out) Nothin' To Lose
+lib:6d558db8cb35d720f9636940ef5853a3 # Cypress Hill > IV > Tequila Sunrise
+lib:14d161de8ad0991cf32d82a5b79af8d0 # Cypress Hill > IV > Dead Men Tell No Tales
+lib:6110b9311ccdc69319285b0b3cf51279 # Cypress Hill > IV > Feature Presentation
+lib:a6336b91e41394a5368cb43662022bff # Cypress Hill > IV > Dr. Greenthumb
+lib:a1df2609cb4c85577a47a6a5ee6295f1 # Cypress Hill > IV > 16 Men Till There's No Men Left
+lib:3a3847e9a097d2ea8309fb4a865ad4aa # Cypress Hill > IV > High Times
+lib:6ae0e3b2f7e3f09686f8bbaa906bd894 # Cypress Hill > IV > Clash Of The Titans / Dust
+lib:a2d43ab55e1b1d64cae913fd9e88ec40 # Cypress Hill > IV > Lightning Strikes
+lib:05aa58f66ed23a6ef7d80e52bb7ea206 # Cypress Hill > Skull & Bones > Intro
+lib:a3924d71780b563059221d2fafedbab2 # Cypress Hill > Skull & Bones > Another Victory
+lib:ceeb3666eb1b99006fce9b5106131589 # Cypress Hill > Skull & Bones > (Rap) Superstar
+lib:a036019399660ea61dc1ddde150c2dca # Cypress Hill > Skull & Bones > Cuban Necktie
+lib:9b6171bf7f510563aec60b382cfcb731 # Cypress Hill > Skull & Bones > What U Want From Me
+lib:fa49faed54763438ba03be708dface20 # Cypress Hill > Skull & Bones > Stank Ass Hoe
+lib:a20a04854243a00e447a02bfcd373444 # Cypress Hill > Skull & Bones > Highlife
+lib:c9ad75dd360bfd8b42bfc9483681010c # Cypress Hill > Skull & Bones > Certified Bomb
+lib:87b658e5497e58bf6b38f0176b834898 # Cypress Hill > Skull & Bones > Can I Get A Hit
+lib:c7caea2dba0a34b12f66a4313c04fa5b # Cypress Hill > Skull & Bones > We Live This Shit
+lib:915aa6085c815783018fc60bb35e4c73 # Cypress Hill > Skull & Bones > Worldwide
+lib:5223d1ceb3cf5f84e60d2adafe3b4146 # Cypress Hill > Skull & Bones > Valley Of Chrome
+lib:74b65eae888084138cc52d7f04860571 # Cypress Hill > Skull & Bones > Get Out Of My Head
+lib:8dec32b44d515d52d78097851def574b # Cypress Hill > Skull & Bones > Can't Get The Best Of Me
+lib:e2366a4ba78d2ad07ed8417ce407442f # Cypress Hill > Skull & Bones > A Man
+lib:8cbeeaf58ca436e90924b5ac817b46a2 # Cypress Hill > Skull & Bones > Dust
+lib:9772040ba6416ed20364483ba5731a06 # Cypress Hill > Skull & Bones > (Rock) Superstar
+lib:6486c8f6cb5d75fd2b82130809575c6a # Dagoba > Dagoba > From Torture To Enslavement
+lib:a1c017346db906b6331628946e1813a2 # Dagoba > Dagoba > Maniak
+lib:e45b1c1c74152a4860a415cc6511267e # Dagoba > Dagoba > The White Guy (And The Black Ceremony)
+lib:10472311aea85cad6bca17823dd688b7 # Dagoba > Dagoba > Something Stronger
+lib:f15b6bd19662c44016ff822b2a79329d # Dagoba > Dagoba > Another Day
+lib:62c9cd093e6bc91410265a995aa58817 # Dagoba > Dagoba > Fate Contained In A Crystal Ball
+lib:152116440b37c739517ddb0b2bd18eec # Dagoba > Dagoba > Year Of The Spacegoat
+lib:2de5876690c2ba694a1099ffaa95b53c # Dagoba > Dagoba > Dopesick
+lib:311e1bd66ef715ad4affb5d3b9f219eb # Dagoba > Dagoba > Act 1, Part 2
+lib:450572e8c4ca2ff83fa20dbbe10fa961 # Dagoba > Dagoba > Rush
+lib:b3ee90a49d0093923b55f5fac13da615 # Dagoba > Dagoba > The Chaos We're Involved In
+lib:533f5714f1c37a1e1dfb2f38d68a9cd7 # Dagoba > Dagoba > Here We Are
+lib:ef1934b56d8dbe483188391828e9aa30 # Dagoba > Dagoba > 4.2 Destroy
+lib:ebd18bf1f3557438d140278fbf82b520 # Dagoba > Dagoba > Pornscars
+lib:5ed4b4e7bf583d4835ce71706447bc4a # Dagoba > Dagoba > Gods Forgot Me
+lib:60fba149c3b9815aec99bd009627694f # Dagoba > What Hell Is About > What Hell Is About...
+lib:9c1cdfc4c417453edf739ec2d734d153 # Dagoba > What Hell Is About > Die Tomorrow (... What Hell If You Should?)
+lib:922b42add381747d736d437c3318f839 # Dagoba > What Hell Is About > The Fall Of Men
+lib:584ddc225e7c397f4f8d2516be3015a3 # Dagoba > What Hell Is About > The Man You're Not
+lib:dcf730a6ded422d7a3906e6c319a8469 # Dagoba > What Hell Is About > Cancer
+lib:996feed938f976ab221864000442f1cb # Dagoba > What Hell Is About > It's All About Time
+lib:daec6db8c56a25681fa3f37839f6dec9 # Dagoba > What Hell Is About > The Things Apart
+lib:779215f4ea41c4bd882528562c1e24bb # Dagoba > What Hell Is About > The Things Within
+lib:a8f39fff37f7c6328c6e5c556ec6887e # Dagoba > What Hell Is About > Livin' Dead
+lib:f70aa0a45a26bd1834b11749b744cec9 # Dagoba > What Hell Is About > 042104
+lib:88ef7fb08042bbcc2b62069499f31e4a # Dagoba > What Hell Is About > Morphine-The Apostle Of Your Last War
+lib:650c3e917e7c561fc10210d3c19c52ed # Dagoba > What Hell Is About > The Write Guy (Suicide)
+lib:afc645e99da7a5971102759eb6618ea5 # Danzig > Danzig > Mother
+lib:a3ef4dd491975628ffd618a9ae3a1887 # Dead Cross > Dead Cross > Seizure and Desist
+lib:20f106f89c2b658bf937d5470993fc7a # Dead Cross > Dead Cross > Idiopathic
+lib:b54d098e00fd2cae78f435d1c2cfd34e # Dead Cross > Dead Cross > Obedience School
+lib:03b0af3360fc8a1fd82e833ab51ce462 # Dead Cross > Dead Cross > Shillelagh
+lib:5083382970e2b380b04c246e98379f35 # Dead Cross > Dead Cross > Bela Lugosi's Dead
+lib:00137627d9727ecc9cf6a935915879c0 # Dead Cross > Dead Cross > Divine Filth
+lib:7971c0d355dbe3734fd4feb3b78ab7f2 # Dead Cross > Dead Cross > Grave Slave
+lib:4a55f6cc8c6b1432faf46a9a86bb4194 # Dead Cross > Dead Cross > The Future Has Been Cancelled
+lib:deacd93613b44e30bbbd8faab12f313e # Dead Cross > Dead Cross > Gag Reflex
+lib:9711b6ef33477ff75885b0d539850dc9 # Dead Cross > Dead Cross > Church of the Motherfuckers
+lib:5a2a453fd07cb7238257ac4d8e0fdc8a # Deep Purple > Made In Japan > Highway Star
+lib:57ece9900de955167cc4aacf6892433c # Deep Purple > Made In Japan > Smoke On The Water
+lib:e8f4a3318b0f9efd229fc7d9ffa3178f # Dillinger Escape Plan > Miss Machine > Panasonic Youth
+lib:35a4c833274fe35c2d59dd215425570e # Dillinger Escape Plan > Miss Machine > Sunshine The Werewolf
+lib:9a24d268cb4672c0748002add0cb6a12 # Dillinger Escape Plan > Miss Machine > Highway Robbery
+lib:7206a00981ddf61a40ef39c217fcf69c # Dillinger Escape Plan > Miss Machine > Van Damsel
+lib:f3765f3bf722a3387f08fd33f2953a3c # Dillinger Escape Plan > Miss Machine > Phone Home
+lib:8717b3b7b5f4471ad341d2e51cdf26f5 # Dillinger Escape Plan > Miss Machine > We Are The Storm
+lib:ce74e05cca951866e14bebe994327423 # Dillinger Escape Plan > Miss Machine > Crutch Field Tongs
+lib:1fad1011faa55fd4455b6975b200bb2c # Dillinger Escape Plan > Miss Machine > Setting Fire To Sleeping Giants
+lib:d12adbbdccb285de84f0d284aa2c98c0 # Dillinger Escape Plan > Miss Machine > Baby's First Coffin
+lib:e70c43e578d35de7b342e783a9023d85 # Dillinger Escape Plan > Miss Machine > Unretrofied
+lib:fc3fb9f929b1f9f352ee3a5ee83fcfde # Dillinger Escape Plan > Miss Machine > The Perfect Design
+lib:e05329620ea701f8e8c907601900be53 # Dimoné > Comprend qui peut (Boby Lapointe repiqué) > L'idole et l'enfant
+lib:c2eee48884818d770e1bce1453acbd71 # Dimoné > Comprend qui peut (Boby Lapointe repiqué) > In the Desert
+lib:20cb703750ce44e8bb879605df4d1923 # Dimoné > Comprend qui peut (Boby Lapointe repiqué) > La lune belle fille
+lib:00de37caacc469ef0c967289fb757d48 # Elmer Bernstein > Ghostbusters > Main Title Theme (Ghostbusters)
+lib:de80ef8b3e2c7664a26fc1578f6b2dbc # Elmer Bernstein > Ghostbusters > Dana's Theme
+lib:1f6f42960d1687db6434be68e458bcb7 # Ennio Morricone > The Good, The Bad And The Ugly > The Ecstacy Of Gold
+lib:37c36a3bd26156856705ce8cf99aa064 # Entombed > Entombed > Night Of The Vampire
+lib:f9b6557c78f73544c03ce79870fa41eb # Entombed > Morning Star > Chief Rebel Angel
+lib:1acd1095726fc1c7394a634fd56516a0 # Entombed > Morning Star > I For An Eye
+lib:0a647546bf4d131748d57097146d7d3b # Entombed > Morning Star > Bringer Of The Light
+lib:fc92ecff3fc7af5c86c162cad45ad6eb # Entombed > Morning Star > Ensemble Of The Restless
+lib:79bab5d358e23d35def5328bc2128435 # Entombed > Morning Star > Out Of Heaven
+lib:4e1716cfc036149d6300d1f378cf60b7 # Entombed > Morning Star > Young Man Nihilist
+lib:d73d9866501d9bf71d01b8911cdcae5e # Entombed > Morning Star > Year One Now
+lib:4582f97c750cd2b11e9c0bac1886fd65 # Entombed > Morning Star > Fractures
+lib:86ce7ee70af5112613a008e92e1ce8b7 # Entombed > Morning Star > When It Hits Home
+lib:b08c23e7feb8b065319d507780e077f3 # Entombed > Morning Star > City Of Ghosts
+lib:2494f21b3ce9f5b8b1a41180da209dba # Entombed > Morning Star > About To Die
+lib:994b057d7251baa48d2022e23451a5d6 # Entombed > Morning Star > Mental Twin
+lib:8ba8823eccc2ae184ffa638b9efaf70a # Entombed > Serpent Saints - The Ten Amendments > Serpent Saints
+lib:3c9a9fb21d5458edeb54b58dc14dc21d # Entombed > Serpent Saints - The Ten Amendments > Masters Of Death
+lib:cbca5e7792547aaabf79377d851c4011 # Entombed > Serpent Saints - The Ten Amendments > Amok
+lib:cfb21808a2ea5bbe68968ff0cc4c3331 # Entombed > Serpent Saints - The Ten Amendments > The Kingdom Koma
+lib:d332174696a1151c25f5f61eb83e02ec # Entombed > Serpent Saints - The Ten Amendments > When In Sodom
+lib:d0a0188f61541584c8a615a227f79602 # Entombed > Serpent Saints - The Ten Amendments > In the Blood
+lib:a850e5fb237999e7594eca4c9b8c265a # Entombed > Serpent Saints - The Ten Amendments > Ministry
+lib:c31479f1643939a0536802cc1f62207c # Entombed > Serpent Saints - The Ten Amendments > The Dead, The Dying And The Dying To Be Dead
+lib:fc534595a09d5fb4342a78f9770c7a05 # Entombed > Serpent Saints - The Ten Amendments > Warfare, Plague, Famine, Death
+lib:c4d748d5c8a9d8988cac41809125d918 # Entombed > Serpent Saints - The Ten Amendments > Love Song For Lucifer
+lib:3478e9d5fb6b12c52ac0d7a5fc0466ab # Entombed > To Ride, Shoot Straight And Speak The Truth > To Ride, Shoot Straight And Speak The Truth
+lib:1b8a184d9f5709e4f23a4b5995b3868c # Entombed > To Ride, Shoot Straight And Speak The Truth > Like This With The Devil
+lib:ec3be553bb7c4c53613815e333fe7101 # Entombed > To Ride, Shoot Straight And Speak The Truth > Lights Out
+lib:661629e991a37c7cd331dec5258a8c9d # Entombed > To Ride, Shoot Straight And Speak The Truth > Wound
+lib:91b7e32ab92de69f633df43724448f5f # Entombed > To Ride, Shoot Straight And Speak The Truth > They
+lib:7b059b5bba43c4844afe77f79bb9abac # Entombed > To Ride, Shoot Straight And Speak The Truth > Somewhat Peculiar
+lib:de9dcf2b0550ac8479253be07913b5be # Entombed > To Ride, Shoot Straight And Speak The Truth > DCLXVI
+lib:410b4b189ded4e44f9ce2059e886425b # Entombed > To Ride, Shoot Straight And Speak The Truth > Parasight
+lib:c67fdc9f94fa1f0e2cd19b6b0f7e5ea3 # Entombed > To Ride, Shoot Straight And Speak The Truth > Damn Deal Done
+lib:6afb9c0a0c5bf9cffb27a2d862f3199f # Entombed > To Ride, Shoot Straight And Speak The Truth > Put Me Out
+lib:a9972d7471d9715077275dccdacf4ab3 # Entombed > To Ride, Shoot Straight And Speak The Truth > Just As Sad
+lib:efd309c9310e29a5e782c56750943688 # Entombed > To Ride, Shoot Straight And Speak The Truth > Boats
+lib:5cdb103155c1d5b1b6beb33da2089c47 # Entombed > To Ride, Shoot Straight And Speak The Truth > Uffe's Horrorshow
+lib:0acf9c7660472155c2aeea5ca7ab6a0e # Entombed > To Ride, Shoot Straight And Speak The Truth > Wreckage
+lib:0c84d9e39c241d5e701ff8613c0b8e85 # Entombed > Wolverine Blues > Eyemaster
+lib:5d986d3869b1de16c52f059fd2e03434 # Entombed > Wolverine Blues > Rotten Soil
+lib:0ab0dab4e9ebcd2514e900c8b631a076 # Entombed > Wolverine Blues > Wolverine Blues
+lib:1a73dc6106026681bc89229930ae4402 # Entombed > Wolverine Blues > Demon
+lib:38cf43da2e03a578b412e395b0faaedf # Entombed > Wolverine Blues > Contempt
+lib:74c69f31a9746f85c354bcdd72ec1e42 # Entombed > Wolverine Blues > Full Of Hell
+lib:97e3ca02cfc6a28996ba202a1e619288 # Entombed > Wolverine Blues > Blood Song
+lib:1267c0d61e28f77b9b70e3200bf7574a # Entombed > Wolverine Blues > Hollowman
+lib:4e62cc2d35969df87871b578e8111d09 # Entombed > Wolverine Blues > Heavens Die
+lib:92f7116019134010f0fecd43de5c16d9 # Entombed > Wolverine Blues > Out Of Hand
+lib:2f5961fc92977fe35b20d29ba34a4d8c # Entombed > Wolverine Blues > State Of Emergency
+lib:6a201b7ece458e6726448bbceef3d5ee # Evelyne Gallet > Comprend qui peut (Boby Lapointe repiqué) > Comprend qui peut
+lib:79e1842cb2b363655ee7fa6fdafaa722 # Evelyne Gallet > Comprend qui peut (Boby Lapointe repiqué) > L'hélicon
+lib:e36fc2c87f635e6a71401c60ce0737c0 # Exploited > Beat The Bastards > Beat The Bastards
+lib:d3fff4bc3a8fea2c5ac51d4679d64a75 # Exploited > Beat The Bastards > Affected By Them
+lib:900217b408c9d754ef74433c6341fa54 # Exploited > Beat The Bastards > Don't Blame Me
+lib:a68d38e0c98602a08544ce6a16e2585c # Exploited > Beat The Bastards > Law For The Rich
+lib:2d3c42443b6ce08406c9af323395ae87 # Exploited > Beat The Bastards > System Fucked Up
+lib:cb452ec2a65483b74a2072a0db996333 # Exploited > Beat The Bastards > They Lie
+lib:dcfe29e7285d23dac397336d159ce835 # Exploited > Beat The Bastards > If You're Sad
+lib:0a560e619824be5117f36bfe2330f0f7 # Exploited > Beat The Bastards > Fight Back
+lib:2b0e611a458b6f3724f3764d798c65fa # Exploited > Beat The Bastards > Massacre Of Innocents
+lib:509bea8246c9b11a366f73148b6795fb # Exploited > Beat The Bastards > Police TV
+lib:c41989666b4a334e72fc489002d6505b # Exploited > Beat The Bastards > Sea Of Blood
+lib:32f6de0b1fe8821d68b6ebf097f10c4b # Exploited > Beat The Bastards > 15 Years
+lib:8f615502b2c5e4756ce21e423055b9b8 # Exploited > Beat The Bastards > Serial Killer
+lib:ff3dcdff025bd91755e68912c1b0e483 # Faith No More > Angel Dust > Land Of Sunshine
+lib:94031a95cd5d4740bd6451fe076327ff # Faith No More > Angel Dust > Caffeine
+lib:7f824ab2483a64de95f50b6596e5407e # Faith No More > Angel Dust > MidLife Crisis
+lib:012459895313d50a4b33934a1e38d13a # Faith No More > Angel Dust > RV
+lib:f51327984fd5ca3114784eba880473ce # Faith No More > Angel Dust > Smaller And Smaller
+lib:365b270f5c4c0d065895b9a259e86f54 # Faith No More > Angel Dust > Everything's Ruined
+lib:6a997b9517a225b812f3947a8df99073 # Faith No More > Angel Dust > Malpractice
+lib:b9c59809c175ffef82d1ae3ffcdca171 # Faith No More > Angel Dust > Kindergarten
+lib:fa2c1a74bdadf3af3c04108092f51773 # Faith No More > Angel Dust > Be Aggressive
+lib:36d922c15950fa19e44e4be4570f5700 # Faith No More > Angel Dust > A Small Victory
+lib:e807551a9a3365eaaa0e8e524ff57e85 # Faith No More > Angel Dust > Crack Hitler
+lib:26bba3b2fe777f9b42f097adf368cd89 # Faith No More > Angel Dust > Jizzlobber
+lib:a27f52c8fe2604272a572c8b6733cd97 # Faith No More > Angel Dust > Midnight Cowboy
+lib:099f54a2728341c0867bd304ccc2cfd2 # Faith No More > King For A Day - Fool For A Lifetime > Get Out
+lib:d05f74f53214811bdf61576c89a50da4 # Faith No More > King For A Day - Fool For A Lifetime > Ricochet
+lib:123c17eca4389f9018c12dd0e38d8f54 # Faith No More > King For A Day - Fool For A Lifetime > Evidence
+lib:6cec7bd589902920ac00b2ba8758dac1 # Faith No More > King For A Day - Fool For A Lifetime > The Gentle Art Of Making Enemies
+lib:153154c42683ebb3116629a868fd91ba # Faith No More > King For A Day - Fool For A Lifetime > Star A.D.
+lib:2463d10b495990e007f0a63a7fec4430 # Faith No More > King For A Day - Fool For A Lifetime > Cockoo For Caca
+lib:b29c48adbfb3a6153a683a22dd7a1efe # Faith No More > King For A Day - Fool For A Lifetime > Caralho Voador
+lib:e6f5fe98ab362672a3b9422c8a083959 # Faith No More > King For A Day - Fool For A Lifetime > Ugly In The Morning
+lib:f259108cb36bf320ac42897dd276fd8c # Faith No More > King For A Day - Fool For A Lifetime > Digging The Grave
+lib:54b56f9de3dde7e81818d01c56a18d4a # Faith No More > King For A Day - Fool For A Lifetime > Take This Bottle
+lib:42386111e6e392443bc95a4fb5b4d022 # Faith No More > King For A Day - Fool For A Lifetime > King For A Day
+lib:3b79c4515164706e176fc7da4da1db5a # Faith No More > King For A Day - Fool For A Lifetime > What A day
+lib:ed7c8742fa019083662fe0baa6014f2e # Faith No More > King For A Day - Fool For A Lifetime > The Last To Know
+lib:e5d66de2dec0d6c45d104700cd33accb # Faith No More > King For A Day - Fool For A Lifetime > Just A Man
+lib:12e4a6132db91f056eaf52590a0ab6fd # Fear Factory > Demanufacture > Demanufacture
+lib:bee359b72b404bc0151c234a712c922a # Fear Factory > Demanufacture > Self Bias Resistor
+lib:53b122f595eeb90240966f67e7addbd0 # Fear Factory > Demanufacture > Zero Signal
+lib:78b1cdb20184b829f9a1a57eb8c2b1fb # Fear Factory > Demanufacture > Replica
+lib:cd0264802d0288e4ac3db8191acb9442 # Fear Factory > Demanufacture > New Breed
+lib:78f1caae59310ffbcc993751d4550975 # Fear Factory > Demanufacture > Dog Day Sunrise
+lib:5469d9b1ea6b2ab96f245d50b47c51ea # Fear Factory > Demanufacture > Body Hammer
+lib:1eaa193c71f3a34908c48b6f9750ff66 # Fear Factory > Demanufacture > Flashpoint
+lib:c9dbe21358d339939c310f2dc4c3e5fe # Fear Factory > Demanufacture > H - K (Hunter-Killer)
+lib:3bd96b33083832c8aa0847e87206779c # Fear Factory > Demanufacture > Pisschrist
+lib:4a229bf100d4cbb1a81b017b1cedbb41 # Fear Factory > Demanufacture > A Therapy For Pain
+lib:ff2faaef568a5275671028a3d9dad207 # Fear Factory > Demanufacture > Your Mistake
+lib:e728a18393294ddc376c9172af4ca583 # Fear Factory > Demanufacture > Resistancia!
+lib:7a4e249cd317339af6dd0c1613a77617 # Fear Factory > Obsolete > Shock
+lib:decb592b04f7c859f378c8042d925cf9 # Fear Factory > Obsolete > Edgecrusher
+lib:38ca2e782f209886e60ca2d85bf8d4a7 # Fear Factory > Obsolete > Smasher/Devourer
+lib:e4a4f443c84eb4873ec6b4d01fc0109f # Fear Factory > Obsolete > Securitron (Police State 2000)
+lib:15d93ea45614bcd4f06362a3bfa0545a # Fear Factory > Obsolete > Descent
+lib:6974a9c0ebfbd91d4745bae0327e616c # Fear Factory > Obsolete > Hi-Tech Hate
+lib:97182a0c0beba1b3af6f54d0aea2723d # Fear Factory > Obsolete > Freedom Or Fire
+lib:bc4c70b8dfb01a6df3692253546206b1 # Fear Factory > Obsolete > Obsolete
+lib:d97a45b11612dc1256346d731d19c919 # Fear Factory > Obsolete > Resurrection
+lib:f3d83515b5c56318fda517a8e3c16f4c # Fear Factory > Obsolete > Timelessness
+lib:fbe4e4e17ab6404fc71f03526be206a3 # Funeral For A Friend > Kerrang! Remastered: Metallica's Master Of Puppets Revisited > Damage Inc.
+lib:9876cc39c21ff4291930eacc2143d6a2 # God Forbid > Covering 20 Years Of Extremes > Master Killer
+lib:5dc4d9fdcdc4dd4d50c9826334f4b0b1 # Gojira > Divers > Escape
+lib:03697050298902eb009c4dd6e4b2fa95 # Gojira > From Mars To Sirius > Ocean Planet
+lib:04f131e75281ddb1824b1eef6b02ae47 # Gojira > From Mars To Sirius > Backbone
+lib:1afca9a714ddcec88096bf260cb8bd0f # Gojira > From Mars To Sirius > From The Sky
+lib:dff336acc4995b036ce1834d489eece3 # Gojira > From Mars To Sirius > Unicorn
+lib:45bfa47462e275a65a954eded19f32b9 # Gojira > From Mars To Sirius > Where Dragons Dwell
+lib:2176a06fa5a291c752c301b6f884d4ad # Gojira > From Mars To Sirius > The Heaviest Matter Of The Universe
+lib:b41560fb0791baeaff44c902629deaea # Gojira > From Mars To Sirius > Flying Whales
+lib:348135661ef5708232455730377216b8 # Gojira > From Mars To Sirius > In The Wilderness
+lib:c86696bc89ac1d1a65cf271a723bc2c9 # Gojira > From Mars To Sirius > World To Come
+lib:eb29b304ba55cc42c97393618c7354cc # Gojira > From Mars To Sirius > From Mars
+lib:5ae1cb790428bb962c7874aa94de3cc9 # Gojira > From Mars To Sirius > To Sirius
+lib:ff665ccb14174d44f783d1b1ed73ee85 # Gojira > From Mars To Sirius > Global Warming
+lib:d3b30e39590a71253f4c1d80b1838b7d # Gojira > L'Enfant Sauvage > Explosia
+lib:c12e82ad71b288eb6490bdb9ab59241e # Gojira > L'Enfant Sauvage > L'Enfant Sauvage
+lib:47bcf08aec332b0b2e72a98dfff3209e # Gojira > L'Enfant Sauvage > The Axe
+lib:415236c0023d18fa99e0e643354aa67e # Gojira > L'Enfant Sauvage > Liquid Fire
+lib:90eb31bd36fac4bc58f29261338527da # Gojira > L'Enfant Sauvage > The Wild Healer
+lib:aae54dacda79b7592c08e2a6923de59f # Gojira > L'Enfant Sauvage > Planned Obsolescence
+lib:b409d53b45a7e422b63a3a5c266b6853 # Gojira > L'Enfant Sauvage > Mouth Of Kala
+lib:cb9aa4f14777621b47d8f27d6cb68111 # Gojira > L'Enfant Sauvage > The Gift Of Guilt
+lib:5c9578a9c56cff7e366adefa81775131 # Gojira > L'Enfant Sauvage > Pain Is A Master
+lib:1b129bbf0720b21c19449947af855793 # Gojira > L'Enfant Sauvage > Born In Winter
+lib:e62b09ccf875c2b365de4cd40a7e49e1 # Gojira > L'Enfant Sauvage > The Fall
+lib:da1033850c6a109b69265426d89424e0 # Gojira > L'Enfant Sauvage > This Emptiness
+lib:58abaac3c53dec54de69e6155bf90a88 # Gojira > L'Enfant Sauvage > My Last Creation
+lib:4e6e445c3deb23b4b2c3e160bc454943 # Gojira > Magma > The Shooting Star
+lib:179e12545cb6f07047c0ad04071bdbde # Gojira > Magma > Silvera
+lib:04716febbe81ead7dac89191c8fbdb31 # Gojira > Magma > The Cell
+lib:85c443fc9beb257de650f2b79d090403 # Gojira > Magma > Stranded
+lib:55b405a3bafe3b85cd62cd060707b3ce # Gojira > Magma > Yellow Stone
+lib:8d2c9867a3428ca4fa9aad234cfd29fe # Gojira > Magma > Magma
+lib:4dfb997f1c3cf15784ea82e3375641f9 # Gojira > Magma > Pray
+lib:a044e80b66d65c8d9c5bceb64baff600 # Gojira > Magma > Only Pain
+lib:17ffadb6cda4919148341f8e6edce63a # Gojira > Magma > Low Lands
+lib:8ee44c80c670d70c2c4af42e190c1b63 # Gojira > Magma > Liberation
+lib:01b82b224b039cc0db235b52a7592b6a # Gojira > Terra Incognita > Clone
+lib:2f6d425f2b8f5a2db3a3a9409f03f00f # Gojira > Terra Incognita > Lizard Skin
+lib:132c790354e5a304495a84cdf2e8d4a1 # Gojira > Terra Incognita > Satan Is A Lawyer
+lib:32a1ec820cb9effd249a55213ca748b0 # Gojira > Terra Incognita > 04
+lib:40913afb3e6ad8192d0bd196735dd937 # Gojira > Terra Incognita > Blow Me Away You (Niverse)
+lib:6a56eb24eef61f95db3398fcfc0367cc # Gojira > Terra Incognita > 5988 Trillions De Tonnes
+lib:7229d0a95fb5fb59e9b9fa727fc5656c # Gojira > Terra Incognita > Deliverance
+lib:96aa6e23b277570dbf8b46abf62c1934 # Gojira > Terra Incognita > Space Time
+lib:788167641c54a7a08d3d7431fcfcafb0 # Gojira > Terra Incognita > On The B.O.T.A.
+lib:c8851da63a4fc7499c6d8f19194966c6 # Gojira > Terra Incognita > Rise
+lib:43f9598125f1e3a7387d807271fbd0e7 # Gojira > Terra Incognita > Fire Is Everything
+lib:200952f4bddb10d3630e1274b73a3e9f # Gojira > Terra Incognita > Love
+lib:d2dd3f2450c55ac7c9c16fd9afd3b72e # Gojira > Terra Incognita > 1990 Quatrillions De Tonnes
+lib:b8994120a0fd642b8e6a4191cb81e03c # Gojira > Terra Incognita > In The Forest
+lib:82715a481eb84fb7e92e58e971ba8e69 # Gojira > The Link > The Link
+lib:c34ec0e4d119e7c585b53dd137672e0a # Gojira > The Link > Death Of Me
+lib:7a740b370e95c3cc61fa1400fba0a47d # Gojira > The Link > Connected
+lib:6c316727fc39b57bd9adc15d0326d465 # Gojira > The Link > Rememberance
+lib:2ef81539affd7da13a270af39017e1f6 # Gojira > The Link > Torii
+lib:dbc3a1d4e440e2435257acce2fee109a # Gojira > The Link > Indians
+lib:4133f0c915a4fc1da0abc53d7d8cf63f # Gojira > The Link > Embrace The World
+lib:9ba9bda51e2ddfe8502429a0a7421c80 # Gojira > The Link > Inward Movement
+lib:0388081eb25b329ebf33dbc8cfe9851e # Gojira > The Link > Over The Flow
+lib:621624e18a28d95da0288c846cc55dd7 # Gojira > The Link > Wisdom Comes
+lib:8eb956ee572f64368e7476630c95ca04 # Gojira > The Link > Dawn
+lib:a069fbdc8a27f4e927b9b4fda5774031 # Gojira > The Way Of All Flesh > Oroborus
+lib:a4a8d15b49ad7bd799f8acec500e1c32 # Gojira > The Way Of All Flesh > Toxic Garbage Island
+lib:4f72f2dbfa8a1f63cde628cc45a6770b # Gojira > The Way Of All Flesh > A Sight To Behold
+lib:9a3a1930fc347f7368ab695fc376c0d0 # Gojira > The Way Of All Flesh > Yama's Messengers
+lib:560bce5520a26b422e14c204eb2b3510 # Gojira > The Way Of All Flesh > The Silver Cord
+lib:deb4c68107ec79658fe74167002dbb11 # Gojira > The Way Of All Flesh > All The Tears
+lib:923b7b5c0ae4e5d530e9f0f38fe1044d # Gojira > The Way Of All Flesh > Adoration For None
+lib:e6b048b8f1a558d3c24eb51fa81b5cfe # Gojira > The Way Of All Flesh > The Art Of Dying
+lib:75a2d85581dbd05ef56ee0ceb2025fca # Gojira > The Way Of All Flesh > Esoteric Surgery
+lib:38ac21c25144d75de6fe2a6067b44ec5 # Gojira > The Way Of All Flesh > Vacuity
+lib:f53ea95161b50ef1bbb5287d93b73f09 # Gojira > The Way Of All Flesh > Wolf Down The Earth
+lib:7665ef5153d76ce1364891a6fe5fb0d9 # Gojira > The Way Of All Flesh > The Way Of All Flesh
+lib:e777b0999bb2f00cbe522ab03b61bc19 # Gorefest > Erase > Low
+lib:9f0efa597154b7050cecede43d55c947 # Gorefest > Erase > Erase
+lib:0fc37102802677145176380fcf78fcda # Gorefest > Erase > I Walk My Way
+lib:2327380e2deb69ad98a6d7e571af3127 # Gorefest > Erase > Fear
+lib:80c6adb81bf19fc79f8fe39218d6475c # Gorefest > Erase > Seeds Of Hate
+lib:1582b2f5b351b8061c2a2c4090a5e1e9 # Gorefest > Erase > Peace Of Paper
+lib:fdeb26a749022046fd7693e84e768bbc # Gorefest > Erase > Goddess In Black
+lib:6e1878ec11db770d69aa47efc7201f48 # Gorefest > Erase > To Hell And Back
+lib:dcf952a2a0336fd3f764eda0ea61c584 # Gorefest > Erase > Raven
+lib:128948f5ddd23e660b5b82d37f131ac3 # Gorefest > Erase > Horrors 94
+lib:9dc4631028764dc42b16e2de67a64dbf # Green Day > Dookie > Burnout
+lib:da2ce0263dae90df70717eb83f1f3a63 # Green Day > Dookie > Having A Blast
+lib:c0512f9555a88b23ab6e63b388c5f4ea # Green Day > Dookie > Chump
+lib:6278636d16f23aa538ba6d1515e98c94 # Green Day > Dookie > Longview
+lib:c11d439ca7450649415a3b0468c013b2 # Green Day > Dookie > Welcome To Paradise
+lib:40088cfcd21b02eb6fa9f0e77668f7f7 # Green Day > Dookie > Pulling Teeth
+lib:1e110a7d1b673343cfce2def36ec02aa # Green Day > Dookie > Basket Case
+lib:9f93644a7cb0e8b0ffd465d850c05602 # Green Day > Dookie > She
+lib:33c237e730870a8039653973021b03f4 # Green Day > Dookie > Sassafras Roots
+lib:7debc47cd8494e3710ff4aee5815beca # Green Day > Dookie > When I Come Around
+lib:faa9db00f898dbac148611b9923a79fa # Green Day > Dookie > Coming Clean
+lib:a8eb52c5208a20f8ed4ed85cdeb4738b # Green Day > Dookie > Emenius Sleepus
+lib:f9daebb3e7525615cda2529400d27b52 # Green Day > Dookie > In The End
+lib:d3067458b3b350b7782574793b5b3319 # Green Day > Dookie > F.O.D.
+lib:2e2b3a2b74ec93a97f510b1bd0a18837 # Hives > The Black And White Album > Tick Tick Boom
+lib:7b8ca2e8c39958c73e6ebed2be7ecbd0 # Hives > The Black And White Album > Try It Again
+lib:95f99e463675dfa4e921e7fdcae4edb4 # Hives > The Black And White Album > Well Allright!
+lib:51e4e5157339abe5a4d98c941283d72d # Hives > The Black And White Album > Hey Little World
+lib:8786ca29129f5251b16791976241c5e6 # Hives > The Black And White Album > A Stroll Through Hive Manor Corridors
+lib:6e6089c52e4f7e4558f53b21e9432a4c # Hives > The Black And White Album > It Won't Be Long
+lib:694674b52cb3d0a546a7a51aceff8ea8 # Hives > The Black And White Album > T.H.E.H.I.V.E.S.
+lib:ad9e371fcf5c5e95cce2f11534097d29 # Hives > The Black And White Album > Return The Favour
+lib:a55f0275e047fdfb28256137f92b60ce # Hives > The Black And White Album > Giddy Up
+lib:ed34ffa0e60d1f3dbeaf0caacfb5badb # Hives > The Black And White Album > Square One Here I Come
+lib:a51b9c85b100c657b4f2d761933f576d # Hives > The Black And White Album > You Dress Up For Armageddon
+lib:9ec735745e9ace7cbc1b2e301de01aad # Hives > The Black And White Album > Puppet On A String
+lib:1e40740e9e62cd9fd0e5f1dcaa770d54 # Hives > The Black And White Album > Bigger Hole To Fill
+lib:73ce19913809e686bddb27c7c2e0a7ea # House Of Pain > House Of Pain > Jump Around
+lib:cbaf89c4551e57ecf375913aa4eedb6e # Hypno5e > Acid Mist Tomorrow > Acid Mist Tomorrow
+lib:0cab60bb229f9457a2dca309c2b88b3f # Hypno5e > Acid Mist Tomorrow > Six Fingers In One Hand She Holds The Dawn (part I)
+lib:2ed2543d49ab5421ad429bdbfe0bdef0 # Hypno5e > Acid Mist Tomorrow > Six Fingers In One Hand She Holds The Dawn (part II)
+lib:d5dca70d6efbf98cefc4913dd59b939f # Hypno5e > Acid Mist Tomorrow > Story Of The Eye
+lib:2a177396207fc70177e8ed30803c8b0b # Hypno5e > Acid Mist Tomorrow > Gehenne (part I)
+lib:875c8c9eb4a08d20dd72cad6bbaa1ccd # Hypno5e > Acid Mist Tomorrow > Gehenne (part II)
+lib:f5269ad71ff4aea30206ffb715d3b80d # Hypno5e > Acid Mist Tomorrow > Gehenne (part III)
+lib:ff9cf5c37c45f9e7dbc54a2166893243 # Hypno5e > Acid Mist Tomorrow > Brume Unique Obscurité (part I)
+lib:2d1ed0a3a0abf6424ce34713523f775e # Hypno5e > Acid Mist Tomorrow > Brume Unique Obscurité (part II)
+lib:f8b215c8e01c863071a7a91c19e6bed9 # Hypno5e > Shores of the Abstract Line > East Shore - Lanscape In The Mist
+lib:93339762a652bf09a5ae0c6f155cf90d # Hypno5e > Shores of the Abstract Line > East Shore - In Our Deaf Lands
+lib:39c7853bc438767e75faad5ebf80c020 # Hypno5e > Shores of the Abstract Line > West Shore - Where We Lost The Ones
+lib:d43ef4a05bd699b1ec95c4e2e4d9983c # Hypno5e > Shores of the Abstract Line > West Shore - Memories
+lib:712a0c0c17624e8fbc029446fe7798ba # Hypno5e > Shores of the Abstract Line > Central Shore - Tio
+lib:6e688cae2f37f54146b7377c7d3f7f31 # Hypno5e > Shores of the Abstract Line > North Shore - The Abstract Line
+lib:7077147ef0974ec0ead1133a9d365d95 # Hypno5e > Shores of the Abstract Line > North Shore - Sea Made Of Crosses
+lib:5221e7a7860f2b9bc5b164e76df6e1f9 # Hypno5e > Shores of the Abstract Line > South Shore - Blind Man's Eye
+lib:b2fb9bddfe838ea5ca08125b510e893b # Ice Cube > The Predator > Check Yo Self
+lib:b1c8d90d4fbc0a2f9ffb522e10fb2f26 # Iggy Pop > Lust For Life > Lust For Life
+lib:966b7f039ec93aabe83da5612aacf0d1 # Iggy Pop > Lust For Life > Sixteen
+lib:8753c27e1a5d3d78dca5ba4bc302039b # Iggy Pop > Lust For Life > Some Weird Sin
+lib:e310b4ccc7d349ecf5d8b0092ff51d56 # Iggy Pop > Lust For Life > The Passenger
+lib:ab6402a3447293b02b2c5cdd6b2b6a5e # Iggy Pop > Lust For Life > Tonight
+lib:bcfa81ab2c21e8f90ea422af47677752 # Iggy Pop > Lust For Life > Success
+lib:663417af5d0aea4ddcfc378a2a9d7794 # Iggy Pop > Lust For Life > Turn Blue
+lib:70e26276ec45b4c4a1ee1541d9d4f62c # Iggy Pop > Lust For Life > Neighborhood Threat
+lib:33e076eb61a1098444dd5b3ab3072982 # Iggy Pop > Lust For Life > Fall In Love With Me
+lib:e87dcd4ec0536d4c577ca541bcfc3070 # Imbert Imbert > Comprend qui peut (Boby Lapointe repiqué) > Ça va ça vient
+lib:8d3af0c06db98acb07651140d911dfae # Imbert Imbert > Comprend qui peut (Boby Lapointe repiqué) > Petit homme qui vit d'espoir
+lib:280a07905c650428024fa577436cc60c # Incubus > Make Yourself > Privilege
+lib:34218bba4c7aa462fea4879e0ce73f1d # Incubus > Make Yourself > Nowhere Fast
+lib:e970e9e0d3792584a48e3c228bf1172e # Incubus > Make Yourself > Consequence
+lib:d23adfb9d41baea70a4d8c4bf26a85ef # Incubus > Make Yourself > The Warmth
+lib:fc5c114cbefb245b6f020199cb9a4ac2 # Incubus > Make Yourself > When It Comes
+lib:80c409b5fcba27ee581d244403a4440c # Incubus > Make Yourself > Stellar
+lib:61938a440b22ed5ee3990106ce9a6a35 # Incubus > Make Yourself > Make Yourself
+lib:1a5753e835339adf91fcebbd127a3f65 # Incubus > Make Yourself > Drive
+lib:2765460f2e7a279d46bad1619ff7a4e4 # Incubus > Make Yourself > Clean
+lib:06a9afd2336bcee9aa4571712abcdd54 # Incubus > Make Yourself > Battlestar Scralatchtica
+lib:d80e0a94355cdc20b1b3a41391b0f79e # Incubus > Make Yourself > I Miss You
+lib:a1d73c251da8a4d6f8a8ce90948b20da # Incubus > Make Yourself > Pardon Me
+lib:ce22f065110294f4c64f07a9531b3278 # Incubus > Make Yourself > Out From Under
+lib:87c5b7101ac6702e3a868bbc7120fc9a # Infectious Grooves > Groove Family Cyco > Violent & Funky
+lib:6e3bb0698e57d9350e9cab5cd4dab36c # Infectious Grooves > Groove Family Cyco > Boom Boom Boom
+lib:8cbae5a9f306fd6a234fa5c4655776c3 # Infectious Grooves > Groove Family Cyco > Frustrated Again
+lib:73cd0be92c87e85d60f3ef55df5d4e05 # Infectious Grooves > Groove Family Cyco > Rules Go Out The Window
+lib:55e1c61fa6c8233b223df9e02bc46a4f # Infectious Grooves > Groove Family Cyco > Groove Family Cyco
+lib:976b4332b4fd719a46026bf7a2e1b58d # Infectious Grooves > Groove Family Cyco > Die Lika Pig
+lib:b359013fa3728a234634ae91a9ad1a12 # Infectious Grooves > Groove Family Cyco > Do What I Tell Ya!
+lib:314eb884349643c01ac091e37b798b22 # Infectious Grooves > Groove Family Cyco > Cousin Randy
+lib:949dae88fda987c3ad65efca0c064aa9 # Infectious Grooves > Groove Family Cyco > Why?
+lib:ccb4280749416f77d0ead0177f6bb2c2 # Infectious Grooves > Groove Family Cyco > Made It
+lib:c5ab460cc37f2e5233e7e4a79dbad271 # Infectious Grooves > Mas Borracho > Citizen of the Nation
+lib:a67fb1f5187e694eb3c406ce7d27543f # Infectious Grooves > Mas Borracho > Just a lil Bit
+lib:569699073856278bdc79d102f102ae02 # Infectious Grooves > Mas Borracho > Lock it in the pocket
+lib:60d89e939e991332f72a8046a4056f8e # Infectious Grooves > Mas Borracho > Good for Nothing
+lib:f56128fb0063671ba77cb04bab94849f # Infectious Grooves > Mas Borracho > Borracho
+lib:dd973551baf51a4ecc64b787518ff8ce # Infectious Grooves > Mas Borracho > Good Times Are Out To Get You
+lib:33e9cdeb82dfc476478db0e2e1b48505 # Infectious Grooves > Mas Borracho > Wouldn't You Like To Know
+lib:898cd05c7a4ad8708d997d1545141659 # Infectious Grooves > Mas Borracho > Going, Going, Gone
+lib:d3ec97fc62180457425ad73048d77d42 # Infectious Grooves > Mas Borracho > 21st Century Surf Odyssey
+lib:51157373d2a48dcdfb5bbc472724e5ab # Infectious Grooves > Mas Borracho > Please Excuse This Funk Up
+lib:54ea15d3c25f227c17b6c60f6c65c698 # Infectious Grooves > Mas Borracho > Fill You Up
+lib:1ac466fd520656d2d01372429aa6a44c # Infectious Grooves > Mas Borracho > What Goes Up
+lib:a743053668b672feb35a338e36df4056 # Infectious Grooves > Mas Borracho > Leave Me Alone
+lib:35ce715330ef901286a40cbecba2e613 # Infectious Grooves > Mas Borracho > Su Casa Es Mi Casa (Suicidal Tendencies)
+lib:3061a9902f8e2154a7e08040f5131053 # Infectious Grooves > Mas Borracho > The Beard (My Head)
+lib:cc47024f890b3b0a9f651e5d839ae98f # Infectious Grooves > Mas Borracho > Choosin' my own way of life (No Mercy Fool!)
+lib:8a48f71294e706d08dd3aee8e0c2c76a # Infectious Grooves > Mas Borracho > Rollin' In The Rain (Creeper)
+lib:937f55f0080b23b67b835b9d35bf9980 # Infectious Grooves > Mas Borracho > Strugglin' (Cyco Miko)
+lib:e4a3db09fc3b2f75cd1fab62c4e3c274 # Infectious Grooves > Sarsippius' Ark > Intro
+lib:5a1f44e909b97cc61a7ff17b47f9a83f # Infectious Grooves > Sarsippius' Ark > Turtle Wax (Funkaholics Anonymous)
+lib:a30909a50c586931a2388099f700674c # Infectious Grooves > Sarsippius' Ark > No Cover/2 Drink Minimum
+lib:1f87a5d6b2d82d7564c6dec7975b7869 # Infectious Grooves > Sarsippius' Ark > Immigrant Song
+lib:1a925c69b10129c4ba3fa66571869079 # Infectious Grooves > Sarsippius' Ark > Caca De Kick
+lib:ae9078252bd4f7bb5241f44c2a672107 # Infectious Grooves > Sarsippius' Ark > Don't Stop, Spread The Jam
+lib:ce4becaf7e980c0b1715da43abbdfe4e # Infectious Grooves > Sarsippius' Ark > Three Headed Mind Pollution
+lib:dbf6ad568b70400e791e90abe150b7ad # Infectious Grooves > Sarsippius' Ark > Slo-Motion Slam
+lib:2461a54012ada2a429a9114e71a72f12 # Infectious Grooves > Sarsippius' Ark > A Legend In His Own Mind (Ladies Love Sip)
+lib:fe2e26ffee9e225b21450c623710f7ad # Infectious Grooves > Sarsippius' Ark > Infectious Grooves
+lib:6d081b7973eef50bb23fb6b81da420b9 # Infectious Grooves > Sarsippius' Ark > These Freaks Are Here To Party
+lib:4d3a6e33aefe2915fd1446dad3914419 # Infectious Grooves > Sarsippius' Ark > The Man Behind The Man
+lib:d81b412d3e83ee0e0f599bd6512d8564 # Infectious Grooves > Sarsippius' Ark > Fame
+lib:27167ebd7082916def1a40f455aeb98c # Infectious Grooves > Sarsippius' Ark > Savor Da Flavor
+lib:7a7246d4e3b1c733b4da07223ef67d67 # Infectious Grooves > Sarsippius' Ark > No Budget/Dust Off The 8-Track
+lib:530431496cecba5432664465a08b368e # Infectious Grooves > Sarsippius' Ark > Infectious Grooves (2)
+lib:ee03c14e04fd8af0e94c4919dac8ac23 # Infectious Grooves > Sarsippius' Ark > You Pick Me Up (Just to Throw Me Down) "Therapy"
+lib:4b3a71357581ffe4f7413c2c45ef8eb6 # Infectious Grooves > Sarsippius' Ark > Do The Sinister
+lib:afff212fadbaa0e3b84ea3e8fda9ab85 # Infectious Grooves > Sarsippius' Ark > Big Big Butt, By Infectiphibian
+lib:02a4a2f06bdb836f1e579b55aca90553 # Infectious Grooves > Sarsippius' Ark > Untitled
+lib:0f98e8cdafc91b5195696404a16bbc3a # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Punk It Up
+lib:f7f24628db28318f04637dff9ae72e4c # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Therapy
+lib:f39d25414202d5da367b17a1646bdbef # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > I Look Funny?
+lib:09cb3f7bd570259bc2c924e087c4da09 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Stop Funk'n With My Head
+lib:a8a286e956c82a04f1ca976597feb24f # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > I'm Gonna Be My King
+lib:0908392adcbf68884bf1ad10847bdb08 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Closed Session
+lib:63384cf95d9252006daefaf61c90b430 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Infectious Grooves
+lib:2bcaeba2bcfd2b291949043290ebdae1 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Infectious Blues
+lib:2a556a83052f56d2daf2455178c52461 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Monster Skank
+lib:3fc328beffcbbf7d10bfcdc1e2e5f055 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Back to the People
+lib:5302896199116c2af3779ce139bd40a6 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Turn Your Head
+lib:68705136908b3abfbb161be1e8aa3157 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > You Lie... And Yo Breath Stank
+lib:b561c50942af83f8aca12557708c1592 # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Do The Sinister
+lib:6385707aae6ff54b5efd8544fa447bcd # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Mandatory Love Song
+lib:1b9d580b9ae043c4ec9c46075097258c # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Infecto Groovalistic
+lib:175d3cc412b247ab92eb51fa3cdda9bd # Infectious Grooves > The Plague That Makes Your Booty Move... It's The Infectious Grooves > Thanx But No Thanx
+lib:b50e0498a43c9ba62abe02d72f9465f5 # Into The Moat > The Design > Century II
+lib:30deb6c52c86e2e16e223524dd5ff981 # Into The Moat > The Design > Empty Shell
+lib:4dfe6044096ce49e1f0402f389733849 # Into The Moat > The Design > Dead Before I Stray
+lib:fb1cbc75e8befd65e1d829df1da7450a # Into The Moat > The Design > Guardian
+lib:7e19eb893c4eb4d13325d5e1e486134c # Into The Moat > The Design > The Inexorable
+lib:a2bb55fe87298cca9bcf58380485f53c # Into The Moat > The Design > Fortitude
+lib:3ad09a0fd2103361e1eb285bf30ab52f # Into The Moat > The Design > Beyond Treachery
+lib:1fdd631fe6a3c86b7eb8940167bd3eb5 # Into The Moat > The Design > None Shall Pass
+lib:27c970bd2cf46c3a3ff54e2cb978de80 # Into The Moat > The Design > Prologue...
+lib:ddc9fe22810015d1737d207ebc071601 # Iron Maiden > A Real Live One > Fear Of The Dark
+lib:8d9502dbc7fce398c51d7508aef534b1 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > I Got You (I Feel Good)
+lib:edc1147bf327aff212daca1d68db944b # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Mother Popcorn
+lib:eec80dc414ff3df2178505b029a16a11 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Get Up (I Feel Like Being A) Sex Machine
+lib:bd3180b34df511ee7c22949526fd5004 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > It's A Man's, Man's, Man's World
+lib:0aabceccef8ffdc409bdf6ae655618fe # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Super Bad
+lib:597ec8ba4e81ea12a8077420f1bfcd43 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Get On The Good Foot
+lib:f5f1ba24b1b3aa1b48da196984a18a10 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Soul Power
+lib:e70b0abc9272d93560d022064199c68c # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > I Don't Want Nobody To Give Me Nothing (Open Up The Door, I'll Get It Myself)
+lib:d83e7b7709d83ffe38b3b46609346185 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Get Up Offa That Thing
+lib:89acafb713e9ce5103971bb83fdf7184 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Give It Up Or Turn It A Loose
+lib:a2e69de2e866a085d06de78ea58f3896 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Hot Pants
+lib:56470bc7801413adb5d3bdbebc3b99ae # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > I Got To Move
+lib:945bf94948c39594a99da58f098dd0bb # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > I Got The Feelin'
+lib:dcc7c5f7b5b8400c353df474cc564b40 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Cold Sweat
+lib:3f00fb183888b6c3fef3b92fbcde3803 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Papa Don't Take No Mess (Live)
+lib:a414a7bb000fcde320bf8329f4ae5803 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > My Thang
+lib:0280dc12e23cc9954bd0cced103eb62f # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Funky President (People It's Bad)
+lib:acb6db0ab3e8909e4918667587a08eb6 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > There Was A Time
+lib:63e2599e89e117aadff8f43b8993d112 # James Brown > The Godfather Of Soul: Greatest Hits Disc 1 > Hey America
+lib:fc28f09a546575815c2c1a5c102cb244 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Bodyheat
+lib:ab01daeffa2074a5d6724d4fe832f359 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Make It Funky
+lib:7ea654aa52ba6b8e18f48eda54f8967b # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > It's Too Funky In Here
+lib:6436cccc478cc5f4d8c56cb68913ba28 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Funky Drummer
+lib:cf1b88178dc8435baa01b1a99562c27b # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > King Heroin
+lib:448f9fddedd82d9020263581e42290f1 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > The Boss
+lib:ccc76639e6f2ee9ae0847c5da7fb5943 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Licking Stick - Licking Stick
+lib:5ec44e84784eef1c4d98dfd330a827d0 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Money Won't Change You
+lib:a5921fce628fce985a9262897e55abe2 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Papa's Got A Brand New Bag
+lib:75ac9b62e065a9397b5bbcb94d112ea1 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Say It Loud - I'm Black And I'm Proud
+lib:bfd13adeec666172dcbeedcabad3ea24 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Talkin' Loud And Sayin' Nothing
+lib:dca665b922eb3538ff31000e0c32d548 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Out Of Sight
+lib:b36a111404454357fce828b6f2459a56 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Think
+lib:0195242f49d6e97dd09d636f30b02290 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Prisoner Of Love
+lib:ff22b6fef595b80503cfb3986b59ab83 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Night Train
+lib:afa9f068f89abb81d48997dfd25e3ff8 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > I'll Go Crazy
+lib:229da9fb882a071749b843f5b299c075 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Lost Someone
+lib:1e2e28be43e2e52206f7e1d9ba93fbb2 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Doing It To Death
+lib:4577f45c64b134b30ff56a5e3b6236fd # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Good Good Lovin'
+lib:9b3c8b64dcdd60c13c8e16e4116f6d7f # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Try Me
+lib:83dda35056dfdc3844dfc1866be72fb8 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Please, Please, Please
+lib:ff4d95d43fdda8577b6f0fd200cfcfa8 # James Brown > The Godfather Of Soul: Greatest Hits Disc 2 > Living In America
+lib:235f6c6828fefb9aa00706e4a1fa9eb0 # Johnny Cash & U2 > The Legend Of Johnny Cash > The Wanderer
+lib:02a0ea69b94907c4d4e5acbd3ad64b26 # Johnny Cash > The Legend Of Johnny Cash > Cry, Cry, Cry
+lib:43ef2ce79a021cd6c7190a2941aafb28 # Johnny Cash > The Legend Of Johnny Cash > Hey Porter
+lib:e35861a11d15d42b0b3bcc85188d1030 # Johnny Cash > The Legend Of Johnny Cash > Folsom Prison Blues
+lib:35e5c65a578cd932ed1d84319fee5677 # Johnny Cash > The Legend Of Johnny Cash > I Walk The Line
+lib:d593520f0aac24650694518e5a55e49b # Johnny Cash > The Legend Of Johnny Cash > Get Rhythm
+lib:5cf8788581427f257194a6a2b6470bd9 # Johnny Cash > The Legend Of Johnny Cash > Big River
+lib:3d407669d6c85b0afcbe5540e08d5967 # Johnny Cash > The Legend Of Johnny Cash > Guess Things Happen That Way
+lib:7e2d729295bf7314f12bd2667548fa19 # Johnny Cash > The Legend Of Johnny Cash > Ring Of Fire
+lib:8385289f77a831242c44db5f02a36516 # Johnny Cash > The Legend Of Johnny Cash > Jackson
+lib:d759392eca9ba7f0851b72fbfbc0307b # Johnny Cash > The Legend Of Johnny Cash > A Boy Named Sue [Live]
+lib:a05cb9c4ff2b1c91c80e51700076d40a # Johnny Cash > The Legend Of Johnny Cash > Sunday Morning Coming Down
+lib:75274eca7e66ec1bcca697c066d30dd8 # Johnny Cash > The Legend Of Johnny Cash > Man In Black
+lib:b21d7ce47db627e042a3160141801cc2 # Johnny Cash > The Legend Of Johnny Cash > One Piece At A Time
+lib:e10867a8dbdb8362d28c40a68b4e71a8 # Johnny Cash > The Legend Of Johnny Cash > Delia's Gone
+lib:2c99ce4d5cd19c072e84c1ba903ce336 # Johnny Cash > The Legend Of Johnny Cash > Rusty Cage
+lib:28755702d37ebad1ed1c3ebe26c69aa0 # Johnny Cash > The Legend Of Johnny Cash > I've Been Everywhere
+lib:5c9a1435f9d2f6dd4506341092a829b0 # Johnny Cash > The Legend Of Johnny Cash > Give My Love To Rose
+lib:28182c629c76312fa5e991d44d41cbef # Johnny Cash > The Legend Of Johnny Cash > The Man Comes Around [Early Take]
+lib:ae56a3372c1c178fdc2c6f0b7ab82c32 # Johnny Cash > The Legend Of Johnny Cash > Hurt
+lib:dcfdf0c6da0471501bca8c9cc63e4405 # Johnny Cash, Kris Kristofferson, Waylon Jennings & Willie Nelson > The Legend Of Johnny Cash > Highwayman
+lib:c3f66f330296334c80178c89d6686135 # Kickback > Divers > Kickback
+lib:6df8a7eee1c9cbef3d39422e100c9bd0 # Korn > Korn > Blind
+lib:b10d09b9ad442a74f97efa05bcb23192 # Korn > Korn > Ball Tongue
+lib:2bd639377d29f04a16929be296392f08 # Korn > Korn > Need To
+lib:dcb9959216d2bd9de0d42dbe9066487e # Korn > Korn > Clown
+lib:a629729081b4e4221b7e732bf3248ba2 # Korn > Korn > Divine
+lib:14804a726a9bd6223e03f1cfffae07b5 # Korn > Korn > Faget
+lib:abc71f82c1174ced983c7084e9aa27b4 # Korn > Korn > Shoots And Ladders
+lib:c12985c854654a4e68a1d2e95410f205 # Korn > Korn > Predictable
+lib:64a48672d824fb09340d5e462acff04c # Korn > Korn > Fake
+lib:ad41d2193187acb78ac8e09bd165cf7c # Korn > Korn > Lies
+lib:c97032e679fd0c6bc2da87dd2b5da2c1 # Korn > Korn > Helmet In The Bush
+lib:0fd308ef8916b5fd800674f727f3a685 # Korn > Korn > Daddy
+lib:0d59849e076286e9824bd7d4795627d0 # Korn > Korn > Hidden Track
+lib:14664508523f93830a7e702f86380d72 # L'Esprit Du Clan > Chapitre II : Révérence > Intro
+lib:982b81250b2bc7a05f33c8e1feeffc44 # L'Esprit Du Clan > Chapitre II : Révérence > Révérence
+lib:e6a6ea639d2717dd3053720d609f3780 # L'Esprit Du Clan > Chapitre II : Révérence > Indivisible
+lib:9f4d370156721cacbf17c7fd5e88cc2b # L'Esprit Du Clan > Chapitre II : Révérence > Phenix
+lib:3fff58ec4a5b1d10dd5233da1e2a8b01 # L'Esprit Du Clan > Chapitre II : Révérence > Le Venin
+lib:b10d629c65febb8b8a18131ca14dd6ce # L'Esprit Du Clan > Chapitre II : Révérence > Babylone (Featuring Es La Guerilla)
+lib:59c5808f290d863503daf66329fa1346 # L'Esprit Du Clan > Chapitre II : Révérence > Talion
+lib:d65953ebb7fbe94348cd6224a28c7975 # L'Esprit Du Clan > Chapitre II : Révérence > Opium
+lib:9008c44dac53b6d2ead6594e758e1d1a # L'Esprit Du Clan > Chapitre II : Révérence > Salva Me
+lib:b2f92f019ffd785cdf2f8ceaf349e3ed # L'Esprit Du Clan > Chapitre II : Révérence > Xxxxxx
+lib:28bf7989a24b48f23d92a0e72c4aee26 # L'Esprit Du Clan > Chapitre II : Révérence > Terres Brulées
+lib:30ffc74dcb033770a7084b55b7feb3d7 # L'Esprit Du Clan > Chapitre II : Révérence > Et Caetera
+lib:e0b8f4887f7fc40c61d361d9a593726f # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Mesdames & Messieurs
+lib:e15b2791aad84e68ec3265e8eaa0ae87 # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Circus Frenesie
+lib:1202413ff092439d8607f21652525b9a # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Dans Cette Fournaise
+lib:ef225106e1c077850fec3a6d96b9903f # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Ailleurs
+lib:d0a219ad77847fa5006f48926367bc35 # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Le Temps Assassiné
+lib:f28d07e44ed7dd8162d5c7db0f0af8e7 # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Sextuor
+lib:0af84004742f1f1c74a11746ba4838a5 # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Un Message De Paix
+lib:0622217805056ada1f8d6eac75a1c4d3 # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Le Calme Et Le Silence
+lib:114ee9b6dfd61ac6a30bbdb56a98458b # L'Esprit Du Clan > Chapitre III : Corpus Delicti > J'ai Pas Les Mots
+lib:38cf5eedee73ed67e6a8ac5e35bd707a # L'Esprit Du Clan > Chapitre III : Corpus Delicti > Dernières Minutes
+lib:367c9f5dbfd4dd36e96a12f52243e8cc # L'Esprit Du Clan > Chapitre III : Corpus Delicti > 1992
+lib:6dfd2b5f08738f3c2c142a2e731e9258 # Lamb Of God > As The Palaces Burn > Ruin
+lib:2c1df6aea542cdb414337590371fe589 # Lamb Of God > As The Palaces Burn > As The Palaces Burn
+lib:af0b2c082f98c881e4504c282ba03b68 # Lamb Of God > As The Palaces Burn > Purified
+lib:92a67b3edbf488b008cea101a5281965 # Lamb Of God > As The Palaces Burn > 11th Hour
+lib:4edaf9ab5409b5bf3fecfcd7b175be53 # Lamb Of God > As The Palaces Burn > For Your Malice
+lib:dd5d8c9bc4031d881aff9648369f3fc4 # Lamb Of God > As The Palaces Burn > Boot Scraper
+lib:6c2c5d20e2d10fe7d3d3fdc50c84da2f # Lamb Of God > As The Palaces Burn > A Devil In Gods Country
+lib:e4808238647a6ae2e271097ef56110cc # Lamb Of God > As The Palaces Burn > In Defense Of Our Good Name
+lib:88b6d4482200f571be579fb9d782197a # Lamb Of God > As The Palaces Burn > Blood Junkie
+lib:a9e835ebc13b7bd99a860e265b59c921 # Lamb Of God > As The Palaces Burn > Vigil
+lib:fff41f9455d077de362b3cedd1817518 # Lamb Of God > Ashes Of The Wake > Laid To The Rest
+lib:06100f50919748de0dd1db325c6ac4fc # Lamb Of God > Ashes Of The Wake > Hourglass
+lib:19142260a1f6c5788229d9c5565c8227 # Lamb Of God > Ashes Of The Wake > Now You've Got Something To Die For
+lib:d9b6c222c239062a663a6a7b9fc6ae62 # Lamb Of God > Ashes Of The Wake > The Faded Line
+lib:2d524aa66f73c7c0cb34da1eae79f679 # Lamb Of God > Ashes Of The Wake > Omerta
+lib:2f79d52851cb5bea702cdb8d6b9c8b46 # Lamb Of God > Ashes Of The Wake > Blood Of The Scribe
+lib:39f3eee9d2126a81c3263f903a70bc30 # Lamb Of God > Ashes Of The Wake > One Gun
+lib:a6cd4ab20691a8b8893370b1b97642b1 # Lamb Of God > Ashes Of The Wake > Break You
+lib:ad3f911f557f9d0cde19fc170f1a8e32 # Lamb Of God > Ashes Of The Wake > What I've Become
+lib:58ee1baef3102f0389cec22b82c0f33d # Lamb Of God > Ashes Of The Wake > Ashes Of The Wake
+lib:8ce20093dbd05b997a8791eeb0b1432c # Lamb Of God > Ashes Of The Wake > Remorse Is For The Dead
+lib:a084de03c72ce44e6bcfe9d20ef2dbee # Lamb Of God > Sacrament > Walk With Me In Hell
+lib:40d9d1e59ceb51d2b0f92c29fa3e1192 # Lamb Of God > Sacrament > Again We Rise
+lib:02fd5ba85d435eaae79102874aaf44ac # Lamb Of God > Sacrament > Redneck
+lib:45f0bf418d92ebaf62da0152534cb713 # Lamb Of God > Sacrament > Pathetic
+lib:ef7eebdf08f842e9a91a97149b399a6a # Lamb Of God > Sacrament > Foot To The Throat
+lib:1e7f858fc9915d7c43fe7d839d4c9f92 # Lamb Of God > Sacrament > Descending
+lib:ec25e1a36abff5b136d0b46f7e35acdc # Lamb Of God > Sacrament > Blacken The Cursed Sun
+lib:862b4a243aa4c6f65a38b48fcd118653 # Lamb Of God > Sacrament > Forgotten (Lost Angels)
+lib:7dfeed7a5173ed2fd9c54fd19b3c5596 # Lamb Of God > Sacrament > Requiem
+lib:447d5a408b3e6828f9e08ce960fdf9cd # Lamb Of God > Sacrament > More Time To Kill
+lib:efbd392f76bf215d1da32cc9f6e13916 # Lamb Of God > Sacrament > Beating On Death's Door
+lib:673bdea4939013ad4f03b776631c143d # Lamb Of God > VII: Sturm Und Drang > Still Echoes
+lib:bceab5ef80d343d166b33d261184dcb9 # Lamb Of God > VII: Sturm Und Drang > Erase This
+lib:f0ba70c6b57d10795ab4408f14ca1241 # Lamb Of God > VII: Sturm Und Drang > 512
+lib:7abcc7c05d51ab3ab75c57478752e7ef # Lamb Of God > VII: Sturm Und Drang > Embers
+lib:bb08904e0b3865a6a8ab9aa35996badb # Lamb Of God > VII: Sturm Und Drang > Footprints
+lib:732eba39a25292db894ed968516fd493 # Lamb Of God > VII: Sturm Und Drang > Overlord
+lib:166d9987f77ac9e0d3b769fc1e732fee # Lamb Of God > VII: Sturm Und Drang > Anthropoid
+lib:42b047b1c566154fbe01c7f7221c6942 # Lamb Of God > VII: Sturm Und Drang > Engage the Fear Machine
+lib:36cca736cca4c2e08e6b15204927267b # Lamb Of God > VII: Sturm Und Drang > Delusion Pandemic
+lib:271eb729fd0fa3b1fbe42b34e40063c1 # Lamb Of God > VII: Sturm Und Drang > Torches
+lib:d41f8c287adf482ec4851e0d54c41f87 # Lamb Of God > Wrath > The Passing
+lib:ea4bd030fd9a416feff253b8b0cac995 # Lamb Of God > Wrath > In Your Words
+lib:a41acab7e1356a0cdd2d47a82cfa5648 # Lamb Of God > Wrath > Set To Fail
+lib:da2edaf6282aacd93576f62fbf5b3e5a # Lamb Of God > Wrath > Contractor
+lib:e7ba5a3f6558508f47d35bb539fb6f16 # Lamb Of God > Wrath > Fake Messiah
+lib:cb79a0af5f6838645c242150666d294a # Lamb Of God > Wrath > Grace
+lib:beb08ab78f4cb85789e6bf95ae02d887 # Lamb Of God > Wrath > Broken Hands
+lib:85f48106e35500edca2befd108b812e0 # Lamb Of God > Wrath > Dead Seeds
+lib:d1599044efffd9a03e197cb203a26785 # Lamb Of God > Wrath > Everything To Nothing
+lib:ec6844e0b5a467fb2e9a9997ce2661f0 # Lamb Of God > Wrath > Choke Sermon
+lib:0c1785bf002d401b92af53983dbac7b1 # Lamb Of God > Wrath > Reclamation
+lib:0c99e8929f4436a0b76d74af2389c1c6 # Lamb Of God > Wrath > We Die Alone
+lib:d073576428b2266918cdad073ec5ad35 # Lamb Of God > Wrath > Shoulder Of Your God
+lib:1b8e034362db384371b8d9dca73a4514 # Laura Branigan > Ghostbusters > Hot Night
+lib:405fe57644f76eb538a73677a0554ed0 # Lost Fingers > Lost In The 80's > Pump Up The Jam
+lib:b14f152ff239b4ac7051ed814f8401d5 # Lost Fingers > Lost In The 80's > You Give Love A Bad Name
+lib:dd665d260000ec49256183a8aff2f860 # Lost Fingers > Lost In The 80's > You Shook Me All Night Long
+lib:fb38401f9295eca59d442cd5b7f0e748 # Lost Fingers > Lost In The 80's > Touch Me
+lib:bff5c92458c0eb4df5a8fab166eba9e1 # Lost Fingers > Lost In The 80's > Part-Time Lover
+lib:9a2f287cebfbc552737b8418977b2013 # Lost Fingers > Lost In The 80's > Fresh
+lib:8614948c377e00be5e8437fe0ec9273c # Lost Fingers > Lost In The 80's > Billie Jean
+lib:f9685cc5a8a0f02c07f734c2b71255b6 # Lost Fingers > Lost In The 80's > Careless Whisper
+lib:469889b2b312cec6abc3e92be1779907 # Lost Fingers > Lost In The 80's > Tainted Love
+lib:ab6dd0aff7c69e49a56ac5104bc3d653 # Lost Fingers > Lost In The 80's > Straight Up
+lib:88514de3e1a3e265b1dafae670e98246 # Lost Fingers > Lost In The 80's > Black Velvet
+lib:c02ab1215ef0bf00c0fad9ac01e3f3f4 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Emmenez-moi
+lib:02a0addda8db791d8007d34b84051e4d # Lullaby Players > Berçeuses Hommages à Charles Aznavour > La Bohème
+lib:18668f426120c3dfb5a34b97b95bec1b # Lullaby Players > Berçeuses Hommages à Charles Aznavour > For Me Formidable
+lib:76336c31a9c947e80813be3b1c353f63 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Les comédiens
+lib:14aadcaf92fa212188c4b8fe3c75b8e5 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Non je n'ai rien oublié
+lib:903e114f3387dc6d2d6bd22613a92810 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Hier encore
+lib:d080908aa21122e7a2a4baf0cdf3d193 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Et pourtant
+lib:78dee97a2ae3c31c4f673641b7d125d0 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Les plaisirs démodés
+lib:5dec6100d6114bb22d23ed21f60abca5 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Mes emmerdes
+lib:fd2e1b1b8979ecaf07a49956c78604e6 # Lullaby Players > Berçeuses Hommages à Charles Aznavour > Je te réchaufferai
+lib:514508786ab7020c95a7ba00a0c42c79 # Machine Head > Burn My Eyes > Davidian
+lib:90330e2e113cada0767d96a1498c360f # Machine Head > Burn My Eyes > Old
+lib:a7ab3091b781ed65f0cd76aabb2dbb29 # Machine Head > Burn My Eyes > A Thousand Lies
+lib:b39371ad88e13e2dff3142b9f74b0236 # Machine Head > Burn My Eyes > None But My Own
+lib:d040813b2c911c50f1dbd946f0ea0a9d # Machine Head > Burn My Eyes > The Rage To Overcome
+lib:f483889186c519f941ded3e1753f6214 # Machine Head > Burn My Eyes > Death Church
+lib:164eeed5d85f9131eef385c66af4cd0e # Machine Head > Burn My Eyes > A Nation On Fire
+lib:c34135e1bbd6c39b9817f801266587b2 # Machine Head > Burn My Eyes > Blood For Blood
+lib:829b96f5fb53689242d41081f703e58a # Machine Head > Burn My Eyes > I'm Your God Now
+lib:dc03c74ca0aa0db5ecd022093681df8f # Machine Head > Burn My Eyes > Real Eyes, Realize, Real Lies
+lib:b238bce31a851ec0169c72a27898fb73 # Machine Head > Burn My Eyes > Block
+lib:183804918df28b802ddde4f9485725b1 # Machine Head > Hellalive > Bulldozer
+lib:ed82c56ebabb9ea288925d5e09f231f3 # Machine Head > Hellalive > The Blood, The Sweat, The Tears
+lib:ffc911118aa13f5be9a9e36816206682 # Machine Head > Hellalive > Ten Ton Hammer
+lib:9638075a8d6b06b5c94877deefb2b386 # Machine Head > Hellalive > Old
+lib:db444ad37660149c49505bf5b38840d5 # Machine Head > Hellalive > Crashing Around You
+lib:d83d99a99126bbf4f6749b7bd6b78d6b # Machine Head > Hellalive > Take My Scars
+lib:365e150e97b80bcaea980b6638a4044d # Machine Head > Hellalive > I'm Your God Now
+lib:4751dff48f6d49956cf34bb0b776ce7d # Machine Head > Hellalive > None But My Own
+lib:ca014e3a8065b5fe4986c2ac5b8d0b76 # Machine Head > Hellalive > From This Day
+lib:a4a746c3647552465c59b7f424964eed # Machine Head > Hellalive > American High
+lib:c75a6591015b7e8cfee0e39f3f581e8b # Machine Head > Hellalive > Nothing Left
+lib:f37b85bf0d76ca174bbb7f1d8a7d0945 # Machine Head > Hellalive > The Burning Red
+lib:eb4cb9ee5c8b893b25626025482f93b6 # Machine Head > Hellalive > Davidian
+lib:f0ae626791e0ee992544a23225f884f8 # Machine Head > Hellalive > Supercharger
+lib:4cb0eca00d4a1d0e4cccd361d4e1685f # Machine Head > Kerrang! Remastered: Metallica's Master Of Puppets Revisited > Battery
+lib:804b7bdbd66bf0bad0e3c0dc84510189 # Machine Head > The Blackening > Clenching The Fists Of Dissent
+lib:055c291efabf2eaa86c5c7a28a42a831 # Machine Head > The Blackening > Beautiful Mourning
+lib:ed91ac171bb3dfb5917e0377eaaf27d8 # Machine Head > The Blackening > Aesthetics Of Hate
+lib:f0ac61b09f9ecb90401e8f1cb343dfde # Machine Head > The Blackening > Now I Lay Thee Down
+lib:7103dc51725d3489d7a93c26342ef7f5 # Machine Head > The Blackening > Slanderous
+lib:87df195ea76d468b34ae8558a77a4c53 # Machine Head > The Blackening > Halo
+lib:f799647ed73a685e31d14e8160e5f692 # Machine Head > The Blackening > Wolves
+lib:3e11fc011c66fab4866959853dc637d9 # Machine Head > The Blackening > A Farewell To Arms
+lib:28bb8bd56e795fa8ff8ce1ebd2f3c190 # Machine Head > The Blackening > Battery
+lib:61336efd6076b0e4167ddbd9a08ff445 # Machine Head > The Burning Red > Enter The Phoenix
+lib:c96cc029af9c8d9b05638e55f9c7a8da # Machine Head > The Burning Red > Desire To Fire
+lib:a82f8070ae68b85b709da4c02d6d724a # Machine Head > The Burning Red > Nothing Left
+lib:5c8387978dfdb8bfe17b15a6d214f6cd # Machine Head > The Burning Red > The Blood, The Sweat, The Tears
+lib:4b83d3b4244cef1cb891120495087a29 # Machine Head > The Burning Red > Silver
+lib:02d88dc7e515d833e877d98f02e4ce1e # Machine Head > The Burning Red > From This Day
+lib:056d2ce1154d0cdbdcdf2c3c299e1e70 # Machine Head > The Burning Red > Exhale The Vile
+lib:f19b3acafa7300786205f781def07d95 # Machine Head > The Burning Red > Message In A Bottle
+lib:b1ee8cddf34897ee9f4c5ed3bc33c419 # Machine Head > The Burning Red > Devil With The King's Card
+lib:014c82a7b57a336316a787ab6d0b5b7b # Machine Head > The Burning Red > I Defy
+lib:3fb42ea0bd0c0c607332a918999eb7e8 # Machine Head > The Burning Red > Five
+lib:3b4b30dc3b8b37cf11fea85b00181d72 # Machine Head > The Burning Red > The Burning Red
+lib:3843c8fa7136069b8aeb262e6ddbaa87 # Machine Head > The More Things Change... > Ten Ton Hammer
+lib:59a39a62a697b9920d7f469285869d11 # Machine Head > The More Things Change... > Take My Scars
+lib:e8b3deb81788b69bafcf58f9d029a813 # Machine Head > The More Things Change... > Struck A Nerve
+lib:fb5eda8897447315ad755b656b9ae2b0 # Machine Head > The More Things Change... > Down To None
+lib:0f77ba288498c72af86807a71039f80d # Machine Head > The More Things Change... > The Frontlines
+lib:95f2b8059a79c02fa8449c9a3b094de0 # Machine Head > The More Things Change... > Spine
+lib:7ae677876d6c2ac5adf2341b2a231d3b # Machine Head > The More Things Change... > Bay Of Pigs
+lib:98f997ea5bd317a0ce279c5b72bd5edd # Machine Head > The More Things Change... > Violate
+lib:3b946def5fc74178c752320d3e5d48da # Machine Head > The More Things Change... > Blistering
+lib:764d5228d122ea6d838df7bc7236397a # Machine Head > The More Things Change... > Blood Of The Zodiac
+lib:ef3995bbc8352cb136a2ec62a0977325 # Machine Head > Through The Ashes Of Empires > Imperium
+lib:5bf06efaa5954fd90910242edb9b9758 # Machine Head > Through The Ashes Of Empires > Bite The Bullet
+lib:4dbebf31c272c84b4d4fba801238566c # Machine Head > Through The Ashes Of Empires > Left Unfinished
+lib:0cec7e4bf2c43fdc3c99685cc1fd72df # Machine Head > Through The Ashes Of Empires > Elegy
+lib:a8aae66c4951cbb4fd677984fe9eaeee # Machine Head > Through The Ashes Of Empires > In The Presence Of My Enemies
+lib:5aa3b4c4514328c9727f979495b752a5 # Machine Head > Through The Ashes Of Empires > Days Turn Blue To Gray
+lib:340ab2a1e86b1dbc8c971fcd89df9810 # Machine Head > Through The Ashes Of Empires > Vim
+lib:95de5130a879ea53d9553b83889939c5 # Machine Head > Through The Ashes Of Empires > All Falls Down
+lib:973b6c477327582be0dd523bb7d8d1d1 # Machine Head > Through The Ashes Of Empires > Wipe The Tears
+lib:1f3e7c3be68690325558bde6680d3f12 # Machine Head > Through The Ashes Of Empires > Descend The Shades Of Night
+lib:efd14f6fb5ba389f148211301562cf1b # Machine Head > Unto The Locust > I Am Hell (Sonata in C#)
+lib:87a0caf637aa4a21c6806af9d3de0e92 # Machine Head > Unto The Locust > Be Still And Know
+lib:cf7f31bba390cb1e719e97f2149d0335 # Machine Head > Unto The Locust > Locust
+lib:b3893a890cc7085b1abbcf829351b02e # Machine Head > Unto The Locust > This Is The End
+lib:8a83bfcd9636ea74c780afb230310188 # Machine Head > Unto The Locust > Darkness Within
+lib:14db94dc0c94a38a76a7e9b466d58ef7 # Machine Head > Unto The Locust > Pearls Before The Swine
+lib:f086aee722a4176e6dce7ce28cb31095 # Machine Head > Unto The Locust > Who We Are
+lib:e84b637986f27a1542a2247ec42bb1c7 # Machine Head > Unto The Locust > The Sentinel (Bonus Track)
+lib:f862494e5999aa12fb5434e9129f196d # Machine Head > Unto The Locust > Witch Hunt (Bonus Track)
+lib:debb5ace2f85f51e58c5b8820d138f46 # Machine Head > Unto The Locust > Darkness Within (Acoustic Bonus Track)
+lib:9b79ae93f91220ab5e52e030ab23ae86 # Marilyn Manson > Lest We Forget > Personal Jesus
+lib:ec336cf736e64c976df2bf5c83c0f47a # Marilyn Manson > Lest We Forget > Tainted Love
+lib:9404c532432571d4e5b81c01e4ad9ae5 # Marilyn Manson > Lest We Forget > Sweet Dreams
+lib:91ab1db4808745b08583e547a35d23f0 # Marilyn Manson > Lest We Forget > This Is The New Shit
+lib:2e29864f47da7f358eeaf4318e0f6f81 # Marilyn Manson > Lest We Forget > The Beautiful People
+lib:d4b06cd6da34dad4a19c81d0749e6af4 # Mastodon > Kerrang! Remastered: Metallica's Master Of Puppets Revisited > Orion (Instrumental)
+lib:f0ee928f75b0c2b6a7c8c3dcdcd75791 # Metallica > ...And Justice For All > Blackened
+lib:954586a159eaee86b3db6d6e5d880b4b # Metallica > ...And Justice For All > ...And Justice For All
+lib:e31b365c71f5bd94ab09b80f6a92a13e # Metallica > ...And Justice For All > Eye Of The Beholder
+lib:5de07e8e4b9b7e416542b065e5015208 # Metallica > ...And Justice For All > One
+lib:f436db3243425affb5ecdb5c378204a6 # Metallica > ...And Justice For All > The Shortest Straw
+lib:f9ae20577a919e85df64021678821427 # Metallica > ...And Justice For All > Harvester Of Sorrow
+lib:b3ac9829ad61af831b042d25139c20d8 # Metallica > ...And Justice For All > The Frayed Ends Of Sanity
+lib:60848c5775b128e502fcde31fcfaf12d # Metallica > ...And Justice For All > To Live Is To Die
+lib:ab1b33925c0043f7de07d311448ce4a4 # Metallica > ...And Justice For All > Dyers Eve
+lib:6f6327258a00be8ec7395ea9981addaf # Metallica > Kill 'Em All > Hit The Lights
+lib:bc236b132daa2883a7d3c97b6a2f6bdc # Metallica > Kill 'Em All > The Four Horsemen
+lib:22897dc02bc82bcc50e9f742bd68981c # Metallica > Kill 'Em All > Motorbreath
+lib:b6eb1145eee52c2f3d91808b4e87eebc # Metallica > Kill 'Em All > Jump In The Fire
+lib:00413754abc9eac2c4c2aebd75a585e2 # Metallica > Kill 'Em All > (Anesthesia) Pulling Teeth
+lib:1bf4c76c347c04af51609298a0c61c9c # Metallica > Kill 'Em All > Whiplash
+lib:5907483d22080869768ea086d5f8a816 # Metallica > Kill 'Em All > Phantom Lord
+lib:83c2ae12e3ac0a4b694834c33a321dad # Metallica > Kill 'Em All > No Remorse
+lib:899ca05e865aace759108c712e74955c # Metallica > Kill 'Em All > Seek & Destroy
+lib:e8c940abb031460d60b643331816008e # Metallica > Kill 'Em All > Metal Militia
+lib:6807965f4b846d00344072e4f0b262e5 # Metallica > Live Shit: Binge And Purge > Enter Sandman
+lib:902774e24bc335e54b6976730c85408a # Metallica > Live Shit: Binge And Purge > Nothing Else Matters
+lib:f971a13e3ae9caef2cdcea2b48febced # Metallica > Live Shit: Binge And Purge > Through The Never
+lib:6b37875d80c286448a8a643da90ca712 # Metallica > Live Shit: Binge And Purge > Wherever I May Roam
+lib:a20567e87979177e9949e621192b44fd # Metallica > Live Shit: Binge And Purge > Creeping Death
+lib:fdfe3379159d648fec51a73918918da5 # Metallica > Live Shit: Binge And Purge > For Whom The Bell Tolls
+lib:cf0b9b417ae679f42ffdc1ad9ad6a2c8 # Metallica > Live Shit: Binge And Purge > Fade To Black
+lib:32eecb6e79489bfc6ca0847dca05578a # Metallica > Live Shit: Binge And Purge > Harvester Of Sorrow
+lib:ff7d70eae1b4fd2f3d19ab5bb32c9548 # Metallica > Live Shit: Binge And Purge > Am I Evil?
+lib:5af586ae493909bbe3152aa5da8a4cd7 # Metallica > Live Shit: Binge And Purge > Master Of Puppets
+lib:88c054f74245ecc2d5ecb29a9d03d8f9 # Metallica > Live Shit: Binge And Purge > Welcome Home (Sanitarium)
+lib:7c0cfdf73e107790492f69b2d54977c9 # Metallica > Live Shit: Binge And Purge > Last Caress
+lib:1f2fb07e8446f586a6fc63d093150908 # Metallica > Live Shit: Binge And Purge > Seek & Destroy
+lib:940a99b042911257497c84986e20c630 # Metallica > Live Shit: Binge And Purge > Sad But True
+lib:1fc58e93efba2d3ed75ce2242fc17f3d # Metallica > Live Shit: Binge And Purge > One
+lib:d65f660e073725f4fa77e7b33bca35e2 # Metallica > Live Shit: Binge And Purge > Of Wolf And Man
+lib:c9b43b2b2fe99ed310734ce812c2487f # Metallica > Live Shit: Binge And Purge > Whiplash
+lib:753f744051c4c83ad9d1169d621f8139 # Metallica > Live Shit: Binge And Purge > Battery
+lib:4739e9700b61f01f9f8378bb86de51a0 # Metallica > Live Shit: Binge And Purge > The Four Horsemen
+lib:3248d477aa59c14864f993b702062152 # Metallica > Live Shit: Binge And Purge > The Unforgiven
+lib:d0934df69d5e16da0f42aa176d5bfb40 # Metallica > Live Shit: Binge And Purge > Motorbreath
+lib:a611ab32ceacca8933f40a88e9504a5e # Metallica > Live Shit: Binge And Purge > Justice Medley
+lib:bbaba11bdd831baa28660fc178485c63 # Metallica > Live Shit: Binge And Purge > Solos (Bass/Guitar)
+lib:f93185dc3c9a4a2eb5b264e1247c4600 # Metallica > Live Shit: Binge And Purge > Stone Cold Crazy
+lib:001c4a573c8eac4d829fe14349a7ebff # Metallica > Load > Ain't My Bitch
+lib:5427c6002556bc69b1e0fe94a128c529 # Metallica > Load > The House Jack Built
+lib:bfe92fb65c2d272ace25bcd2def6daed # Metallica > Load > Until It Sleeps
+lib:2a4abfb497e45838513af3f357d2c65c # Metallica > Load > King Nothing
+lib:34c6e28afbdfb15e579e5be22b044a73 # Metallica > Load > Hero Of The Day
+lib:449dbdfd524c1d94fa67a007b77faa0b # Metallica > Load > Bleeding Me
+lib:4423055af391e0c7f69f7d37df5c665e # Metallica > Load > Poor Twisted Me
+lib:56c8b0a253eac5b80930849c2d6fd4d4 # Metallica > Load > Wasting My Hate
+lib:7f5be2889ffc736ce90fe8f054d7c8ad # Metallica > Load > The Outlaw Torn
+lib:bd582c63c752fb2b9af34c0307e61b1f # Metallica > Master Of Puppets > Battery
+lib:54898cf6a6120daf5f0608c7e42315c2 # Metallica > Master Of Puppets > Master Of Puppets
+lib:5c14084276b641b646e1d02694897396 # Metallica > Master Of Puppets > The Thing That Should Not Be
+lib:b31ab58b5397d182a1a3a152d2f42573 # Metallica > Master Of Puppets > Welcome Home (Sanitarium)
+lib:211639682127e759e224ad282e747c5f # Metallica > Master Of Puppets > Disposable Heroes
+lib:c263c50a700190347563eaaa8b476196 # Metallica > Master Of Puppets > Leper Messiah
+lib:85801c356235f9e8e4e3eb21be7f72b2 # Metallica > Master Of Puppets > Orion
+lib:81ee956277bec3a71226d2106483df36 # Metallica > Master Of Puppets > Damage Inc.
+lib:ba86ef8de4f9786d3ad37f6ce4a27c18 # Metallica > Metallica > Enter Sandman
+lib:3c2d5179c21a13faf39d1e3b67b3fa09 # Metallica > Metallica > Sad But True
+lib:e883b3bce187dcb26fbd78750b4d7edb # Metallica > Metallica > Holier Than Thou
+lib:c50c963aa29bf109bd63c56988cdf0ec # Metallica > Metallica > The Unforgiven
+lib:7d359494686711d5fd5187ee17516b33 # Metallica > Metallica > Wherever I May Roam
+lib:30863f458b23f30e188cb09a6f4862ab # Metallica > Metallica > Don't Tread On Me
+lib:6a223728d89f106136020d380b780842 # Metallica > Metallica > Through The Never
+lib:e2f8b3c854500d93ab896cba041d8d38 # Metallica > Metallica > Nothing Else Matters
+lib:8f86c4c3be27956c9bdd02f20880190a # Metallica > Metallica > Of Wolf And Man
+lib:f8ca3d2ebfb24540b24917d19d0b8c17 # Metallica > Metallica > The God That Failed
+lib:fa8e8d7a64c948ebc0808a35c503f071 # Metallica > Metallica > My Friend Of Misery
+lib:7db21111cc3f308fc39cfb74f497a9cf # Metallica > Metallica > The Struggle Within
+lib:45a6bb7d3763febcc31db824d82c029b # Metallica > Reload > Fuel
+lib:8b721b70f57ea33115a66bea3c4c17ab # Metallica > Reload > Devil's Dance
+lib:a43c0f95f22dd64c7bcdd961aac8944f # Metallica > Reload > The Unforgiven II
+lib:3286c9897cfc0e4a05de1565d7beee5d # Metallica > Reload > Slither
+lib:b947cfa04a642d2aa5b49673f3e92b65 # Metallica > Reload > Bad Seed
+lib:3d6cdf6036e2e75db25873aabd76cc2b # Metallica > Reload > Where The Wild Things Are
+lib:df61354481f73f6e68afb538808f57fa # Metallica > Reload > Prince Charming
+lib:5318b8fb2d16a71bfb4158cce0790184 # Metallica > Reload > Low Man's Lyric
+lib:d094e9d0b6ee1dae7dd09a7401c44f4a # Metallica > Reload > Attitude
+lib:e1c309836bf9e1599d75541f772be4d4 # Metallica > Reload > Fixxxer
+lib:0a46cafe547e2a1990cccbd286d280d1 # Metallica > Ride The Lightning > Fight Fire With Fire
+lib:7d6facc9eef6a1147e51376915d06d6d # Metallica > Ride The Lightning > Ride The Lightning
+lib:fb6024ad2eb53b59f661fe94f2331a6b # Metallica > Ride The Lightning > For Whom The Bell Tolls
+lib:fae173be97e0c814adb9e71c333fa210 # Metallica > Ride The Lightning > Fade To Black
+lib:ee5558a76b8b473c602ebb905202d6d6 # Metallica > Ride The Lightning > Trapped Under Ice
+lib:9d7132f7c0444939f17f5418f3b41c92 # Metallica > Ride The Lightning > Escape
+lib:2d1d31068e54c49d75ceead975831ca2 # Metallica > Ride The Lightning > Creeping Death
+lib:61169eb308322e09115a018dcf9c5a2e # Metallica > Ride The Lightning > The Call Of Ktulu
+lib:0be1abd745b179e573c3392287418d18 # Metallica > The Motörheadache Mess > Overkill
+lib:42d6627116581c75e3ba388cfccc61a1 # Metallica > The Motörheadache Mess > Damage Case
+lib:3a957343a03f25bc305ee79261b9e171 # Metallica > The Motörheadache Mess > Stone Dead Forever
+lib:3b62605f654f752f92a0be2be2000e87 # Metallica > The Motörheadache Mess > Too Late Too Late
+lib:3b48458a384ea2cd5a9a97c77a1832f4 # Mick Smiley > Ghostbusters > Magic
+lib:a34b5692399a9cb2326897f8af7c6e35 # Motörhead > Ace Of Spades > Ace Of Spades
+lib:bd31257286bc652f4b4bafa6781e6cb6 # Motörhead > Ace Of Spades > Love Me Like A Reptile
+lib:6feeee799461160e3a6d746efe0a7a23 # Motörhead > Ace Of Spades > Shoot You In The Back
+lib:1e4d22c326bf642700a57011846733e7 # Motörhead > Ace Of Spades > Live To Win
+lib:343a9b3826714fc0b387f346bc9191e5 # Motörhead > Ace Of Spades > Fast And Loose
+lib:0d07807a65e00fba0d654dd94e912b18 # Motörhead > Ace Of Spades > (We Are) The Road Crew
+lib:2e2cd029f8594e9644e4653c7b437e49 # Motörhead > Ace Of Spades > Fire, Fire
+lib:b3eb7dc8cf9e20e8bda7a01001f651c4 # Motörhead > Ace Of Spades > Jailbait
+lib:b45c96cc5cfd71fede23df3cdbe57135 # Motörhead > Ace Of Spades > Dance
+lib:6e34f8aff37c25c3ea11de16a1ed8c31 # Motörhead > Ace Of Spades > Bite The Bullet
+lib:fef9402cf39cf46ff179601416ddd05a # Motörhead > Ace Of Spades > The Chase Is Better Than The Catch
+lib:8b77f624bdb02408a7cca5564428b4ac # Motörhead > Ace Of Spades > The Hammer
+lib:a6003b10542d9b6d6acd0549c770ede7 # Mudvayne > L.D. 50 > Monolith
+lib:f01efd4357a2a8e7a8cf5aeee5d60c57 # Mudvayne > L.D. 50 > Dig
+lib:05615d81121af020858df6feb30f82e4 # Mudvayne > L.D. 50 > Internal Primates Forever
+lib:daf22d41848616725ef6c9ad9344a320 # Mudvayne > L.D. 50 > -1
+lib:b64dd598616c5ef28b37df9df73fbc6a # Mudvayne > L.D. 50 > Death Blooms
+lib:68ad1c98b1b64bf8a4015d464beb2eaa # Mudvayne > L.D. 50 > Golden Ratio
+lib:7ebf05b9be10e2e4eab768776fe18240 # Mudvayne > L.D. 50 > Cradle
+lib:7321f7c968957f64d2df7d200b8a48ee # Mudvayne > L.D. 50 > Nothing To Gein
+lib:b04864dd5361599463334f223a6f8b0e # Mudvayne > L.D. 50 > Mutatis Mutandis
+lib:3836e98f7d6975d389ff9b893a47d254 # Mudvayne > L.D. 50 > Everything And Nothing
+lib:17a44a7993e1047e39b55cee0e69d0ea # Mudvayne > L.D. 50 > Severed
+lib:357998d95d0720eef7572ad0100986a5 # Mudvayne > L.D. 50 > Recombinant Resurgence
+lib:e208b68a8ac383eef632cc261dc6beb2 # Mudvayne > L.D. 50 > Prod
+lib:d34c732e1ac23ee8e885f13d9c198c26 # Mudvayne > L.D. 50 > Pharmaecopia
+lib:de63258d3fa856a42ee39f388c563878 # Mudvayne > L.D. 50 > Under My Skin
+lib:022bb29f8db1b90f6502d5298b5cdba0 # Mudvayne > L.D. 50 > (K)now F(orever)
+lib:915edf0714981612feb840feb1265bcb # Mudvayne > L.D. 50 > Lethal Dosage
+lib:905c1d350f5ca8d3e29780f33004eb6e # Mudvayne > Lost And Found > Determined
+lib:313703bb38c0cf8c78058917b5f4f629 # Murderdolls > Beyond The Valley Of The Murderdolls > Slit My Wrist
+lib:85f8a0dae135251b46523e073f23fb61 # Murderdolls > Beyond The Valley Of The Murderdolls > Twist My Sister
+lib:7e5c9dba9e47c90088ae845a7f0e8641 # Murderdolls > Beyond The Valley Of The Murderdolls > Dead In Hollywood
+lib:782231e5878a2f2c5bee4a0d1f89317a # Murderdolls > Beyond The Valley Of The Murderdolls > Love At First Fright
+lib:d70b23001dc9cb81607d55d153347902 # Murderdolls > Beyond The Valley Of The Murderdolls > People Hate Me
+lib:d5f68fbeda661d3d880fe1609ce61d44 # Murderdolls > Beyond The Valley Of The Murderdolls > She Was A Teenage Zombie
+lib:05ff6afbdbce4294e75fd0345c846e29 # Murderdolls > Beyond The Valley Of The Murderdolls > Die My Bride
+lib:38054d7ab7688984723edee0dbc10987 # Murderdolls > Beyond The Valley Of The Murderdolls > Grave Robbing U.S.A.
+lib:f4db2d8014ee0f15b577df51f03f8921 # Murderdolls > Beyond The Valley Of The Murderdolls > 197666
+lib:5534ea6ccf4f946f9597097ee1d63c66 # Murderdolls > Beyond The Valley Of The Murderdolls > Dawn Of The Dead
+lib:ee4b9d7aa1a4908d934ed5afd9970e7b # Murderdolls > Beyond The Valley Of The Murderdolls > Let's Go To War
+lib:66ddccf487999b24a8ea019a1c51e00a # Murderdolls > Beyond The Valley Of The Murderdolls > Dressed To Depress
+lib:e66beba47dcc0c9b055a259890b2c21b # Murderdolls > Beyond The Valley Of The Murderdolls > Kill Miss America
+lib:61ac45ecbad3492cd02e90d780f8aa16 # Murderdolls > Beyond The Valley Of The Murderdolls > B-Movie Scream Queen
+lib:226e206f28a1251ef133ce53396aff6a # Murderdolls > Beyond The Valley Of The Murderdolls > Motherfucker, I Don't Care
+lib:0700616bb1d898f025039fd354807cd6 # Murderdolls > Beyond The Valley Of The Murderdolls > White Wedding
+lib:7a673578f258d8a869abfacdc5cc08bc # Mutoid Man > Bleeder > Bridgeburner
+lib:109085269ca49e1ea4fdd52b0d92520d # Mutoid Man > Bleeder > Reptilian Soul
+lib:f00d1ff2eb71971cd18dc9294af587dc # Mutoid Man > Bleeder > Sweet Ivy
+lib:2b95bfd972829f9c68653ae40ca792e8 # Mutoid Man > Bleeder > 1000 Mile Stare
+lib:fcfd37c37e8d9ca16b1f20840b534497 # Mutoid Man > Bleeder > Surveillance
+lib:59569ec42be587cfac3e0129f891665b # Mutoid Man > Bleeder > Beast
+lib:8fad4abdb10ec0d56d42e907b4229287 # Mutoid Man > Bleeder > Dead Dreams
+lib:6582f2a1890bd349b19fb2611cc31eb6 # Mutoid Man > Bleeder > Soft Spot in My Skull
+lib:967c22fbf65f41dbf2ef42d182c4e476 # Mutoid Man > Bleeder > Deadlock
+lib:8e9d468c22d22667e9c714673277603b # Mutoid Man > Bleeder > Bleeder
+lib:1559804ddbf5b96d90abc1d77c148e59 # Mutoid Man > Helium Head > Gnarcissist
+lib:9167f8a93c0fab6a4571561c374af022 # Mutoid Man > Helium Head > Scavengers
+lib:a444e76997cbfb1f5bf6da1235bda084 # Mutoid Man > Helium Head > Scrape the Walls
+lib:5fada979bb63b9578b03705bf091841f # Mutoid Man > Helium Head > Friday the 13/8
+lib:597fd79ab4d5e0f2e812918ea3dbe4f0 # Mutoid Man > Helium Head > Sacriledge
+lib:a99fb66731c3d33c729f70abfbcd6209 # Mutoid Man > Helium Head > Lost in the Hive
+lib:79d74a62da7381647623d3b083b3ea23 # Mutoid Man > Helium Head > The Manimals
+lib:fd4b80b7f1bc5feb863a5e89801269b7 # Mutoid Man > War Moans > Melt Your Mind
+lib:a1ebe27c04191b9386bd8543b68e046c # Mutoid Man > War Moans > Bone Chain
+lib:e0d0b7871e15e8fec5dee5c50b04c83a # Mutoid Man > War Moans > Micro Aggression
+lib:3439690b0dd094390bfb09f29e63e6a6 # Mutoid Man > War Moans > Kiss of Death
+lib:58c2df2a79a8ab82a7ce4f7b835b2e11 # Mutoid Man > War Moans > Date with the Devil
+lib:5c93ff310f443301fdb634e776f3ac72 # Mutoid Man > War Moans > Headrush
+lib:0e91b2624dbe79b4cf0d43075dafec35 # Mutoid Man > War Moans > Irons in the Fire
+lib:03c13b30fd3d6cee64df937e8cfe7832 # Mutoid Man > War Moans > War Moans
+lib:c52f7951c32e244e506483efcc9a467c # Mutoid Man > War Moans > Wreck and Survive
+lib:c48b3771ea2d9829eafab49396e989cb # Mutoid Man > War Moans > Afterlife
+lib:c27a1a6d6de629b6200bd397f62e5717 # Mutoid Man > War Moans > Open Flame
+lib:e7f31e202318c1ebf9b818adb8fd877b # Mutoid Man > War Moans > Bandages
+lib:7e528f6c92e71b359fd1ff5be8f84cb0 # N*E*R*D > In Search Of... > Rock Star
+lib:170ed1676e2a20e392cf3b43563a399a # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Tourne Tourne Petit Moulin
+lib:1b7c7f667fc52d6eeca3131c49e45ffe # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > A La Main
+lib:4152c809abe3b1c6f9d5647550290c8b # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les Petites Mains Font
+lib:a3683700eb42a8d0f8115a2676625b58 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Cache Ton Poing
+lib:261d63418c5ef3758b28075f89bc71f1 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Petites Mains
+lib:1d093e9b12e1a260f5f928bd540d1258 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Celui-La C'est Michounet
+lib:181faba6d9448d1bb64bf83e3c220f9b # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Enroulez Le Fil
+lib:a2519778e34339fd799e327c580aa7c2 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Cinq Petits Cochons
+lib:b71cbd4cac88d00f0bb136e19cb81175 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Petit Escargot
+lib:86877a26b788c2a233880b40dd526836 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Clic Clac
+lib:6d651165529d69c4505458a83a5085f6 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Mains En L'air
+lib:41c4513f718c625313562791e0ab3508 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Cot Cot
+lib:513d332c2d38fa645227fc4a8e40abe4 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les Petits Poissons Dans L'eau
+lib:052b61d872f27588c08a9b768bcdc52d # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Celui Qui Va À L'eau
+lib:0cf8649b1a2e683f6f3428d13448e071 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Vole Vole Vole Papillon
+lib:93de7ea2bc89c6179e85a80a790487bc # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Fermer Les Volets
+lib:36d37f22701b2ea9a96432f05f1e0bf7 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Pomme De Reinette
+lib:4978c7eff2bb6ed141dbc8d117d1e089 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > J'ai 2 Mains
+lib:d4ea766a58df5699ffe2a9499bcbe066 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Un Chat Gris Dormait
+lib:34e593cc79b6dd04f8d1070a47fc5571 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > La Poule A Fait Son Nid Ici
+lib:7ffb94c9b0ee4967162571a4c4f4c8dc # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Jardin
+lib:93cbcc64506bdf6e2e7dfbbbce118916 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Petit Doigt
+lib:c5249399d8b5b42923dc699980551839 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Petit Pouce A Dit
+lib:de5d4204e41e028b6ca00ec585dd9474 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Grand Cerf
+lib:f5879d7ef5f33c513c951414b184ad50 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Voici La Ruche
+lib:ccd9ad13800b8dbc2d7fa7b2eddc40eb # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Un Petit Pouce Qui Marche
+lib:328bfa1f8e9a899d1c842cf762c7429a # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Petit Rat Est Passé Par Là
+lib:bee51347f89aa16b55bcd1cb2db2da7e # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Une Souris Verte
+lib:40ef99fc4e3aa648c328a8904d125f94 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Pouce Est Allé Au Marché
+lib:1d4e031c44854865d88d78e756b0dc46 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Canard Dans La Mare
+lib:7b601f9f0a223151bae73dd763e7c6f5 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Monsieur Et Madame
+lib:8784d5ceda5eb9d594b9056dd072c4e7 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Ainsi Font Font Font
+lib:758baf939b5a5f3148e900eae7291eb6 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Monsieur L'escargot S'endort
+lib:fd00b5ccb59439328c0ea4cd4025f414 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > P'tit Lapin Plein De Poils
+lib:3569a113f15c94e6cdb93379d13b2245 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Patte Patte De Velours
+lib:265d1d1a2799e01b5bcb5648223c1313 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Alouette Gentille Alouette
+lib:cd9feaf7f13d239669a8a9cdefc189c4 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Perlinpinpin Et Merlinpinpin
+lib:8147cfc7a62ddd277a7484b1ee69d9a8 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Scions Scions Du Bois
+lib:bdfb76b66ca6aa75774b2b5c8a296069 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Petit Pouce
+lib:5d50071fa737bdf7c35ae7b6a0b8314a # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Un Petit Cochon
+lib:ea5e6224492a5b84eb70c348621e4687 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Pouce Caché
+lib:0d4c1c34b75b0d5a634be4b0cee8d5b7 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Coccinelle Demoiselle
+lib:423d7439e066567be771fc2fed19b4ac # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Que Fait Ma Main
+lib:14d75ee827d6065ba49460fcd6427a2c # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Tapent Tapent Petites Mains
+lib:fdb002e0dc425401a56517668f9925f7 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Roulez Roulez
+lib:d449255b67d53461b061f6fe3059621c # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Qui Est Là ?
+lib:41a31d48d7fddee1af782376f712b83f # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les Cro Cro
+lib:ae877f4d5bbf228dc9c480e20b7fa5a1 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Toc Toc Mr Pouce
+lib:32fc26117fa3243f189a75a5311cfb26 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Savez-Vous Planter Les Choux ?
+lib:d4ea766a58df5699ffe2a9499bcbe066 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Un Chat Gris Dormait
+lib:51fdbc105688c9cac2715e8798b1d262 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > La Pêche Aux Moules
+lib:6532b26f6912bca9d8a765247dfb7ceb # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Un Petit Bonhomme
+lib:bd05fc3944e64431df00bb9d2d8aa4e9 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Une Marionnette
+lib:c4db15b8626028ff8c75b038acf6320a # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Petit Poussin Picore
+lib:4ff379355811d29fe2ba5d92c17ac429 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Voici Ma Main
+lib:b32ba8c955bfba04594a9b50faab49c9 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Frère Jacques
+lib:be47303ffaf9f33848be96397436c3c6 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Voilà Ma Main
+lib:c14c7f76d0125506a5dac2392d854e9f # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Celui-Ci A Secoué L'arbre
+lib:76f8f37232fbe7bdc3ba3d33bc2f792f # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Poucelot
+lib:f57b11cf94a94c418e110d9fecc81f8c # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Petit Poney
+lib:2c1542a100228726c0efcb3e107dff43 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Petit Berger
+lib:055dcd661c6a4beb3486f599eb895d28 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les Oiseaux Tiroulirouli
+lib:efb7d0150f18764dc348b11fa6a6c3cb # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > 1, 2, 3 Voilà
+lib:b0112caf8bf4a1c0cccc8a7ee75306ee # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Deux Petits Bonshommes
+lib:bb8767a43e6ee3c1d019b5939b260b80 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Pouces Levez Vous
+lib:035581ae7adc55072bf262b8593373a4 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Minet Minet
+lib:813ff2a2f009cda2244fb781170d7cec # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Celui-Ci Va À La Chasse
+lib:5677159ed859ba4f3bdaeb1d1e97a651 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Pouces Êtes-Vous Là ?
+lib:d29dd73ce3c3e0dfed8ec2e169205b34 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Le Pouce Part En Voyage
+lib:43b6710141bae4ef99cc3530b83f8dc8 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > La Poule
+lib:098ff0a7978d5af484933c38505ab2a7 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Gros Pouce
+lib:e16fbea63cd4d3cf5b87835d33b6568a # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Les 5 Doigts
+lib:fd2da971408d9e30c6b5088a711f2452 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Hou Hou Voici Le Loup
+lib:89260f1c5c4887f0f832ac955369274c # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Bonjour L'escargot
+lib:d1c41f6ef8b79e1d2e0b4aadf355e35c # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Ma Main Est Une Fleur
+lib:1e3e1bfbdd95526deedfcceb2394af97 # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > Je N'ai Rien Vu
+lib:70d71c716799d781b836f476c748441b # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Maryse Philip > 80 Comptines À Mimer Et Jeux De Doigts > 10 Enfants
+lib:a56f517d5a3c731a9346128db1e7cd1a # Nadège Vacante, Gérard Beauchamp, Marie-Françoise Cattenoz, Rémi > 80 Comptines À Mimer Et Jeux De Doigts > Une Poule Sur Un Mur
+lib:952f189a2651c16b9d3ed3d7a7c40063 # Nailbomb > Point Blank > Wasting Away
+lib:8dbb89f2c11de8d1eae4626b2b12e136 # Nailbomb > Point Blank > Vai Toma No Cu
+lib:d5e7eadf134dc70b7dc63a7f0aa60211 # Nailbomb > Point Blank > 24 Hour Bullshit
+lib:64a9f7d70762fabdb80d354e385386ef # Nailbomb > Point Blank > Guerrillas
+lib:9be5e7e42ea3d8bc1e961350705c918a # Nailbomb > Point Blank > Blind and Lost
+lib:b9cb72447106cd182e9468e69e4c27e4 # Nailbomb > Point Blank > Sum of Your Achievements
+lib:7356904a4b1718651e5202910d57a6b7 # Nailbomb > Point Blank > Cockroaches
+lib:7c19d1c99d2618c801271ba7e715dd18 # Nailbomb > Point Blank > For Fuck's Sake
+lib:e32334482815f6d835221a5f97d723fb # Nailbomb > Point Blank > World of Shit
+lib:3ac326043df08778c443fc81250f5207 # Nailbomb > Point Blank > Exploitation
+lib:fc1802f9f1084a088ac5f23602e4d889 # Nailbomb > Point Blank > Religious Cancer
+lib:53599f6a9e13bac9e804c83f948c268c # Nailbomb > Point Blank > Shit Pinata
+lib:3d3a46d8411fce727daec48d3d5f0ac8 # Nailbomb > Point Blank > Sick Life
+lib:39736817af4ffd564a5a034f8901c77a # Nicolas Jules > Comprend qui peut (Boby Lapointe repiqué) > Framboise
+lib:fe91bf1bfcc34da38f729877a5eefa3a # Nicolas Jules > Comprend qui peut (Boby Lapointe repiqué) > Loumière tango
+lib:c39ea4a4dc3e46b8b7748e5359491a0e # Nicolas Jules > Powête > Temps De Chien
+lib:5640b3c221bf31a221a1c471a83b4edc # Nicolas Jules > Powête > Celui Qui N'a Rien
+lib:36ba5785e4872b51e08d054fb2b4610f # Nicolas Jules > Powête > Papier Bleu
+lib:2fd3437348b130932b80d4ef9ae45811 # Nicolas Jules > Powête > Lulu
+lib:044aaf79705b9823ea5bd42963dfcfea # Nicolas Jules > Powête > Sais Tu Faire Le Poête Sans Les Mains
+lib:3888167d285a5d90bda73bc455d66a54 # Nicolas Jules > Powête > Mon Canard
+lib:5327b8350d473d929c9e51ce26cc4d91 # Nicolas Jules > Powête > Dans La Gueule
+lib:82e7ec3008b1ec3b1a2b2519b212f40c # Nicolas Jules > Powête > Powête
+lib:8f393b33a7713acfe84527b6c91c01fd # Nicolas Jules > Powête > La Vue
+lib:96c21cd75c0bea7571823c32c289861c # Nicolas Jules > Powête > Le Sac À Ma Copine
+lib:a7c009e0f85631d4def15d69263b3c4f # Nicolas Jules > Powête > Plumer Les Anges
+lib:a03b252a21a3405b354574951d1b9132 # Nicolas Jules > Powête > Shake It Montréal
+lib:e04ed2c980998c731932d0d1bba0e456 # Nicolas Jules > Powête > Train De Ville
+lib:6b9212203a6e492faca9776e9dcdea68 # Nicolas Jules > Powête > Marie-Carole
+lib:e2945e2812f4e39b932fe5c6ffca86f4 # Nicolas Jules > Powête > Le Grand Aaah
+lib:18ba10f17a803b8ed590d7b77223e61d # Nirvana > MTV Unplugged In New York > About A Girl
+lib:3b39619e0bd56a35df33ef06bfbaff61 # Nirvana > MTV Unplugged In New York > Come As You Are
+lib:e0b9ec9bfbe7fa619bb81705341bd220 # Nirvana > MTV Unplugged In New York > Jesus Doesn't Want Me For A Sunbeam
+lib:d9d2f39468c24db0b35533613f376f89 # Nirvana > MTV Unplugged In New York > The Man Who Sold The World
+lib:7d2fa6d3ef73a88c8c894d9c92b5d8d0 # Nirvana > MTV Unplugged In New York > Pennyroyal Tea
+lib:7151d5d200770d05e5d7e870a2c590b1 # Nirvana > MTV Unplugged In New York > Dumb
+lib:918e7d8d63888d63757f50016eed070d # Nirvana > MTV Unplugged In New York > Polly
+lib:9ac6b38ce40a6d1c516dea6895608d01 # Nirvana > MTV Unplugged In New York > On A Plain
+lib:8b786469b0965b39cae5cc776faa5c5c # Nirvana > MTV Unplugged In New York > Something In The Way
+lib:a986b10f597ac79b478f065b4a383325 # Nirvana > MTV Unplugged In New York > Plateau
+lib:2b512ac98a2180b469a92c457796b369 # Nirvana > MTV Unplugged In New York > Oh Me
+lib:3266e814f49932f239f50ba92fef7404 # Nirvana > MTV Unplugged In New York > Lake Of Fire
+lib:8506582166d7da73efbee032ae8bb599 # Nirvana > MTV Unplugged In New York > All Apologies
+lib:d019abeff0a5418031762b0bb78d41ac # Nirvana > MTV Unplugged In New York > Where Did You Sleep Last Night
+lib:d1769c543aaefdbe3c4a6b4667d1a403 # Obituary > World Demise > Don't Care
+lib:d51fcc5764c8e5bca5f5be73dba30561 # Obituary > World Demise > World Demise
+lib:84660387e9468d454f3da6b24314671e # Obituary > World Demise > Burned In
+lib:5ffb21781f60e3103581dc5935bb6e5d # Obituary > World Demise > Redefine
+lib:d2b1a39f6e347d2bfa310246dd2dbc1d # Obituary > World Demise > Paralyzing
+lib:2634b862edd29ec98d2f13c5c9b6439d # Obituary > World Demise > Lost
+lib:71cbf583218062d21174306775464612 # Obituary > World Demise > Solid State
+lib:d0efcd35bd2190a6e91a59bacc356e07 # Obituary > World Demise > Splattered
+lib:76b9943fa9dc68318ca733bbabf33731 # Obituary > World Demise > Final Thoughts
+lib:5678c227918c230df4ca0d7cdea790a9 # Obituary > World Demise > Boiling Point
+lib:d367f6018d1c10e050e76bee2e4e7b52 # Obituary > World Demise > Set In Stone
+lib:13e3a9957b2de5970e023759069e7591 # Obituary > World Demise > Kill For Me
+lib:9ec8074b0cc1a9bd4d84cc19f7a855f2 # Pantera > Far Beyond Driven > Strength Beyond Strength
+lib:3d4eb9381fb5e5a8d1d1f8f8f0728916 # Pantera > Far Beyond Driven > Becoming
+lib:488b61f72cd30a12be7e7bedc9bd0caa # Pantera > Far Beyond Driven > 5 Minutes Alone
+lib:08ed403c1867844511d96509ed47b73a # Pantera > Far Beyond Driven > I'm Broken
+lib:493671d8f6d2f2ff5d951e31140d974c # Pantera > Far Beyond Driven > Hard Lines, Sunken Cheeks
+lib:8d8cc8209e0987d5dc362b935799a414 # Pantera > Far Beyond Driven > Slaughtered
+lib:d17c07a75a524ca29dee6e1b2c038046 # Pantera > Far Beyond Driven > 25 Years
+lib:eb9153e87a61fa8b2b94c93beb7a2205 # Pantera > Far Beyond Driven > Shedding Skin
+lib:7090b149708d514d42da78b4c26b7da3 # Pantera > Far Beyond Driven > Use My Third Arm
+lib:5e26775b174f049f6546dc559f3a11c8 # Pantera > Far Beyond Driven > Throes Of Rejection
+lib:21a26080e151de92c3f21e59c7f5af01 # Pantera > Far Beyond Driven > Planet Caravan
+lib:923126b562e72b535fad24e7b152181a # Pantera > The Great Southern Trendkill > The Great Southern Trendkill
+lib:2f2530647b5a23cec3a3a9b84650cf74 # Pantera > The Great Southern Trendkill > War Nerve
+lib:f2bc3a3c1c5822e2d962745c786f266a # Pantera > The Great Southern Trendkill > Drag The Waters
+lib:f131e62227a4104f63c80ac3bedcbeba # Pantera > The Great Southern Trendkill > 10's
+lib:da2dd9954e2664ea04f3a79625dc2f4d # Pantera > The Great Southern Trendkill > 13 Steps To Nowhere
+lib:b7a59fe4f86c67ec5f90e289492accf5 # Pantera > The Great Southern Trendkill > Suicide Note Pt. I
+lib:77112ec6b77755b072782e3a33aa45e3 # Pantera > The Great Southern Trendkill > Suicide Note Pt. II
+lib:162e23b2f647ecf287bc7e870607392f # Pantera > The Great Southern Trendkill > Living Through Me (Hells' Wrath)
+lib:675c43f34965363970ea5c3537557278 # Pantera > The Great Southern Trendkill > Floods
+lib:5dd6e1ef00708a79d1e9e4acad3df523 # Pantera > The Great Southern Trendkill > The Underground In America
+lib:53473e1ee9a661d3404a37984e1d0336 # Pantera > The Great Southern Trendkill > (Reprise) Sandblasted Skin
+lib:2dd7911e975efe9c24cb5d125e7bd5cc # Passe Partout > 20 ans ça se fête! > Chanson thème
+lib:fa3212cf86436ed24bdd8438bdfcd3f8 # Passe Partout > 20 ans ça se fête! > Les poissons
+lib:8d512da41ad13773936deae65f62e4fd # Passe Partout > 20 ans ça se fête! > Les vêtements
+lib:bb05170ac8f7d62a0ef4274dceee3669 # Passe Partout > 20 ans ça se fête! > Les grenouilles
+lib:3c01ab64a72a1499ceb078d69a260703 # Passe Partout > 20 ans ça se fête! > Concerto rigolo
+lib:6d1ea4ad80b7c8344189e24b67bd6ef3 # Passe Partout > 20 ans ça se fête! > Brosse, brosse, brosse
+lib:012497c4447e2e915956bbb077aa5461 # Passe Partout > 20 ans ça se fête! > C'est pas pareil
+lib:c53536c8d1bc0541982600b9a772d8f8 # Passe Partout > 20 ans ça se fête! > Charlotte et Raoul
+lib:e1db5fa0f25f023ce27aaf5d869a821d # Passe Partout > 20 ans ça se fête! > J'oublie
+lib:b5613dcc47592409e061b812aa9fed9a # Passe Partout > 20 ans ça se fête! > Il était une bergère
+lib:3360e987c9c5b61bb7077827084606e6 # Passe Partout > 20 ans ça se fête! > Des maisons
+lib:e47d640e1fddaaa9c37066b3c20e6b40 # Passe Partout > 20 ans ça se fête! > Mon merle
+lib:dba9bc0d524dcbb0f88beba41795ecd8 # Passe Partout > 20 ans ça se fête! > Le casse-tête
+lib:6ef5d3c3665db32839796e5d2d978396 # Passe Partout > 20 ans ça se fête! > La tarentule et la sauterelle
+lib:100c97558fbc85244d27cf8e36972983 # Passe Partout > 20 ans ça se fête! > Les souliers bavards
+lib:fcf06ba83a8bddd14c723c6fe28cb862 # Passe Partout > 20 ans ça se fête! > Les métiers
+lib:5e1f86ac134714fe7cf960524ef316f9 # Passe Partout > 20 ans ça se fête! > Le koala
+lib:b53e85ab724e31d359cec70faba75d88 # Passe Partout > 20 ans ça se fête! > J'ai du bon fromage
+lib:182238be4edeef1d998aab123245e8d5 # Passe Partout > 20 ans ça se fête! > Coucou, c'est moi
+lib:4f5c008d70dc485fc040a78a3e41fbf1 # Passe Partout > 20 ans ça se fête! > Zigzag
+lib:20223fe346c73d863fa0a28d273761b8 # Passe Partout > 20 ans ça se fête! > Les dauphins
+lib:19145f188c297c64f2534e54d05bb994 # Passe Partout > 20 ans ça se fête! > La Poulka
+lib:22ac28f63afbbda2e9e30c293131c79e # Passe Partout > 20 ans ça se fête! > Plus de bing bang bang
+lib:583ce8cb0ffb075d8e5aa5bb358844f7 # Passe Partout > 20 ans ça se fête! > Dans le poulailler
+lib:0979b6cfb42d114e4f00fa549b2f07d4 # Passe Partout > 20 ans ça se fête! > Je sens tout
+lib:2f36204d17d09a3bf705a69fda4b54f4 # Passe Partout > 20 ans ça se fête! > C'est ta fête
+lib:cdf7cb6b10818b7b4fb1da0e8d95af5b # Passe Partout > 20 ans ça se fête! > Flip Flap Flop
+lib:f55645c2fd2fdff9059d8626ebf30c60 # Passe Partout > 20 ans ça se fête! > Y'a qu'un Alakazou
+lib:906d85e815fe408c87a4000d7c39484e # Passe Partout > 20 ans ça se fête! > Comme un champignon
+lib:7590189f0333d3fdae2cdce2fd3e265b # Passe Partout > 20 ans ça se fête! > J'ai deux yeux
+lib:dab2b02b40db06a0ad627ac59cd44dbb # Passe Partout > 20 ans ça se fête! > L'été, c'est fait pour jouer
+lib:ffc9ae3f2456ae1b4e74906645b4e8b8 # Passe Partout > 20 ans ça se fête! > Il fait noir
+lib:272adc60bf0de269679e3a1a06fd52e1 # Passe Partout > 20 ans ça se fête! > Les beaux légumes
+lib:174be787327bd8bcf03f96e9a68df55b # Passe Partout > 20 ans ça se fête! > Le tatou
+lib:ebc54880cbe28b2962adb0dcb54d2207 # Passe Partout > 20 ans ça se fête! > Le contraire
+lib:02a26daf0f713f368e94ae063b2b4ae8 # Passe Partout > 20 ans ça se fête! > Le zèbre
+lib:f2a6145659a0e3875206449a04507289 # Passe Partout > 20 ans ça se fête! > Menton fourchu
+lib:aa772693b6b033386d65788533a1ce97 # Passe Partout > 20 ans ça se fête! > Mariette
+lib:9c76c0afac72be3ad9362034a769d634 # Passe Partout > 20 ans ça se fête! > Mon chouchou
+lib:b576f25ba3b14e96a755eecac7d4e413 # Passe Partout > 20 ans ça se fête! > On range tout
+lib:cbe6ace91adfb278c91b2187bb9ed2f2 # Passe Partout > 20 ans ça se fête! > Le rêve rétro de grand-mère
+lib:eeb9720c87ada0ce8ad7b23cba9399cf # Passe Partout > 20 ans ça se fête! > Berceuse créole
+lib:b9f7ffa4f7008a7f38365d5af007d31a # Patricia Capdevielle > Comprend qui peut (Boby Lapointe repiqué) > Diba diba
+lib:5ff245160a51525e0e42ff0bb045c840 # Pearl Jam > Ten > Once
+lib:6f18c9c7b6d2d132c671d14486be37bf # Pearl Jam > Ten > Even Flow
+lib:d3143424fef543e8799b11345a36a045 # Pearl Jam > Ten > Alive
+lib:e49268059ae2b11623443ef074b9a14a # Pearl Jam > Ten > Why Go
+lib:d03097bdabfac17824b49d20ba8c0681 # Pearl Jam > Ten > Black
+lib:826e900223f220ca0b7a8c8f503b7b41 # Pearl Jam > Ten > Jeremy
+lib:c265eb36347391b379660fb667654f70 # Pearl Jam > Ten > Oceans
+lib:394133623ae6a455f9d85245fb08921b # Pearl Jam > Ten > Porch
+lib:2cb15e2078a30f2d66dc5815f69f5a7f # Pearl Jam > Ten > Garden
+lib:a843d756ed0f9bf46b7b588db3620d40 # Pearl Jam > Ten > Deep
+lib:526bd98f8476b7668b8e457519e19c01 # Pearl Jam > Ten > Release
+lib:389c5cde02d0c2370cf65bdcea391ef6 # Presque Oui > Comprend qui peut (Boby Lapointe repiqué) > Embrouille minet
+lib:b0b219a441b71193eea90c8f2989fabb # Presque Oui > Comprend qui peut (Boby Lapointe repiqué) > L'ange
+lib:4f339cedd29626f68e8b520c5b282932 # Presque Oui > Comprend qui peut (Boby Lapointe repiqué) > Isomnie
+lib:a2f0ace366aec4e0d0e94c794f2bfc0a # Primus > Brown Album > The Return Of Sathington Willoughby
+lib:575eac464cb9c02e8911746f7a27443e # Primus > Brown Album > Fisticuffs
+lib:18070b80a8b277818772da177802a586 # Primus > Brown Album > Golden Boy
+lib:a4d613e3d624accd88bb185c2d181d37 # Primus > Brown Album > Over The Falls
+lib:fb672e77c71d6e96149494395ad13ec4 # Primus > Brown Album > Shake Hands With Beef
+lib:d500f22ba9967bdef2c58116c6911537 # Primus > Brown Album > Camelback Cinema
+lib:4042d0c127bc43025421a38b347a79c7 # Primus > Brown Album > Hats Off
+lib:c67152f78e3b0de1feb0322802f36083 # Primus > Brown Album > Puddin' Taine
+lib:9785ab7962ffe657a095e39d9375c1ad # Primus > Brown Album > Bob's Party Time Lounge
+lib:01296e04abeaa337cc0b21a850ec5d9e # Primus > Brown Album > Dutchess And The Proverbial Mind Spread
+lib:16b74db6dd13fd3e16feaf16bc0ee54b # Primus > Brown Album > Restin' Bones
+lib:95ca51ccb3938d56ec55da930a8843ad # Primus > Brown Album > Coddingtown
+lib:9c29c49ed0fffe774600c8fdd2533ea3 # Primus > Brown Album > Kalamazoo
+lib:309a6e0fb9f8f8efc441c83fa85da498 # Primus > Brown Album > The Chastising Of Renegade
+lib:85d276846aebcde00c9dc10394399ae5 # Primus > Brown Album > Arnie
+lib:4319c9a408f1a14fd296d1800ba2b850 # Primus > Pork Soda > Pork Chop's Little Ditty
+lib:f593b351cb989707d2d97355ce20610c # Primus > Pork Soda > My Name Is Mud
+lib:9384a67bd2f2bbd8ba21251fedfd791b # Primus > Pork Soda > Welcome To This World
+lib:64981aabd639823f34d539d005e27f1a # Primus > Pork Soda > Bob
+lib:e84ed15fadf367296a7b1efbaad38ad9 # Primus > Pork Soda > DMV
+lib:6c9f2cf934738e1eabdab99c7922cd25 # Primus > Pork Soda > The Ol' Diamondback Sturgeon (Fisherman's Chronicles, Part 3)
+lib:334f73b05df0aee25de5ae996fddc1f9 # Primus > Pork Soda > Nature Boy
+lib:b544f4e201593c60f5fbd71a160c87bd # Primus > Pork Soda > Wounded Knee
+lib:afd7e9fcaed08cdd248b3a2dfe747731 # Primus > Pork Soda > Pork Soda
+lib:8659fa0f5c76a280df44532cb78a692d # Primus > Pork Soda > The Pressman
+lib:f3e1be4cfb6329535cbc48a20f52d413 # Primus > Pork Soda > Mr. Krinkle
+lib:60a4b496deb8886b8907092bbfed1f5c # Primus > Pork Soda > The Air Is Getting Slippery
+lib:a0203f7bb5f81123965d6a876c2c78b1 # Primus > Pork Soda > Hamburger Train
+lib:4319c9a408f1a14fd296d1800ba2b850 # Primus > Pork Soda > Pork Chop's Little Ditty
+lib:a4ece075ddb1769204655d71e931fde0 # Primus > Pork Soda > Hail Santa
+lib:932e56f10f2a403c6c5cbbfb2b084ce1 # Primus > Sailing The Seas Of Cheese > Seas of Cheese
+lib:8546ee6237794c693b061853e62e31c6 # Primus > Sailing The Seas Of Cheese > Here Come the Bastards
+lib:bafb0012d538ac8f46abf2ea685021fb # Primus > Sailing The Seas Of Cheese > Sgt. Baker
+lib:bf0eb1bf553103b01357bde9e15bb854 # Primus > Sailing The Seas Of Cheese > American Life
+lib:3d62e964229c578def7892f036afe0cf # Primus > Sailing The Seas Of Cheese > Jerry Was A Race Car Driver
+lib:e3833e895286cffc5dc8b10869bf119c # Primus > Sailing The Seas Of Cheese > Eleven
+lib:cd7be4b262d750f0bf1824df7791740e # Primus > Sailing The Seas Of Cheese > Is It Luck?
+lib:da60a8d5b7338410e1b157063c93d69a # Primus > Sailing The Seas Of Cheese > Grandad's Little Ditty
+lib:2b3db8fbd5803c7503fe2beba380a66b # Primus > Sailing The Seas Of Cheese > Tommy The Cat
+lib:8bbdbd0ab45ac4abc7e7583716c08bcc # Primus > Sailing The Seas Of Cheese > Sathington Waltz
+lib:37030c3cc0c137052702b174e4ad1572 # Primus > Sailing The Seas Of Cheese > Those Damned Blue-Collar Tweekers
+lib:f972918f1c8b4ae1fbd1be0353446839 # Primus > Sailing The Seas Of Cheese > Fish On (Fisherman Chronicles, Chapter II)
+lib:af0610efcbaffba9fe0f1c9c77af0ea5 # Primus > Sailing The Seas Of Cheese > Los Bastardos
+lib:fc30b7a712b0c5a9ed570c835e455d19 # Prodigy > The Fat Of The Land > Smack My Bitch Up
+lib:bc5eaeeb99fe50a0c1b949d10276367e # Prodigy > The Fat Of The Land > Breathe
+lib:aed2ee1bc0db95eeb75cdd81ff72c1d6 # Prodigy > The Fat Of The Land > Diesel Power
+lib:d7431a61eee1abbce928f368847d4e92 # Prodigy > The Fat Of The Land > Funky Shit
+lib:80b5f7335730e365b3afe36e8e54edce # Prodigy > The Fat Of The Land > Serial Thrilla
+lib:8533009ecfb7d46143e1b99d04692db8 # Prodigy > The Fat Of The Land > Mindfields
+lib:308e42981a694e07d1f7bc5426fae89e # Prodigy > The Fat Of The Land > Narayan
+lib:3b1aa2270f9503696704e87e79bbc4ab # Prodigy > The Fat Of The Land > Firestarter
+lib:876b453342edde9d357ddf9d819d6c2a # Prodigy > The Fat Of The Land > Climbatize
+lib:6ebcaa127d872d578c82972968febf49 # Prodigy > The Fat Of The Land > Fuel My Fire
+lib:4fefd3c6109ce2acdce7c86f001b3cfa # Psykup > Le Temps De La Reflexion > To Be (tray)...
+lib:6610c04b4fdc1e21934902a81ffe57ec # Psykup > Le Temps De La Reflexion > ...Or Not To Be
+lib:dcaf7e3aa5e918dfadef694bd4f9a2a2 # Psykup > Le Temps De La Reflexion > Libido
+lib:fdbf355b23b2b3c6fef779a651df0276 # Psykup > Le Temps De La Reflexion > La Peur Du Vide
+lib:afe1893ac5659d11213e435c8809c3d6 # Psykup > Le Temps De La Reflexion > Teacher
+lib:990bed74320198de6b4a38e35389b68e # Psykup > Le Temps De La Reflexion > Martin X part1
+lib:5202667ad026ae133a8f345bfc138bb5 # Psykup > Le Temps De La Reflexion > Martin X part2
+lib:4c1a68e306262b8efde37787b57d2e57 # Psykup > Le Temps De La Reflexion > Insipid
+lib:0049d9d743fa25e8c9668dca50a931c2 # Psykup > Le Temps De La Reflexion > L'Autruche
+lib:74e9e8f8c3bd37ee38884c68fa5b7bf2 # Psykup > Le Temps De La Reflexion > Time & Space
+lib:576283e7ebdb9c7aacb77d13ff713f51 # Psykup > Le Temps De La Reflexion > Rebirth & Recession
+lib:5dcfb5934a91b39244e0ba114f5b292e # Psykup > We Love You All > Color Me Blood Red
+lib:89115f3f56f6988b08efcf22666ce324 # Psykup > We Love You All > La Vie Dont Vous Etes Le Héro (Prologue)
+lib:d05ff0e76c798a4029a757ef04a6d5c9 # Psykup > We Love You All > La Vie Dont Vous Etes Le Héro (Le Choix)
+lib:8001bd03179ccb5088da48fa5dff6265 # Psykup > We Love You All > Birdy
+lib:f06ef4645d93d7acca705d890811a7e6 # Psykup > We Love You All > The Choice Of Modern Men
+lib:584fbad2161b94c7dfc4d38001466d65 # Psykup > We Love You All > My Toy, My Satan
+lib:2ec27483ca202a892b05a92d3f725776 # Psykup > We Love You All > La Vie Dont Vous Etes Le Héro (Pile)
+lib:01862874284a87463cb0beddc9de7b0a # Psykup > We Love You All > En Vivre Libre Ou Mourir (1>304h)
+lib:463cb0fc21431eb1fd4a3176d0827fcd # Psykup > We Love You All > Here Come The Waves
+lib:08c798609873e35720912f6e482129d2 # Psykup > We Love You All > En Vivre Libre Ou Mourir (305>507h)
+lib:290621a5a1c0ee1bf1431c1538819edd # Psykup > We Love You All > La Vie Dont Vous Etes Le Héro (Face)
+lib:3b1c1bcc749d1821c1c6473c01c42f51 # Psykup > We Love You All > Rétroaction
+lib:a161a8e69bfb743126156151f5ffcd25 # Queen > A Kind Of Magic > Queen - One Vision
+lib:15077056ec96cc07138bd36d759dd146 # Queen > A Kind Of Magic > Queen - Princes Of The Universe
+lib:349845829fc6d7a49affba7f48c0abc6 # Queen > A Kind Of Magic > Queen - Forever
+lib:bc735fec6bda349b5889d5042a7871dc # Queen > A Night at the Opera > Queen - Bohemian Rhapsody
+lib:def169e93f6188ec37eaa3ea53c0ddb1 # Queen > Classic Queen > A Kind Of Magic
+lib:21085928a764bac8bdf2432fb6f8ff8b # Queen > Classic Queen > Bohemian Rhapsody
+lib:306ae71fa38db8b2432c043a71c1c20a # Queen > Classic Queen > Under Pressure
+lib:bb0173f0a9bb555675011e4a0e7a4c69 # Queen > Classic Queen > Hammer To Fall
+lib:942cf224df7fdd1853f403fe1d290084 # Queen > Classic Queen > Stone Cold Crazy
+lib:ea67ba33850b531f33dc87376c7fc7e8 # Queen > Classic Queen > One Year Of Love
+lib:afe2057c3499487e81accbc03fe1c243 # Queen > Classic Queen > Radio Ga Ga
+lib:d54f80efb6ec074997777c7d0b43d70f # Queen > Classic Queen > I'm Going Slightly Mad
+lib:346eb33f7aa2b65821c15c6777b52f19 # Queen > Classic Queen > I Want It All
+lib:d8736082fac3f20a14ad3c7db97b5a15 # Queen > Classic Queen > Tie Your Mother Down
+lib:d730968f4ed058d9b0c676b8c6fe5923 # Queen > Classic Queen > The Miracle
+lib:a9cbae2700e141ff42e35abe6f3aa33e # Queen > Classic Queen > These Are The Days Of Our Lives
+lib:34d176d452cc235bb14db722f70a3511 # Queen > Classic Queen > One Vision
+lib:076165045c9f0ab99cc6eb0f30b90166 # Queen > Classic Queen > Keep Yourself Alive
+lib:2b31171fc1c2ded238d00be2ab3d7a57 # Queen > Classic Queen > Headlong
+lib:00c217eff60716d44b8db30c8fac826d # Queen > Classic Queen > Who Wants To Live Forever
+lib:9ff0add1d22a3a24a4fdbce0b3a6db30 # Queen > Classic Queen > The Show Must Go On
+lib:6951dc736667c2d54a47af6502fb37e5 # Queen > Queet II - 1974 > The March Of The Black Queen
+lib:c86fb99dc289d96a05610c26514ae2a3 # Queen > Queet II - 1974 > Ogre Battle
+lib:416c703378dfc2ede13eb9d22750c440 # Queen > Queet II - 1974 > White Queen (As It Began)
+lib:1b0240eb7c8d942b5e2c2ad6e902bb73 # Queen > Queet II - 1974 > Ogre Battle [Remix]
+lib:576383a1bb259c8b56ae87d6b73aab7b # Queen > Queet II - 1974 > Some Day One Day
+lib:49d43bee20be0c7e0573c159f4169d2f # Queen > Queet II - 1974 > The Loser In The End
+lib:e06619acfdfc6b6cb7383f99f515992d # Queen > Queet II - 1974 > Nevermore
+lib:791ea1d564b075a6cb4fa8a56faf911a # Queen > Queet II - 1974 > Father To Son
+lib:0ce0957e7a7b86c5cd0a465bddb891b0 # Queen > Queet II - 1974 > Funny How Love Is
+lib:093971f63b908872fa6c72309d96e85c # Queen > Queet II - 1974 > Side]
+lib:eb1778e886b6cf34bac0b00511a80f2b # Queen > Queet II - 1974 > Stroke
+lib:df7e909efa567eb46ff514404f4142a4 # Queen > Queet II - 1974 > Procession
+lib:a3cf8f551ab6724c8ec4acc54000093c # Queen > Queet II - 1974 > Seven Seas of Rhye [Remix]
+lib:87a1efd8752cb3995fa709fc6d5bd92c # Queens of the Stone Age > Songs for the Deaf > You Think I Ain't Worth a Dollar But I Feel Like a Millionaire
+lib:39cf6ee32e2cfbba6db069bd61f30e6a # Queens of the Stone Age > Songs for the Deaf > No One Knows
+lib:3835a2923186d8c6017fb183298255f2 # Queens of the Stone Age > Songs for the Deaf > First It Giveth
+lib:a4d7b2b7bb681267218a8b5b66a86d35 # Queens of the Stone Age > Songs for the Deaf > A Song for the Dead
+lib:4b490d99cfa64f2bb78815731eeec39c # Queens of the Stone Age > Songs for the Deaf > The Sky Is Fallin'
+lib:dce6c54e6f2d746b77a47f1ebad98147 # Queens of the Stone Age > Songs for the Deaf > Six Shooter
+lib:86df87fac33082976dd890c59d0a1d7d # Queens of the Stone Age > Songs for the Deaf > Hangin' Tree
+lib:d75dcbfc9eb6d395f90e9a7562c3061d # Queens of the Stone Age > Songs for the Deaf > Go with the Flow
+lib:3399eba4313a07858aac679a2a68a38a # Queens of the Stone Age > Songs for the Deaf > Gonna Leave You
+lib:d5c0718c62d719c898d1db72b1da1504 # Queens of the Stone Age > Songs for the Deaf > Do It Again
+lib:e1e48c68742d19cacd1338a284ac2dca # Queens of the Stone Age > Songs for the Deaf > God Is in the Radio
+lib:a377e6b73091b1e02dd5231e494f1993 # Queens of the Stone Age > Songs for the Deaf > Another Love Song
+lib:a81eb33db61e046a52af4a92047a6ad7 # Queens of the Stone Age > Songs for the Deaf > A Song for the Deaf
+lib:4dda948c517ec6555da3641604ac5657 # Queens of the Stone Age > Songs for the Deaf > Mosquito Song
+lib:21c1d02301e16c35dd5a93710e93b200 # Rage Against the Machine > Rage Against the Machine > Bombtrack
+lib:22a77ec89c1c9f67e49bbbf26f276641 # Rage Against the Machine > Rage Against the Machine > Killing In the Name
+lib:593ed93d8182f1372953c76be555ce46 # Rage Against the Machine > Rage Against the Machine > Take the Power Back
+lib:195ce5efbf9cdd01e20442a1d9b65551 # Rage Against the Machine > Rage Against the Machine > Settle for Nothing
+lib:ff21518831b1e9ad88b7bea67fc9d314 # Rage Against the Machine > Rage Against the Machine > Bullet In the Head
+lib:d66bf639891d83eaadfc244cba74d8b3 # Rage Against the Machine > Rage Against the Machine > Know Your Enemy
+lib:b2c53f575d3fc5937f80d32b23f56d54 # Rage Against the Machine > Rage Against the Machine > Wake Up
+lib:fc89fcab4980fbbc9307d56e0d24eb13 # Rage Against the Machine > Rage Against the Machine > Fistful of Steel
+lib:eabe97770c74fd76782b5a01cbf3a166 # Rage Against the Machine > Rage Against the Machine > Township Rebellion
+lib:2eeb011d710e7c36cb6d83703b0a0c75 # Rage Against the Machine > Rage Against the Machine > Freedom
+lib:6d9e165bc1f7c0cbe16b5e89dc81c7e8 # Rancid > ...And Out Come The Wolves > Time Bomb
+lib:8eb96aa052efb082117625db81a4937a # Ray Parker, Jr. > Ghostbusters > Ghostbusters
+lib:1571b31ce4926688b411b7485de7e9d7 # Ray Parker, Jr. > Ghostbusters > Ghostbusters [Instrumental]
+lib:b1ebdaa073976f08d999da4cd3786399 # Roadrunner United > The All Star Sessions > The Dagger
+lib:fd458b7845ca7d869fb963b7160cd021 # Roadrunner United > The All Star Sessions > The Enemy
+lib:b07e3f5e1e1d5ef6b515995ae9b4b6dd # Roadrunner United > The All Star Sessions > Annihilation By The Hands Of God
+lib:3dbb44ba7e6152c26b9b864b050af0fb # Roadrunner United > The All Star Sessions > Independent (Voice Of The Voiceless)
+lib:84f2a9f2e6dfc7def2dd13f2b5c71d0a # Roadrunner United > The All Star Sessions > Dawn Of A Golden Age
+lib:24fd97dd6bac8a1dfd77f81ac48e8041 # Roadrunner United > The All Star Sessions > The Rich Man
+lib:fbef63c99a63084b855659d479c26823 # Roadrunner United > The All Star Sessions > Baptized In The Redemption
+lib:fba4e45098ad67ffb5ceb02c848c34e8 # Roadrunner United > The All Star Sessions > Roads
+lib:b55f57a22cb6651b8227518435e8981f # Roadrunner United > The All Star Sessions > I Don't Wanna Be (A Superhero)
+lib:afbfb3bd207859bd219a94846b0140d4 # Roadrunner United > The All Star Sessions > Army Of The Sun
+lib:60478a58aa6c936b0aec321449447869 # Roadrunner United > The All Star Sessions > No Mas Control
+lib:05e9effc5eabdf0a90ee7f12933c15b5 # Rockabye Baby! > Lullaby Renditions of Radiohead > No Surprises
+lib:b20a633492040563cfab92acaaa17cac # Rockabye Baby! > Lullaby Renditions of Radiohead > Let Down
+lib:857333e8e1aba26b46eb59810abdf24c # Rockabye Baby! > Lullaby Renditions of Radiohead > Suterranean Homesick Alien
+lib:f093e9bcb09dd42ebc18980bc911b84f # Rockabye Baby! > Lullaby Renditions of Radiohead > Airbag
+lib:3e2e7d1aae076f90e6a5b101ade608f1 # Rockabye Baby! > Lullaby Renditions of Radiohead > Paranoid Android
+lib:aec2aff24d09fa0a0a463502f55d4d98 # Rockabye Baby! > Lullaby Renditions of Radiohead > Knifes Out
+lib:064ee7dd247c2af24e102a77ad7ad038 # Rockabye Baby! > Lullaby Renditions of Radiohead > Karma Police
+lib:c55c68ed77888d9e7167a2539118be19 # Rockabye Baby! > Lullaby Renditions of Radiohead > There, There
+lib:ce3210d82b19bf6f394db0514bcfb479 # Rockabye Baby! > Lullaby Renditions of Radiohead > Everything In Its Right Place
+lib:0179de29e374c5d20ff9877b7150cdb3 # Rockabye Baby! > Lullaby Renditions of Radiohead > 2 + 2 = 5
+lib:ff51b51543fca66666e02bc0a4cdd858 # Rockabye Baby! > Lullaby Renditions of Radiohead > Sail To The Moon
+lib:f9238217c0ef5f930519b1e7409bf71e # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Fell In Love With A Girl
+lib:3b12cb19d8a229dc18dd37e7751425e7 # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Blue Orchid
+lib:6fb7c3ca7a9cdefec4e6f131df2cfd4a # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > I Just Don't Know What To Do With Myself
+lib:1216541e8d481b0d3f640e65ca050bdd # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > My Doorbell
+lib:c6968639951999121c60e3867181c8da # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > You Don't Know What Love Is (You Just Do As You're Told)
+lib:f69c232d7824f189d09a0316dc95d0b0 # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > The Hardest Button To Button
+lib:defbdc8fea15124a0024d04ac5d9fdd4 # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Seven Nation Army
+lib:c8c03e72ef1f012f9dfad9325d6e332b # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Icky Thump
+lib:650f91e636d7fe429c21ad4fc59764fe # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Jolene
+lib:0844dad84b1d9b1e545c1b120df8d17a # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Dead Leaves And The Dirty Ground
+lib:995f2c30d22a9d288d5660b9f3fc90d1 # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > Hotel Yorba
+lib:ab420a51d7c4f89de1b4a1985eec44da # Rockabye Baby! > Rockabye Baby! Lullaby Renditions Of The White Stripes > We're Going To Be Friends
+lib:227bead92548766f46455c7eece23610 # Rémi, Gérard Beauchamp, Marie-Françoise Cattenoz, Nadège Vacante > 80 Comptines À Mimer Et Jeux De Doigts > C'est La Baleine
+lib:1cd6b81ad16e47bc285b01e3697a81cf # Sepultura > Arise > Arise
+lib:77ba0cb7c8b3f74e4db5c873154b2888 # Sepultura > Arise > Dead Embryonic Cells
+lib:e70c812388df32b341ccc7f7ec44ee63 # Sepultura > Arise > Desperate Cry
+lib:5c1243c5c2ee7470159b54e0b503bb87 # Sepultura > Arise > Murder
+lib:4152558f77f1d2da000497221341f0b1 # Sepultura > Arise > Subtraction
+lib:82adfe71ca7485458bc57d964858b146 # Sepultura > Arise > Altered State
+lib:994d0ecbd93a37c9627be2a7f6a15f38 # Sepultura > Arise > Under Siege (Regnum Irae)
+lib:ca0a4d78df6f043fdde8a89453d268a6 # Sepultura > Arise > Meaningless Movements
+lib:553b29f9e1a6eb09e37617ed68ae5e97 # Sepultura > Arise > Infected Voice
+lib:37fb749f435dc610648f99b2cf0fb793 # Sepultura > Arise > Orgasmatron
+lib:f4563b419c16941cbae7621113a8a12b # Sepultura > Arise > Intro
+lib:2a0bc005e9195b30ad2098d69c444c43 # Sepultura > Arise > C.I.U. (Criminals In Uniform)
+lib:dde65cc2245550b2ab6fda1e042a0094 # Sepultura > Blood Rooted > Propaganda
+lib:0b42f56305f5a7c7d0c9f05adff8f122 # Sepultura > Chaos A.D. > Refuse/Resist
+lib:4f6a6703836d805d922f0b090405e282 # Sepultura > Chaos A.D. > Territory
+lib:897d82daeeaf478f36ab55acc88538fb # Sepultura > Chaos A.D. > Slave New World
+lib:b880ddf302e2d90e152709b186a5da27 # Sepultura > Chaos A.D. > Amen
+lib:3c5634738313177fc9cdb4a7108883f4 # Sepultura > Chaos A.D. > Kaiowas
+lib:0b1e1ef75fc5e761ae3044fb11de1c82 # Sepultura > Chaos A.D. > Propaganda
+lib:a0d23109a7dae0368eaf69bf3b4b46e6 # Sepultura > Chaos A.D. > Biotech Is Godzilla
+lib:1d32f55d35e7f2389a3eab03b2db096c # Sepultura > Chaos A.D. > Nomad
+lib:37e3b2a9407d94c6010c24868fd11bc8 # Sepultura > Chaos A.D. > We Who Are Not As Others
+lib:95f1b19738824eef038589b0a2a7d0f1 # Sepultura > Chaos A.D. > Manifest
+lib:0b6f3b39933d8b4936568cab72083fb8 # Sepultura > Chaos A.D. > The Hunt
+lib:4f856616ef0713cb9dfb0970dd0e357c # Sepultura > Chaos A.D. > Clenched Fist
+lib:0de1ebd0c070abd8197ca7e6b790a1b1 # Sepultura > Roots > Roots Bloody Roots
+lib:2dfd50765f64345b0442945208c47c5c # Sepultura > Roots > Attitude
+lib:b1cc291b4177d5c94c8f94c85bb8999d # Sepultura > Roots > Cut-Throat
+lib:ffeb0241e6360ff83db80a2051dce1ae # Sepultura > Roots > Ratamahatta
+lib:2306d823d0a0d0a54625cb9895336edc # Sepultura > Roots > Breed Apart
+lib:9ab5265e7be97634984f1edc7a4ff4c9 # Sepultura > Roots > Straighthate
+lib:aa6137017f1df21ce9e6273f8f80bed5 # Sepultura > Roots > Spit
+lib:1a4be407b961de2952964dc848e3dc46 # Sepultura > Roots > Lookaway
+lib:c000769c113cb3f6a9effd1d13438e0d # Sepultura > Roots > Dusted
+lib:aa7c33c477b1c370585c93a371886e7d # Sepultura > Roots > Born Stubborn
+lib:753f8ff7ab49712b0d21afb72fd97faa # Sepultura > Roots > Jasco
+lib:eb10194bc462c0e17f9785effc5962d1 # Sepultura > Roots > Itsári
+lib:fc315e9ad1a5c5c61d8834ce88f60a91 # Sepultura > Roots > Ambush
+lib:1129b92f957c4b2ba75271040267820a # Sepultura > Roots > Endangered Species
+lib:6bff34bcd0d97d72d28ff0c67c9ed32f # Sepultura > Roots > Dictatorshit
+lib:8416e9d1b6333c7dc016e782feca98b9 # Sepultura > Schizophrenia > Troops Of Doom
+lib:2f27ec140b98843b12012d7201139965 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Holidays In the Sun
+lib:1bcc29609e0986c54dadd4bb68597782 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Bodies
+lib:8534b8b4ebbea945bf020b919b2e0590 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > No Feelings
+lib:695d2168da3610158790d7b0df5cd507 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Liar
+lib:ce0ca9d127605e0590a65c4f0b861183 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Problems
+lib:6aacd0f360aa84383c708272d77469d1 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > God Save the Queen
+lib:7c1c42400539e3adb3ffcb11fc4f4653 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Seventeen
+lib:f874c367f9d47486098455196381e43b # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Anarchy In the U.K.
+lib:9da0ddc293c8f98f7ffe39b99420fe5f # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Sub-Mission
+lib:f3f029e30bc52bc9c16573532f910a6f # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Pretty Vacant
+lib:3c01df391dcaa876b996e44c137655f5 # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > New York
+lib:01637828104af2e6ddb621c126a6678a # Sex Pistols > Never Mind the Bollocks, Here's the Sex Pistols > Emi
+lib:55276e9078653bff233319f1959b4675 # Sick Of It All > Scratch The Surface > Scratch The Surface
+lib:ee399d8cc0c023434f08c575787e21b3 # Slayer > Christ Illusion > Flesh Storm
+lib:b9c71ff3f4247bfeb099cb1491b45228 # Slayer > Christ Illusion > Catalyst
+lib:d375389f30e91b09a486eae71eb8a4c5 # Slayer > Christ Illusion > Skeleton Christ
+lib:17647d78cd624b3005235e298d2ccde2 # Slayer > Christ Illusion > Eyes Of The Insane
+lib:9f494118ce636bb42d0cc7e8f14a3816 # Slayer > Christ Illusion > Jihad
+lib:0eb2099f82cae649378662277d0e5bc3 # Slayer > Christ Illusion > Consfearacy
+lib:632ff98aa38cb42813d9d389c2c8b9e6 # Slayer > Christ Illusion > Catatonic
+lib:77b56b8e8f1bdc874953aaf43c465041 # Slayer > Christ Illusion > Black Serenade
+lib:0030a32d97e0946ffc0e86654846563e # Slayer > Christ Illusion > Cult
+lib:5c063b75d975f01500ec3361b2a04faf # Slayer > Christ Illusion > Supremist
+lib:5630074e9ce771c60620be998d2b9f7a # Slayer > Divine Intervention > Killing Fields
+lib:ac84e5a413f40ccd84c2bb73dfe0f295 # Slayer > Divine Intervention > Sex.Murder.Art.
+lib:934232066fb5cb14e0a58d87918a5c27 # Slayer > Divine Intervention > Fictional Reality
+lib:485ead8cc1d7c16d0853d994ff3a5ba1 # Slayer > Divine Intervention > Dittohead
+lib:00e3bcd9157cfc79d50a43a11ca66c23 # Slayer > Divine Intervention > Divine Intervention
+lib:7d3faf5fbf250405c767ac54fe77dfdd # Slayer > Divine Intervention > Circle Of Beliefs
+lib:acdc192c4ff268f27efe18c05308d6dd # Slayer > Divine Intervention > SS-3
+lib:a15c8acf88912b73deb5eb8ff0ad7f6d # Slayer > Divine Intervention > Serenity In Murder
+lib:672d651c38e8f96f4f198537a2de0b57 # Slayer > Divine Intervention > 213
+lib:4e32271e4f9cf03a405c4a0b27a644d2 # Slayer > Divine Intervention > Mind Control
+lib:6acb2b21ceb2f8e8d8ebc6167e91c9d7 # Slayer > Reign In Blood > Raining Blood
+lib:500254afd0261ea99e68dd4df55fccf1 # Slayer > Seasons In The Abyss > War Ensemble
+lib:f8d1135e25c121b006f4025c1bee5bcb # Slayer > Seasons In The Abyss > Blood Red
+lib:78350f816b112f42a192ad3de580021e # Slayer > Seasons In The Abyss > Spirit In Black
+lib:6596c142997df828116da7c9b3506d12 # Slayer > Seasons In The Abyss > Expendable Youth
+lib:55849bf268f1fef7a9ee48869baa9933 # Slayer > Seasons In The Abyss > Dead Skin Mask
+lib:c1dc013bd48442f2be5a9479ef50c403 # Slayer > Seasons In The Abyss > Hallowed Point
+lib:5affc1ace6eb89631e870b4f33160e54 # Slayer > Seasons In The Abyss > Skeletons Of Society
+lib:2350a2f213c02847cf285e87ed9801f8 # Slayer > Seasons In The Abyss > Temptation
+lib:310f37b58be0c62743d5a6ba862acbe9 # Slayer > Seasons In The Abyss > Born Of Fire
+lib:6a7d04506e829d14bf99625bbb5166f9 # Slayer > Seasons In The Abyss > Seasons In The Abyss
+lib:0c27d923d8405c6f561f5ca9df2b9008 # Slayer > World Painted Blood > World Painted Blood
+lib:57f8a522841fcc1ad81fd7b655665f77 # Slayer > World Painted Blood > Unit
+lib:72b55b2d37b3093639df2a9672f90506 # Slayer > World Painted Blood > Snuff
+lib:99b68bb7b7a89a42f040ae26164d0945 # Slayer > World Painted Blood > Beauty Through Order
+lib:d52fa61e567ef28e8952f2e2b600d03a # Slayer > World Painted Blood > Hate Worldwide
+lib:a44081fcaf91ac7698a65d6b63c0af81 # Slayer > World Painted Blood > Public Display Of Dismemberment
+lib:766a5f167ad717b7264f722bcde23b7c # Slayer > World Painted Blood > Human Strain
+lib:6ca478b35754733aced680e56fae2684 # Slayer > World Painted Blood > Americon
+lib:27b26256c92e50abe3078de606a72328 # Slayer > World Painted Blood > Psychopathy Red
+lib:b175a17c40c4c15a4f780db308e6b1b3 # Slayer > World Painted Blood > Playing With Dolls
+lib:d3a7631e3b040be6ad553bbdb2549ee9 # Slayer > World Painted Blood > Not Of This God
+lib:bdc61ba8418f13107e84d2855fb16d44 # Slipknot > All Hope Is Gone > .execute.
+lib:e60e4cd2e0625fc276ac5d92d7ab9f0d # Slipknot > All Hope Is Gone > Gematria (The Killing Name)
+lib:a225e83aa1eb94b5190db3c4ea8e6a0e # Slipknot > All Hope Is Gone > Sulfur
+lib:84b83c8570d399e3d72ad7406139fccc # Slipknot > All Hope Is Gone > Psychosocial
+lib:e58c2ae2871510df664dc770c49405c3 # Slipknot > All Hope Is Gone > Dead Memories
+lib:45c512fc9a885cd80d6633f2e435735f # Slipknot > All Hope Is Gone > Vendetta
+lib:5e429886391822c02e3a55564a8bbb76 # Slipknot > All Hope Is Gone > Butcher's Hook
+lib:853f60efd396cda68a144980200570f9 # Slipknot > All Hope Is Gone > Gehenna
+lib:01d8b8ce482c7699c73b2ffd87202ee5 # Slipknot > All Hope Is Gone > This Cold Black
+lib:1548e0c94c1be449aa36eed70660aa3f # Slipknot > All Hope Is Gone > Wherein Lies Continue
+lib:677def330a3c01435a2a91ff4520c2e7 # Slipknot > All Hope Is Gone > Snuff
+lib:175318ca38bbf748b5e4f1e95f61a100 # Slipknot > All Hope Is Gone > All Hope Is Gone
+lib:84a13d46a55dc34b280803c967a18b74 # Slipknot > All Hope Is Gone > Child Of Burning Time
+lib:d4436b75993eee4c7cd28ce22eaf86c8 # Slipknot > All Hope Is Gone > Vermillion Pt.2 (Bloodstone Mix)
+lib:00a62528aefde8fe53dba930787a29fa # Slipknot > All Hope Is Gone > 'til We Die
+lib:2e51c6e6838a7c08b09c0b89c53ce5db # Slipknot > Iowa > (515)
+lib:2e63676c94e831f420a0292db1c5f066 # Slipknot > Iowa > People=Shit
+lib:b7ad664ccefcab803e13c4cd9873d950 # Slipknot > Iowa > Disasterpiece
+lib:3bc2c97af7d07361c037460d7d006773 # Slipknot > Iowa > My Plague
+lib:8681ee2120461131c72007b26a398c12 # Slipknot > Iowa > Everything Ends
+lib:b0879baddd8908074552b81317e6c04f # Slipknot > Iowa > The Heretic Anthem
+lib:c599a0cb5d71cf9b0e26667ff8d533c8 # Slipknot > Iowa > Gently
+lib:f1fc319e5dda88b3b53f5869fb679642 # Slipknot > Iowa > Left Behind
+lib:f364a17c7313d00ffde14751a5491869 # Slipknot > Iowa > The Shape
+lib:93ef1c9b96008a8b9ebef96b7acd97d2 # Slipknot > Iowa > I Am Hated
+lib:2a5b610746fe629a99adea47a46d9280 # Slipknot > Iowa > Skin Ticket
+lib:8505e620cf5b7f228fefea006f73859e # Slipknot > Iowa > New Abortion
+lib:dc0533edd3fbdcde758ee1c1de51a92f # Slipknot > Iowa > Metabolic
+lib:dacd4b3020d6e8a35812b36a044bb958 # Slipknot > Iowa > Iowa
+lib:49e41ab33c79a587cdda94109889876b # Slipknot > Slipknot > 74261700027
+lib:831a051bd905cf5932d0f62670966103 # Slipknot > Slipknot > (Sic)
+lib:6d8381e236c4b63b034d2ede1c80ffdf # Slipknot > Slipknot > Eyeless
+lib:40a9c5c5f0ab966a2399a65a450c3dda # Slipknot > Slipknot > Wait And Bleed
+lib:d7e1741e797ade9158a22e3e7fcd9c45 # Slipknot > Slipknot > Surfacing
+lib:032602318f36d494a8cbd10a02a02d1d # Slipknot > Slipknot > Spit It Out
+lib:e06cb5229a6a1e29df6f18dd3dd93885 # Slipknot > Slipknot > Tatterred And Torn
+lib:ccb492eca83b16e6e04c09271909e023 # Slipknot > Slipknot > Me In Side
+lib:b72f7730a18f371dbf20b3e1beabd690 # Slipknot > Slipknot > Liberate
+lib:d17c09c5ea5267ce95143e5c6c360093 # Slipknot > Slipknot > Prosthetics
+lib:4b85758b7d3340cecc05398230ebd097 # Slipknot > Slipknot > No Life
+lib:773f11c7c0b17484ff3ddd212b7ed1a0 # Slipknot > Slipknot > Diluted
+lib:4df425832900e06ff28f5e07ef2545bd # Slipknot > Slipknot > Only One
+lib:f706a4cd4c1eff2845e14998c532603c # Slipknot > Slipknot > Scissors
+lib:a18ddd64f393edbd8887c7857785c96b # Slipknot > Vol. 3: The Subliminal Verses > Prelude 3.0
+lib:036c778d905d9371a2663225e3c420be # Slipknot > Vol. 3: The Subliminal Verses > The Blister Exists
+lib:4e5e93e97d47fe011d7fdd4ef430237c # Slipknot > Vol. 3: The Subliminal Verses > Three Nil
+lib:25e15389463fb27a437a8f4264a0e996 # Slipknot > Vol. 3: The Subliminal Verses > Duality
+lib:734b0f91d7da36864a5b8c8b0adde136 # Slipknot > Vol. 3: The Subliminal Verses > Opium Of The People
+lib:5a46997f42e360c2af846b15d8304539 # Slipknot > Vol. 3: The Subliminal Verses > Circle
+lib:23cbf8bf325a5f6a6c328fe9bd7b192e # Slipknot > Vol. 3: The Subliminal Verses > Welcome
+lib:e8a38d6c870d7805bb621a18b5b6ad66 # Slipknot > Vol. 3: The Subliminal Verses > Vermilion
+lib:8d86c2c65f1bd824083dafaf71d38b04 # Slipknot > Vol. 3: The Subliminal Verses > Pulse Of The Maggots
+lib:93c4c3472bed2f52ea2dc0dc5703226b # Slipknot > Vol. 3: The Subliminal Verses > Before I Forget
+lib:cb4e4fb23de5200549f1d79f3f71fd18 # Slipknot > Vol. 3: The Subliminal Verses > Vermilion Pt. 2
+lib:a00dbe97891035a5b94dfd61f1c7270f # Slipknot > Vol. 3: The Subliminal Verses > The Nameless
+lib:779de69ce1323f540d5734ae040887af # Slipknot > Vol. 3: The Subliminal Verses > The Virus Of Life
+lib:e90d235e135c62814f10f3f09cbd7a5e # Slipknot > Vol. 3: The Subliminal Verses > Danger - Keep Away
+lib:aedf027cd7bc5f1fbb42af6dc69c0e3d # Snot > Get Some > Snot
+lib:bd2728f105f58c3326dc7a419207ac1c # Snot > Get Some > Stoopid
+lib:941753b7197363816569a89b93c5e7bc # Snot > Get Some > Joy Ride
+lib:261dd3d4b6ab9250e420060a8fc71520 # Snot > Get Some > The Box
+lib:5765073593c53d625ec18877975657a3 # Snot > Get Some > Snooze Button
+lib:5d441c0bb8c87e375abdf78a4f2c3cef # Snot > Get Some > 313
+lib:de6071e3b7d420b0cbb5656663f00d27 # Snot > Get Some > Get Some
+lib:309abc85cd27ee92c4c52fcd5af5acf4 # Snot > Get Some > Deadfall
+lib:4872bbc1276db7490f196f864f1a1f5f # Snot > Get Some > I Jus' Lie
+lib:ad86d548923ed26220cf030885f5683f # Snot > Get Some > Get Some o'Deez
+lib:52cf631360fc5f2fa8b441223498e72c # Snot > Get Some > Unplugged
+lib:df2e58b7b96d362f4fca8cfb66d04766 # Snot > Get Some > Tecato
+lib:8d26fda4f1d986b5da4053a65f775cb8 # Snot > Get Some > Mr. Brett
+lib:bd72121891c03dcd65ff6b611dbc160c # Snot > Get Some > Get Some Keez
+lib:eeface6f1c8faaaf6579bf9190d30557 # Snot > Get Some > My Balls
+lib:df794378a2996729809aa1797601fbd1 # Sol Hess & The Sympatik's > Hanadasan > Silver Dust
+lib:9cb9d3d2ac5e998d35ff4894042c458e # Sol Hess & The Sympatik's > Hanadasan > (To Star In A) Silent Movie
+lib:7dffd743fff1a75a5c684d51ed4af8bb # Sol Hess & The Sympatik's > Hanadasan > Twinkle Twinkle Sparkleball
+lib:d43edf8a522037146d4e4a8641217b2a # Sol Hess & The Sympatik's > Hanadasan > Kiss Me
+lib:b60b314350d8b9e2c4bc97a02362f51e # Sol Hess & The Sympatik's > Hanadasan > Mounak
+lib:2225455ae095c474484976c081174f42 # Sol Hess & The Sympatik's > Hanadasan > Meat For The Captain
+lib:58ea1f57b631a7d637a99e7301ea2f64 # Sol Hess & The Sympatik's > Hanadasan > Chlorophyll
+lib:34859ff346f6f0b232e0ff101ca45a1b # Sol Hess & The Sympatik's > Hanadasan > Hanadasan
+lib:83ac3d02b51e45ffdb3cad9ae39dd08c # Sol Hess & The Sympatik's > Hanadasan > Old Man Wilson
+lib:7f76cd16f255d769d2096b618103bf68 # Sol Hess & The Sympatik's > The Things We Know > Song For Lydia
+lib:ab62186d02abe9dbab1fc07ce3a104ef # Sol Hess & The Sympatik's > The Things We Know > Away From The Heat
+lib:631a00e92dfd98356c0b7c7635a08336 # Sol Hess & The Sympatik's > The Things We Know > Ducks
+lib:7c2e2f4f77c22a12dd7aa019ca4c4c44 # Sol Hess & The Sympatik's > The Things We Know > I Who Have Nothing
+lib:79491e9651c3e3e2cdbadb1094e3905e # Sol Hess & The Sympatik's > The Things We Know > The Lavender, The Chestnuts And The Radio
+lib:32ec912b41c178526d8175e5b603b024 # Sol Hess & The Sympatik's > The Things We Know > Giant Holes In The Snow
+lib:a293b00c1f7fe0c38e1869fa74931339 # Sol Hess & The Sympatik's > The Things We Know > The Wine On Your Breath
+lib:aafcce5d11620038246cca43e40e934f # Soulfly > Dark Ages > The Dark Ages
+lib:336413101bb4e51ec3ecf2f98f3258fb # Soulfly > Dark Ages > Babylon
+lib:f043f69fec731c6d3109758680d0ad23 # Soulfly > Dark Ages > I And I
+lib:b8ddcfa4fe6d0a3635998ac82786d87d # Soulfly > Dark Ages > Carved Inside
+lib:f5524995fb59986f3aeb726b61b4b8cc # Soulfly > Dark Ages > Arise Again
+lib:c752000dfdd6657464f1601f74657700 # Soulfly > Dark Ages > Molotov
+lib:dad3352b9f7d6b76fc97f32fbb5a1482 # Soulfly > Dark Ages > Frontlines
+lib:ba71e92ce76c16ec961e7e800a776a62 # Soulfly > Dark Ages > Innerspirit
+lib:8b6db7d77d727e50affcb32bd87a544d # Soulfly > Dark Ages > Corrosion Creeps
+lib:791bdbcd86fffe48225879e02cc3dbac # Soulfly > Dark Ages > Riotstarter
+lib:10e2030d80ba3aa11136d7406b6fddc9 # Soulfly > Dark Ages > Bleak
+lib:cf37f4d842d45d191bcc10bc84eb7199 # Soulfly > Dark Ages > Fuel The Hate
+lib:5b47460792ac065b26af0d8e23840387 # Soulfly > Dark Ages > Staystrong
+lib:100f4a03f4cbbce3f9809c1fd64d4ce3 # Soulfly > Dark Ages > Soulfly V
+lib:94924722d0d905e37a35aa419ffb9028 # Soulfly > Primitive > Back To The Primitive
+lib:7e1e1e2bef4c4489e59dcdd335443edf # Soulfly > Primitive > Pain
+lib:f2c98a399864924fbc8b8b26a57b94b4 # Soulfly > Primitive > Bring It
+lib:b1d648ac29f78cbdbe183467409c7c56 # Soulfly > Primitive > Jump Da Fuck Up
+lib:e68b3b8a7aab5b2ed2d0e525f3b7ccc3 # Soulfly > Primitive > Mulambo
+lib:7c00cf82f8158bed43cd7b2af85975d5 # Soulfly > Primitive > Son Song
+lib:16c2527dd469616b38634e6d0779beae # Soulfly > Primitive > Boom
+lib:803c24fd0e7d7291bf11e4dbec3a8ad0 # Soulfly > Primitive > Terrorist
+lib:0e46fdb0c4b05b0edc1e32d46ee89c58 # Soulfly > Primitive > The Prophet
+lib:4fef38d5ce7b1a567014e63c1fadc717 # Soulfly > Primitive > Soulfly II
+lib:4b6db13c9710dd584328d7c73165631f # Soulfly > Primitive > In Memory Of...
+lib:1e9087c7ce27328ce01b5dc39a974d8d # Soulfly > Primitive > Fly High
+lib:778e230b7b3bdcfe76c7f2d1380b490c # Soulfly > Prophecy > Prophecy
+lib:bc26e2e4c04122c9fb8f40b27bca10ca # Soulfly > Prophecy > Living Sacrifice
+lib:8ecb8a426d16f943e91d6f53827d21fb # Soulfly > Prophecy > Execution Style
+lib:386b7cbefdd5b4be4d727dbee73cb7a7 # Soulfly > Prophecy > Defeat U
+lib:7478fdd36b28a931507f396736621cec # Soulfly > Prophecy > Mars
+lib:5d72556b1020542873bb62924886b83f # Soulfly > Prophecy > I Believe
+lib:42dd20d6e4d357b6724a03b4c76ef7bc # Soulfly > Prophecy > Moses
+lib:21b6625b2190000c06f7d93b1671c097 # Soulfly > Prophecy > Born Again Anarchist
+lib:2ade0ef16a4066cd4cd1b1c5b982be98 # Soulfly > Prophecy > Porrada
+lib:8d2bf4c4a221f739eadca0c99f97678f # Soulfly > Prophecy > In The Meantime
+lib:dcaf1e7c81fa81090bf9ec8c63d7593e # Soulfly > Prophecy > Soulfly IV
+lib:f6692f27f1a7a81b0f2c2a8e6c875350 # Soulfly > Prophecy > Wings
+lib:65002bb7a684a0478cc97b056f8bcc02 # Squirrel Nut Zippers > Hot > Got My Own Thing Now
+lib:c8d60639dcc0f355d38152972d820011 # Squirrel Nut Zippers > Hot > Put A Lid On It
+lib:15e574d3fc31b74e489b10bf13f8d0b9 # Squirrel Nut Zippers > Hot > Memphis Exorcism
+lib:9e020bf61b6decdb14015cd7bd7cfda9 # Squirrel Nut Zippers > Hot > Twilight
+lib:a19010970395468f6a3b886f43e7119a # Squirrel Nut Zippers > Hot > It Ain't You
+lib:b5924712b7b7dba748fc04622583e409 # Squirrel Nut Zippers > Hot > Prince Nez
+lib:701681b66b809d5e8352f62cb07bc0ae # Squirrel Nut Zippers > Hot > Hell
+lib:0553ec808efaa7245ac48383ec129542 # Squirrel Nut Zippers > Hot > Meant To Be
+lib:ce050350a11e38fe08296aec5957902b # Squirrel Nut Zippers > Hot > Bad Businessman
+lib:04c851da14dadddd994a3b1153106d91 # Squirrel Nut Zippers > Hot > Flight Of The Passing Fancy
+lib:179bd3d0320b953be4d09ee6e0765020 # Squirrel Nut Zippers > Hot > Blue Angel
+lib:b1bde1f2f24aca9ad0bac623f160b832 # Squirrel Nut Zippers > Hot > The Interlocutor
+lib:854da0939001dacc780cb5723f680b19 # St. Germain > Tourist > Rose Rouge
+lib:cefe39dcddc6a47d8a61a107990c578f # St. Germain > Tourist > Montego Bay Spleen
+lib:b27ed09af2e29641defe352fdb9bbefb # St. Germain > Tourist > So Flute
+lib:30bb28117514f771a9af44278a3e9e29 # St. Germain > Tourist > Land Of...
+lib:ec3952a5113fdbcb6cf6deba1b691cdb # St. Germain > Tourist > Sure Thing
+lib:2a555ecc40af1818c09ebc360a248753 # St. Germain > Tourist > Pont Des Arts
+lib:cf64b34f580e0c47d87314de7d386e44 # St. Germain > Tourist > La Goutte D'Or
+lib:a5bc5a06ce4b05ce9fea7ebf3b0fc054 # St. Germain > Tourist > What You Think About...
+lib:5e8a854f43bd3150705fd8e3f6600a77 # Stahlhammer > Wiener Blut > Can't Touch This
+lib:2d9c6ba4d2c6084655119d48260837af # Stan Getz & João Gilberto > Getz/Gilberto > The Girl From Ipanema
+lib:8a5c37ef5133b6762f98e38c8e71fed9 # Stan Getz & João Gilberto > Getz/Gilberto > Doralice
+lib:bebfbfcc14a9cf7ac04cde6a390101c0 # Stan Getz & João Gilberto > Getz/Gilberto > Para Machuchar Meu Coração
+lib:ab87cc3e665d39e56853eb29fd87631a # Stan Getz & João Gilberto > Getz/Gilberto > Desafinado
+lib:e3637a5f45a781f972709f3e1313bfcf # Stan Getz & João Gilberto > Getz/Gilberto > Corcovado (Quiet Nights Of Quiet Stars)
+lib:b2b4918a2281605965891f0c4b771866 # Stan Getz & João Gilberto > Getz/Gilberto > So Danco Samba
+lib:d393f416f95e943d22728759caa9d56e # Stan Getz & João Gilberto > Getz/Gilberto > O Grande Amor
+lib:483d08675aecb7d8c11c1b3d83022118 # Stan Getz & João Gilberto > Getz/Gilberto > Vivo Sonhando
+lib:85a75f20970f9d41cd8659f5cf92fa81 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Self Destruct
+lib:855feccc43855c770dcca7e07c2c480d # Suicidal Tendencies > Free Your Soul...And Save My Mind > Su Casa Es Mi Casa
+lib:ca37090457a34bafd23a6676da9d1dc4 # Suicidal Tendencies > Free Your Soul...And Save My Mind > No More No Less
+lib:efedf2811cd7995c6a512b3dd86d7aa4 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Free Your Soul...And Save My Mind
+lib:130630aaabd3561c17496219712f3d8c # Suicidal Tendencies > Free Your Soul...And Save My Mind > Pop Song
+lib:60ff8b7b921e1798f3ff1b2174be430b # Suicidal Tendencies > Free Your Soul...And Save My Mind > Bullenium
+lib:9cd4e5f9b78aa34a9ad17dd47b60c533 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Animal
+lib:57328a10fd4057a131346f3b2271c5d0 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Straight From The Heart
+lib:d52164fdfe1d280d155cdb46c13dbf3d # Suicidal Tendencies > Free Your Soul...And Save My Mind > Cyco Speak
+lib:df8735dc1d332ca07b2c4d954ebe765b # Suicidal Tendencies > Free Your Soul...And Save My Mind > Start Your Brain
+lib:8d1afb6d62e7aca3f8675b54212a98e6 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Public Dissension
+lib:14eb4c83e9feec49cf349c2d107ad1ba # Suicidal Tendencies > Free Your Soul...And Save My Mind > Children Of The Bored
+lib:ddeeb8138c32b7e4eca5622e6cda8fd0 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Got Mutation
+lib:96050463364219518bbc672cfa30d8be # Suicidal Tendencies > Free Your Soul...And Save My Mind > Charlie Monroe
+lib:293337f83d835418c54f9a9f94dc54e1 # Suicidal Tendencies > Free Your Soul...And Save My Mind > Home
+lib:6627a2da73c705ad88e759fffd8621e1 # Suicidal Tendencies > Suicidal For Life > Invocation
+lib:1ce432546ab10aa17331031faaa64187 # Suicidal Tendencies > Suicidal For Life > Don't Give A Fuck
+lib:26d5e5b6e5cadaf27261d591a0ccde4e # Suicidal Tendencies > Suicidal For Life > No Fuck'n Problem
+lib:90c496f8802014fe75be1007847c5822 # Suicidal Tendencies > Suicidal For Life > Suicyco Muthafucka
+lib:56abe7050a5ee3dc03a57d638e6991ee # Suicidal Tendencies > Suicidal For Life > Fucked Up Just Right!
+lib:e6ad43f5e29c8203b671727dc505f0f4 # Suicidal Tendencies > Suicidal For Life > No Bullshit
+lib:8f6494f483f3ac3affe334557dee2ec6 # Suicidal Tendencies > Suicidal For Life > What Else Could I Do
+lib:18ed29993584acee25c4aa1575c03a16 # Suicidal Tendencies > Suicidal For Life > What You Need's A Friend
+lib:02514176f31a01387ceb555dff4e1157 # Suicidal Tendencies > Suicidal For Life > I Wouldn't Mind
+lib:624d2c69be73569ffe12183132972267 # Suicidal Tendencies > Suicidal For Life > Depression And Anguish
+lib:832dd55c9ce36d5550d5da0ebed929a0 # Suicidal Tendencies > Suicidal For Life > Evil
+lib:81aa5a886335844cc86e84373235f94a # Suicidal Tendencies > Suicidal For Life > Love VS. Loneliness
+lib:6cffc8f18fc7c0f945d4c09a8258c167 # Suicidal Tendencies > Suicidal For Life > Benediction
+lib:71962d5824624f63d9e66fa71c1eaee6 # Svinkels > Bons Pour L'Asile > Ca Recommence
+lib:90a0715bcad781781d07b44c17d7bb2d # Svinkels > Bons Pour L'Asile > Le Svink C'est Chic
+lib:e4f769cffd7580d16c6e87eedb487b30 # Svinkels > Bons Pour L'Asile > De La Came Sous Le Saphir
+lib:d86ff18fc2d906e20e06e13ae19bc6e3 # Svinkels > Bons Pour L'Asile > Ca N'sert À Rien
+lib:82daf84ade022676ff157878ae613cff # Svinkels > Bons Pour L'Asile > Happy Hour
+lib:0090d9dce0fd4533570460b230c23331 # Svinkels > Bons Pour L'Asile > Ma Musique
+lib:64ae1ad7ba20844ff34031ab975dd234 # Svinkels > Bons Pour L'Asile > Bricolage
+lib:829653c2713b2a9c929aa361e3e7c258 # Svinkels > Bons Pour L'Asile > Dizy (Qu'il Est Fini)
+lib:c8a21bcf6af40106ed10b1372c8fc356 # Svinkels > Bons Pour L'Asile > Le Corbeau
+lib:d3c84a880a8017d2c5beab60abd59235 # Svinkels > Bons Pour L'Asile > Plutôt Mourir
+lib:0322a807b82ffa025ff3b2a26b91573c # Svinkels > Bons Pour L'Asile > L'internazionale
+lib:3d0d9282c81a12b905eb1844b8dcd356 # Svinkels > Bons Pour L'Asile > Hard Amat'
+lib:4b147751d91662cf19b9e914b58898e5 # Svinkels > Bons Pour L'Asile > Vite Fait, Mal Fait
+lib:4a3b8a66aa3c9766a144942e6d7aa423 # Svinkels > Bons Pour L'Asile > Série Noire
+lib:83c7c01858b4ef4ef950dc1436176719 # Svinkels > Bons Pour L'Asile > Le Plancher M'appelle
+lib:fb043deec571e034b0585b286408972d # Svinkels > Dirty Centre > Le Club De L'Apocalypse
+lib:832adb50f42af408a0a50d19e8ee3ef6 # Svinkels > Dirty Centre > Droit Dans Le Mur
+lib:cd43e5b9bc3e3396e13458014d549af7 # Svinkels > Dirty Centre > Faites Du Bruit
+lib:119ac2989a41ddfc50d5f72a7e598de8 # Svinkels > Dirty Centre > Du PQ (Pour Mon Trou-Trou)
+lib:e666cfc22d453fbc809d2abbc60b28ee # Svinkels > Dirty Centre > La Ferme
+lib:3056123c5f10fbc2acc9acd1229297a6 # Svinkels > Dirty Centre > La Youte
+lib:64898b7d5b383e905ef4374de10f4083 # Svinkels > Dirty Centre > Dirty Centre
+lib:f0bd9ae8824c7aca76258b933e2a1e18 # Svinkels > Dirty Centre > C'est Des Cons
+lib:3e45123b388ebbe7e2ee70f719d9043a # Svinkels > Dirty Centre > Ultras Festifs
+lib:676900ebd936777f63cca59e68903581 # Svinkels > Dirty Centre > La Fugue (Serie Noire II)
+lib:16817a8c2eebed3390b9918cea28aa03 # Svinkels > Dirty Centre > Tout Nu Yo !
+lib:6d035184bac60e9c228a3b00d1c29056 # Svinkels > Dirty Centre > Le Blues Du Tox
+lib:bb3e5a1a50e6d70637bb9e60fbaa501f # Svinkels > Dirty Centre > On Ferme
+lib:ae1777f6de6adae0b22e908386e6d5d6 # Svinkels > Tapis Rouge > Boule Puante
+lib:3409ac79b0537e9cec7958f8bdb90f61 # Svinkels > Tapis Rouge > Front Contre Front
+lib:e6d184898d2da8c5828e0b29038add8e # Svinkels > Tapis Rouge > Le Twist
+lib:89b1c11d576c9aedf80145fbefe6da82 # Svinkels > Tapis Rouge > Calmos
+lib:49c7bc68589375820b6fc1d6a751a58d # Svinkels > Tapis Rouge > Bois Mes Paroles
+lib:a6f02eb7c354d0a781d0dac42af17fb4 # Svinkels > Tapis Rouge > À Coups De Santiag
+lib:4577d28cab36e1ea95890ea3da2f0820 # Svinkels > Tapis Rouge > Krevard
+lib:b62a30f7891dcd62e87a2492775c362c # Svinkels > Tapis Rouge > Tapis Rouge
+lib:66cc07d2b3d43ac9dc9c2596d9ff73ee # Svinkels > Tapis Rouge > Cuitas
+lib:1b8edb94ef689ff1c4b448f2bd492ee8 # Svinkels > Tapis Rouge > Mappe Monde
+lib:918f4f7f2f2243b1aa2b2801c6f48c8f # Svinkels > Tapis Rouge > H
+lib:4151e5a3c875cef184c2272a968e33ab # Svinkels > Tapis Rouge > Intro Réveille Le Punk
+lib:9daa13542274eba7fa117eff856248a1 # Svinkels > Tapis Rouge > Réveille Le Punk (Full Metal Mix)
+lib:3172b71fe55a4200b2b2293b6fa3a3e3 # Svinkels > Tapis Rouge > La Mahoudière
+lib:f0797712b165508d51f9596975ebf3e7 # Svinkels > Tapis Rouge > C-Real Killer (Munich 1999) (featuring Tramber)
+lib:f873c96af0354b0c0c3fcc7360bb8fd3 # Testament > Demonic > Demonic Refusal
+lib:932d7e3785ada08875d799741a9238ec # Testament > Demonic > The Burning Times
+lib:9e7129f82ae300739234d92f32e6ba0a # Testament > Demonic > Together As One
+lib:ff383281a8a8ca312cd16f574a257c48 # Testament > Demonic > Jun-Jun
+lib:d30103577604738b1c49449a5c4860b6 # Testament > Demonic > John Doe
+lib:cc66b4e256401b72a27d893260e4c285 # Testament > Demonic > Murky Waters
+lib:78073c6b1ae8f141813ad4e307464490 # Testament > Demonic > Hatreds Rise
+lib:9bc78d49e4fd26d3bb27351e71b2005a # Testament > Demonic > Distorted Lives
+lib:0bec6c3746b42d92e21ae83926908f5e # Testament > Demonic > New Eyes Of Old
+lib:a9f2045cbc2fcfd3e69632cc5e2b80e8 # Testament > Demonic > Ten Thousand Thrones
+lib:b9cb4170c99cd128ec3c49d189a8d124 # Testament > Demonic > Nostrovia
+lib:11ac04d71818bad5f0359e9fbca81da8 # Thompson Twins > Ghostbusters > In the Name of Love
+lib:e4150b0ac3a2a4b6d08672555245c7d7 # Throwdown > Vendetta > We Will Rise
+lib:e7535efabd6d39e2185c9b0b349bb79f # Throwdown > Vendetta > Speak The Truth
+lib:341d00f47093a1dc444d3401d5184b92 # Throwdown > Vendetta > Vendetta
+lib:fccfc5976d3a1af0ad8ce1e9115304e8 # Throwdown > Vendetta > Burn
+lib:d9c8b6a4e3a94a1cb767130ef0f43615 # Throwdown > Vendetta > Discipline
+lib:20f681d7c9d75611a6be2e39505bed2d # Throwdown > Vendetta > To Live Is To Sacrifice
+lib:1218f0d425a2d1056b6b246d32daaeef # Throwdown > Vendetta > Give My Life
+lib:f1212014b9b7b90cd40ea4ac6dfac385 # Throwdown > Vendetta > The World Behind
+lib:7f73ef1682553b3fd9ccadaffaf0fba1 # Throwdown > Vendetta > Shut You Down
+lib:f6011109fc7d9251db7b2f1659e4373e # Throwdown > Vendetta > Annihilation (N.W.D.)
+lib:49a2b1ca8d661a10a603d00b986174d9 # Throwdown > Vendetta > The Is Where It Ends
+lib:15f5df93e7eb873d32b2c1819551726f # Trapped In Freedom > Six Frites Under > Chicken Fighter
+lib:4081bfba4f0d8b7758dbbde2527311ca # Trapped In Freedom > Six Frites Under > Hangover
+lib:d1a259b4b6699117723b5153fd43ffab # Trapped In Freedom > Six Frites Under > Perpendicular Highway
+lib:004d351dfdfdc3561c458df261b61e96 # Trapped In Freedom > Six Frites Under > This Cumshot is your Gift
+lib:caea9aac6b2899726b0daf66e7ca4741 # Trapped In Freedom > Six Frites Under > Craddle of Fist
+lib:375bfc14467e32b323b24762832980bc # Trapped In Freedom > Six Frites Under > Incoming
+lib:88186484082130c5765f30b1b792a843 # Trivium > Kerrang! Remastered: Metallica's Master Of Puppets Revisited > Master Of Puppets
+lib:414348214a92f22dca57d405100d7df6 # Unknown Artist > Songs for the Deaf > Traccia 15
+lib:6be9947132c6fe6f55302797cce35bb7 # Various Artists > Strait Up: A Tribute To Lynn Strait > Starlit Eyes
+lib:eba6d1103f44b006c6a1457ff8688e7f # Various Artists > Strait Up: A Tribute To Lynn Strait > Take It Back
+lib:1dca150226bf264b216e61137b8c57ac # Various Artists > Strait Up: A Tribute To Lynn Strait > I Know Where You're At
+lib:154d05afa2a5e2d3b503ee5d42cad2f1 # Various Artists > Strait Up: A Tribute To Lynn Strait > Catch A Spirit
+lib:d4f750bb5a06a4dfdf44c61c10dc60ef # Various Artists > Strait Up: A Tribute To Lynn Strait > Until Next Time
+lib:65022b55d26bf403a8e09918da677b4a # Various Artists > Strait Up: A Tribute To Lynn Strait > Divided (An Argument For The Soul)
+lib:f89e21ecc3f9b013b035ddbe5beb47b4 # Various Artists > Strait Up: A Tribute To Lynn Strait > Forever
+lib:0f1bac9e50b75d106ad96e8f54f286aa # Various Artists > Strait Up: A Tribute To Lynn Strait > Funeral Flights
+lib:d578517ec26bc6206813188fb24c96b9 # Various Artists > Strait Up: A Tribute To Lynn Strait > Requiem
+lib:ce23a49ad0df30e9c85b98e67e5b52cd # Various Artists > Strait Up: A Tribute To Lynn Strait > Absent
+lib:827b6673c74c9c9c5fafcefe632b8b10 # Various Artists > Strait Up: A Tribute To Lynn Strait > Sad Air
+lib:10f05b436af7c64e0ec5aa3f329c9f5d # Watcha > Veliki Cirkus > Sam 2
+lib:a6c628e34525f3b45d3625bf9a9dc670 # Watcha > Veliki Cirkus > Cupide
+lib:cb4880cb6ca1f5a09c0cc7a0ce0cc996 # Watcha > Veliki Cirkus > 101 Radio Racket
+lib:5d9ba76e80cf55054f216c63731b983e # Watcha > Veliki Cirkus > Clash
+lib:f69fd841cd0a82d2772d9551ff35a5ee # Watcha > Veliki Cirkus > Www.A/Grave/Pas/Mon/K@
+lib:3e5a1c802fc1e8d2353914c0e3fd4864 # Watcha > Veliki Cirkus > Hard Core 100% Fluor
+lib:39e5c281a690b249b0d39856577fb0d2 # Watcha > Veliki Cirkus > Veliki Cirkus
+lib:95afb258b51d1a3a9c1c13a92a4aa3ee # Watcha > Veliki Cirkus > Egalamonego
+lib:9a1c82569b7954470b7aa8f2cace0bd6 # Watcha > Veliki Cirkus > Sofa Masta
+lib:aa3d74e374b89212c91193e3ef8a8783 # Watcha > Veliki Cirkus > Tambata
+lib:42b20d7de4a90ab6d93034b407e29a35 # Watcha > Veliki Cirkus > Dead Man (Is A Good Man)
+lib:23fba5b876cfc275d3d1648fd9ae4be1 # Watcha > Veliki Cirkus > New Brutal Fonk
+lib:33d855cb8f2b4ca53f72f8907e2a4382 # Watcha > Veliki Cirkus > New Brutal End
+lib:dfa38ddbc39fbd1c73547db8f04733c9 # Watcha > Watcha > X-Mass
+lib:0d9f257ad5f397a16ead0b52e74921c2 # Watcha > Watcha > Méchant Flou
+lib:b6da397fb1dd4f25c840dfe6c10cf938 # Watcha > Watcha > Concrete Lie
+lib:a484a96efd976fdccfc2336dc48f07c3 # Watcha > Watcha > A qui la faute
+lib:04e589f6776e02c6e26cbd6cd35a4a71 # Watcha > Watcha > Sam
+lib:a48c382690fcd4249db7739eb4544096 # Watcha > Watcha > Kayanamasha
+lib:ea70c255157c236aec2dc714862e11f3 # Watcha > Watcha > Indigestion
+lib:f5a5a4c2e910a594e173008bdc79b3c0 # Watcha > Watcha > Mesaidaboom
+lib:f230755fe76e1ead9f2b6416f150d696 # Watcha > Watcha > Machine à sang
+lib:9912782f6c221decb22ae031a57afb63 # Watcha > Watcha > II II I IV II I I IV I
+lib:a6b170f001bdd58764afa92d477bfb06 # Watcha > Watcha > Tout pourrit
+lib:416b9aee8a1e1f980cc85e3fb8492e01 # Watcha > Watcha > Paranoïa
+lib:c3373511e0b3b2ebac766b96e77bc9a6 # Watcha > Watcha > Fun at all
+lib:aacf742413040c092fc9e971d9e787e8 # Watcha > Watcha > Elle dort
+lib:a09a8c0ba3705eae5e3e81a9c3041c7c # Will Smith > Greatest Hits > The Fresh Prince Of Bel-Air
+lib:58ad147028df4d503342c097ab6e8762 # Yeti > Comprend qui peut (Boby Lapointe repiqué) > La maman des poissons
+lib:c8fc8666560d0397c6caccc985635a0f # Yeti > Comprend qui peut (Boby Lapointe repiqué) > Léna
+lib:2fa8ef8f3ae4526b6f21580348851f01 # Yeti > Comprend qui peut (Boby Lapointe repiqué) > Bobo Léon
